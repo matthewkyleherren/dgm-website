@@ -1937,53 +1937,6 @@
                                                         }),
                                                 }),
                                                 (0, n.jsx)("div", {
-                                                    ref: L,
-                                                    className:
-                                                        "absolute left-0 top-0 w-full h-full z-3 pointer-events-none",
-                                                    children:
-                                                        r.primary.middle_image
-                                                            .url &&
-                                                        (0, n.jsx)("div", {
-                                                            className:
-                                                                "absolute left-0 top-0 w-full h-full z-3 pointer-events-none",
-                                                            children: F
-                                                                ? (0, n.jsx)(
-                                                                      N.Z,
-                                                                      {
-                                                                          loading:
-                                                                              "eager",
-                                                                          priority:
-                                                                              !0,
-                                                                          sizes: "100vw",
-                                                                          fallbackAlt:
-                                                                              "",
-                                                                          field: r
-                                                                              .primary
-                                                                              .middle_image_mobile,
-                                                                          className:
-                                                                              "w-full h-full object-cover object-[80%_center] xl:object-center",
-                                                                      },
-                                                                  )
-                                                                : (0, n.jsx)(
-                                                                      N.Z,
-                                                                      {
-                                                                          loading:
-                                                                              "eager",
-                                                                          priority:
-                                                                              !0,
-                                                                          sizes: "100vw",
-                                                                          fallbackAlt:
-                                                                              "",
-                                                                          field: r
-                                                                              .primary
-                                                                              .middle_image,
-                                                                          className:
-                                                                              "w-full h-full object-cover object-[80%_center] xl:object-center",
-                                                                      },
-                                                                  ),
-                                                        }),
-                                                }),
-                                                (0, n.jsx)("div", {
                                                     className:
                                                         "absolute px-container top-container w-full grid grid-cols-6 lg:grid-cols-12 mt-[6rem] xl:mt-0 z-2",
                                                     children: (0, n.jsxs)(
@@ -2100,70 +2053,70 @@
                                                         },
                                                     ),
                                                 }),
-                                                (0, n.jsxs)("div", {
-                                                    ref: k,
-                                                    className:
-                                                        "absolute left-0 top-0 w-full h-full z-4 pointer-events-none flex items-end",
-                                                    children: [
-                                                        (0, n.jsxs)("video", {
-                                                            ref: E,
-                                                            className:
-                                                                "w-full h-[70%] xl:h-full z-3 pointer-events-none object-cover object-[90%_center] xl:object-[bottom_center]",
-                                                            loop: !0,
-                                                            muted: !0,
-                                                            playsInline: !0,
-                                                            children: [
-                                                                r.primary
-                                                                    .foreground_video_mov &&
-                                                                    (0, n.jsx)(
-                                                                        "source",
-                                                                        {
-                                                                            type: "video/mp4;codecs=hvc1",
-                                                                            src: r
-                                                                                .primary
-                                                                                .foreground_video_mov
-                                                                                .url,
-                                                                        },
-                                                                    ),
-                                                                r.primary
-                                                                    .foreground_video_webm &&
-                                                                    (0, n.jsx)(
-                                                                        "source",
-                                                                        {
-                                                                            type: "video/webm",
-                                                                            src: r
-                                                                                .primary
-                                                                                .foreground_video_webm
-                                                                                .url,
-                                                                        },
-                                                                    ),
-                                                            ],
-                                                        }),
-                                                        r.primary
-                                                            .foreground_image
-                                                            .url &&
-                                                            (0, n.jsx)("div", {
-                                                                ref: R,
-                                                                className:
-                                                                    "absolute left-0 bottom-0 w-full h-[70%] xl:h-full",
-                                                                children: (0,
-                                                                n.jsx)(N.Z, {
-                                                                    loading:
-                                                                        "eager",
-                                                                    priority:
-                                                                        !0,
-                                                                    sizes: "100vw",
-                                                                    className:
-                                                                        "w-full h-full object-cover object-[90%_center] xl:object-center",
-                                                                    field: r
-                                                                        .primary
-                                                                        .foreground_image,
-                                                                    fallbackAlt:
-                                                                        "",
-                                                                }),
-                                                            }),
-                                                    ],
-                                                }),
+                                                // (0, n.jsxs)("div", {
+                                                //     ref: k,
+                                                //     className:
+                                                //         "absolute left-0 top-0 w-full h-full z-4 pointer-events-none flex items-end",
+                                                //     children: [
+                                                //         (0, n.jsxs)("video", {
+                                                //             ref: E,
+                                                //             className:
+                                                //                 "w-full h-[70%] xl:h-full z-3 pointer-events-none object-cover object-[90%_center] xl:object-[bottom_center]",
+                                                //             loop: !0,
+                                                //             muted: !0,
+                                                //             playsInline: !0,
+                                                //             children: [
+                                                //                 r.primary
+                                                //                     .foreground_video_mov &&
+                                                //                     (0, n.jsx)(
+                                                //                         "source",
+                                                //                         {
+                                                //                             type: "video/mp4;codecs=hvc1",
+                                                //                             src: r
+                                                //                                 .primary
+                                                //                                 .foreground_video_mov
+                                                //                                 .url,
+                                                //                         },
+                                                //                     ),
+                                                //                 r.primary
+                                                //                     .foreground_video_webm &&
+                                                //                     (0, n.jsx)(
+                                                //                         "source",
+                                                //                         {
+                                                //                             type: "video/webm",
+                                                //                             src: r
+                                                //                                 .primary
+                                                //                                 .foreground_video_webm
+                                                //                                 .url,
+                                                //                         },
+                                                //                     ),
+                                                //             ],
+                                                //         }),
+                                                //         r.primary
+                                                //             .foreground_image
+                                                //             .url &&
+                                                //             (0, n.jsx)("div", {
+                                                //                 ref: R,
+                                                //                 className:
+                                                //                     "absolute left-0 bottom-0 w-full h-[70%] xl:h-full",
+                                                //                 children: (0,
+                                                //                 n.jsx)(N.Z, {
+                                                //                     loading:
+                                                //                         "eager",
+                                                //                     priority:
+                                                //                         !0,
+                                                //                     sizes: "100vw",
+                                                //                     className:
+                                                //                         "w-full h-full object-cover object-[90%_center] xl:object-center",
+                                                //                     field: r
+                                                //                         .primary
+                                                //                         .foreground_image,
+                                                //                     fallbackAlt:
+                                                //                         "",
+                                                //                 }),
+                                                //             }),
+                                                //     ],
+                                                // }),
                                                 // (0, n.jsxs)("div", {
                                                 //   className:
                                                 //     "absolute left-0 bottom-[1.3rem] md:bottom-[2rem] w-full px-container flex justify-end grid-cols-12 z-5",
