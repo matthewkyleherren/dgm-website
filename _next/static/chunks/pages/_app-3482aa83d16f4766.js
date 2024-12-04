@@ -16410,7 +16410,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                       (0, s.jsxs)("div", {
                         ref: a,
                         className:
-                          "hidden relative xl:flex mobile:hidden w-[16.2rem] rounded-12 bg-white items-center lg:h-[6.6rem] opacity-0",
+                          "relative xl:flex mobile:hidden w-[16.2rem] rounded-12 bg-white items-center lg:h-[6.6rem] opacity-0",
                         onMouseEnter: () => tr(!0),
                         onMouseLeave: () => {
                           if (Q <= 1024) return;
