@@ -1036,7 +1036,7 @@
           return (0, n.jsx)("div", {
             ref: t,
             className:
-              "w-full bg-dark_beige sticky px-half-container-mobile md:px-half-container -mt-[100vh] h-[calc(100vh*4)] opacity-0",
+              "w-full bg-black sticky px-half-container-mobile md:px-half-container -mt-[100vh] h-[calc(100vh*4)] opacity-0",
             children: (0, n.jsxs)("div", {
               ref: l,
               className:

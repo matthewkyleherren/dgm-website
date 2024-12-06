@@ -149,7 +149,7 @@
             "items": [{}],
             "primary": {
               "text_alignment": "center",
-              "background_color": "Beige light",
+              "background_color": "Black",
               "content": [
                 {
                   "type": "paragraph",
@@ -313,7 +313,7 @@
             "items": [{}],
             "primary": {
               "text_alignment": "left",
-              "background_color": "Beige dark",
+              "background_color": "Black",
               "content": [
                 {
                   "type": "paragraph",
@@ -792,7 +792,7 @@
             "items": [],
             "primary": {
               "text_alignment": "center",
-              "background_color": "Beige light",
+              "background_color": "Black",
               "content": [
                 {
                   "type": "paragraph",
@@ -1066,7 +1066,7 @@
                 }
               }
             ],
-            "primary": { "background": "Beige light" },
+            "primary": { "background": "Black" },
             "id": "credibility$ca66f970-e0a8-47a4-ad25-44ead2406d47",
             "slice_type": "credibility",
             "slice_label": null
@@ -1077,7 +1077,7 @@
             "items": [{}],
             "primary": {
               "text_alignment": "left",
-              "background_color": "Beige dark",
+              "background_color": "Black",
               "content": [
                 {
                   "type": "paragraph",

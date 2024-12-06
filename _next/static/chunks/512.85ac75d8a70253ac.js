@@ -1853,7 +1853,7 @@
                             slicesLength: t.length,
                             children: (0, n.jsxs)("section", {
                                 ref: p,
-                                className: "relative bg-white",
+                                className: "relative bg-black",
                                 onMouseEnter: () => {
                                     A(1), D(!0);
                                 },
@@ -1870,7 +1870,7 @@
                                     }),
                                     (0, n.jsx)("div", {
                                         className:
-                                            "relative bg-light_beige z-1",
+                                            "relative bg-black z-1",
                                         children: (0, n.jsxs)("div", {
                                             ref: m,
                                             className:

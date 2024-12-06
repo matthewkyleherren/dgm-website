@@ -475,12 +475,12 @@ video {
 :root {
     --color-orange: 251 115 57;
     --color-white: 242 239 233;
-    --color-light-beige: 215 209 198;
-    --color-dark-beige: 163 155 139;
-    --color-dark-grey: 87 83 73;
+    --color-light-beige: 249 248 246;
+    --color-dark-beige: 249 248 246;
+    --color-dark-grey: 0 0 0;
     --color-black: 0 0 0;
     --color-real-white: 255 255 255;
-    --color-green: 60 66 53;
+    --color-green: 0 0 0;
     --color-grid: var(--color-orange);
 }
 *,
@@ -2247,7 +2247,7 @@ video {
 }
 .bg-green {
     --tw-bg-opacity: 1;
-    background-color: rgb(var(--color-green) / var(--tw-bg-opacity));
+    background-color: black;
 }
 .bg-light_beige {
     --tw-bg-opacity: 1;

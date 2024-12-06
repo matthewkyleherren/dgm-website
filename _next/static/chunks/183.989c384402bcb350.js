@@ -205,7 +205,7 @@
           style: { zIndex: u.length - d },
           ref: m,
           className:
-            "h-screen min-h-[600px] landscape:min-h-[950px] lg:!min-h-[600px] bg-dark_beige relative overflow-hidden",
+            "h-screen min-h-[600px] landscape:min-h-[950px] lg:!min-h-[600px] bg-black relative overflow-hidden",
           children: (0, n.jsx)("div", {
             ref: p,
             className: "wrapper origin-bottom w-full h-full overflow-hidden",

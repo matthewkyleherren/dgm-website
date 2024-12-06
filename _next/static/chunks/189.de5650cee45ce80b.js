@@ -468,7 +468,7 @@
           };
           return (0, l.jsx)("div", {
             ref: o,
-            className: "relative h-[300vh] bg-light_beige",
+            className: "relative h-[300vh] bg-black",
             children: (0, l.jsxs)("div", {
               className:
                 "sticky top-0 px-container grid grid-cols-6 lg:grid-cols-12 h-screen content-center overflow-hidden",
