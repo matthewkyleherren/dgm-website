@@ -16,30 +16,17 @@
       "data": {
         "slices": [
           {
-            "variation": "default",
+            "variation": "largeCoverDoubleTitle",
             "version": "initial",
-            "items": [{}],
+            "items": [],
             "primary": {
-              "title": [
-                {
-                  "type": "paragraph",
-                  "text": "en",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "guete!",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
+              "background_color": "Beige dark",
               "background_image": {
-                "dimensions": { "width": 2600, "height": 1558 },
+                "dimensions": { "width": 4000, "height": 2700 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/dgm-hero-desktop.webp",
-                "id": "ZSrvcPvZpFvOyBZP",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/3hero_d_bg.webp?auto=format,compress",
+                "id": "ZTAwi_vZpFvOyB2R",
                 "edit": {
                   "x": 0,
                   "y": 0,
@@ -48,54 +35,24 @@
                 }
               },
               "background_image_mobile": {
-                "dimensions": { "width": 1930, "height": 2913 },
+                "dimensions": { "width": 2545, "height": 5325 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/dgm-hero-mobile.webp",
-                "id": "ZS6ce_vZpFvOyBfV",
+                "url": "https://images.prismic.io/pebble-website/652e9bd6fbd9a45bcec817d3_rocksvertical2.png?auto=format,compress",
+                "id": "ZS6b1vvZpFvOyBfT",
                 "edit": {
                   "x": 0,
                   "y": 0,
                   "zoom": 1,
                   "background": "transparent"
                 }
-              },
-              "middle_image": {
-                "dimensions": { "width": 3987, "height": 2500 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/652aefebfbd9a45bcec81650_PEbbleHeroMiddle2.png?auto=format,compress",
-                "id": "ZSrv6_vZpFvOyBZQ",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "middle_image_mobile": {},
-              "foreground_video_mov": {
-                "link_type": "Media",
-                "kind": "document",
-                "id": "ZSlJhBAAACIAvDJ-",
-                "url": "https://www.d-g-m.com/assets/videos/fd5289f9-73f4-43c6-82ef-64d86474e4b2_hero-alpha.mov",
-                "name": "hero-alpha.mov",
-                "size": "3052454"
-              },
-              "foreground_video_webm": {
-                "link_type": "Media",
-                "kind": "document",
-                "id": "ZSlFIRAAACQAvB1J",
-                "url": "https://www.d-g-m.com/assets/videos/53cef20c-7143-442d-961c-4059fd183423_hero-2.webm",
-                "name": "hero-2.webm",
-                "size": "3811983"
               },
               "foreground_image": {
-                "dimensions": { "width": 1920, "height": 1200 },
+                "dimensions": { "width": 4000, "height": 2700 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/65290f0efbd9a45bcec8158d_PLB_motiv_A_v002_front_0096.png?auto=format,compress",
-                "id": "ZSkPDvvZpFvOyBWN",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/3hero_d_fg.webp?auto=format,compress",
+                "id": "ZTAwkfvZpFvOyB2S",
                 "edit": {
                   "x": 0,
                   "y": 0,
@@ -103,44 +60,38 @@
                   "background": "transparent"
                 }
               },
-              "live_event": false,
-              "live_event_link": {
-                "link_type": "Web",
-                "url": "https://pbbl.cc/livestream",
-                "target": "_blank"
-              },
-              "live_event_image": {
-                "dimensions": { "width": 232, "height": 232 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/6525487afbd9a45bcec810f6_homepage_live.png?auto=format,compress",
-                "id": "ZSVIevvZpFvOyBD2",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
+              "foreground_image_mobile": {},
+              "title": [
+                {
+                  "type": "paragraph",
+                  "text": "we power the",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "kitchens of our",
+                  "spans": [],
+                  "direction": "ltr"
                 }
-              },
-              "video_preview": {
-                "link_type": "Media",
-                "kind": "document",
-                "id": "ZTa7IxAAACMAcOqd",
-                "url": "https://www.d-g-m.com/assets/videos/shortnew.mp4",
-                "name": "short new.mp4",
-                "size": "3305358"
-              },
-              "video": {
-                "link_type": "Media",
-                "kind": "document",
-                "id": "ZTa7XBAAACQAcOuu",
-                "url": "https://www.d-g-m.com/assets/videos/99a920fb-9d9f-4432-9b5d-ed524d00d313_long+2.mp4",
-                "name": "long 2.mp4",
-                "size": "53048017"
-              }
+              ],
+              "second_title": [
+                {
+                  "type": "paragraph",
+                  "text": "favourite",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "restaurants.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
             },
-            "id": "hero$3150cbee-501a-4016-a72f-2cd30ae47b84",
-            "slice_type": "hero",
+            "id": "large_cover$7bc732fd-f5b8-417c-ac2f-a0536622b23f",
+            "slice_type": "large_cover",
             "slice_label": null
           },
           {
