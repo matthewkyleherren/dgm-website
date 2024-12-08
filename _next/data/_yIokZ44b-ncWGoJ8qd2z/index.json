@@ -38,7 +38,7 @@
                 "dimensions": { "width": 2545, "height": 5325 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/hero_m_all.webp?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero_m_all.webp?auto=format,compress",
                 "id": "ZS6b1vvZpFvOyBfT",
                 "edit": {
                   "x": 0,
@@ -236,14 +236,7 @@
                   "background": "transparent"
                 }
               },
-              "video_center": {
-                "link_type": "Media",
-                "kind": "document",
-                "id": "ZSwpThAAACIAyRiH",
-                "url": "#",
-                "name": "230821BRAN_DroneForOW_08B.mp4",
-                "size": "1877818"
-              },
+              "video_center": {},
               "title_center": "Until here.",
               "content_center": [
                 {
