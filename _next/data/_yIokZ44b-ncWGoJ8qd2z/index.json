@@ -51,7 +51,7 @@
                 "dimensions": { "width": 4000, "height": 2700 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/4hero_d_fg.webp?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/5hero_d_fg.webp?auto=format,compress",
                 "id": "ZTAwkfvZpFvOyB2S",
                 "edit": {
                   "x": 0,
@@ -64,13 +64,13 @@
               "title": [
                 {
                   "type": "paragraph",
-                  "text": "we power the",
+                  "text": "We power",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "kitchens of our",
+                  "text": "kitchens in",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -78,7 +78,7 @@
               "second_title": [
                 {
                   "type": "paragraph",
-                  "text": "favourite",
+                  "text": "our favorite",
                   "spans": [],
                   "direction": "ltr"
                 },
@@ -104,19 +104,19 @@
               "content": [
                 {
                   "type": "paragraph",
-                  "text": "Running a restaurant",
+                  "text": "We make sure",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "is no easy task.",
+                  "text": "that your kitchen",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "Let us help.",
+                  "text": "Runs like clockwork.",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -124,19 +124,19 @@
               "second_content": [
                 {
                   "type": "paragraph",
-                  "text": "We make sure your kitchen",
+                  "text": "Allowing you to",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "runs like clockwork.",
+                  "text": "keep your focus",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "And you focus on your guests.",
+                  "text": "on your guests.",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -415,7 +415,7 @@
                   "background": "transparent"
                 }
               },
-              "background_color": "Beige light"
+              "background_color": "Black"
             },
             "id": "content_slider$78544db9-ac11-4b00-af00-be97a6a87e91",
             "slice_type": "content_slider",
