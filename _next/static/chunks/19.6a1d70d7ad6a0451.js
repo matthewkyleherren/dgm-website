@@ -847,7 +847,7 @@
                   : "Beige light" === r.primary.background_color
                     ? "bg-light_beige"
                     : "Beige dark" === r.primary.background_color
-                      ? "bg-dark_beige"
+                      ? "bg-black"
                       : "Grey dark" === r.primary.background_color
                         ? "bg-dark_grey"
                         : "bg-green",

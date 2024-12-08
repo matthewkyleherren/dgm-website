@@ -721,7 +721,7 @@
           return (0, n.jsx)("div", {
             ref: l,
             className:
-              "w-full h-[400vh] -mt-[100vh] sticky top-0 opacity-0 bg-dark_beige",
+              "w-full h-[400vh] -mt-[100vh] sticky top-0 opacity-0 bg-black",
             children: (0, n.jsxs)("div", {
               className: "sticky top-0 w-full h-screen p-[1rem]",
               children: [

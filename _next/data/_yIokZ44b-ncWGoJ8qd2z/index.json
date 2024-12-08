@@ -25,7 +25,7 @@
                 "dimensions": { "width": 4000, "height": 2700 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/3hero_d_bg.webp?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/4hero_d_bg.webp?auto=format,compress",
                 "id": "ZTAwi_vZpFvOyB2R",
                 "edit": {
                   "x": 0,
@@ -38,7 +38,7 @@
                 "dimensions": { "width": 2545, "height": 5325 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/652e9bd6fbd9a45bcec817d3_rocksvertical2.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/hero_m_all.webp?auto=format,compress",
                 "id": "ZS6b1vvZpFvOyBfT",
                 "edit": {
                   "x": 0,
@@ -51,7 +51,7 @@
                 "dimensions": { "width": 4000, "height": 2700 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/3hero_d_fg.webp?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/4hero_d_fg.webp?auto=format,compress",
                 "id": "ZTAwkfvZpFvOyB2S",
                 "edit": {
                   "x": 0,
@@ -104,19 +104,19 @@
               "content": [
                 {
                   "type": "paragraph",
-                  "text": "We are DGM.",
+                  "text": "Running a restaurant",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "We power the kitchens",
+                  "text": "is no easy task.",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "of our favourite restaurants. ",
+                  "text": "Let us help.",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -124,19 +124,19 @@
               "second_content": [
                 {
                   "type": "paragraph",
-                  "text": "Because they, and you,",
+                  "text": "We make sure your kitchen",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": " have enough on your plates,",
+                  "text": "runs like clockwork.",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "already.",
+                  "text": "And you focus on your guests.",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -157,7 +157,7 @@
                 "dimensions": { "width": 4000, "height": 2500 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/6528a1a9fbd9a45bcec8154b_2309_093_PBL_3D_VISUALS_Motive_B_sRGB_v2.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero-plans.webp?auto=format,compress",
                 "id": "ZSihqfvZpFvOyBVL",
                 "edit": {
                   "x": 0,
@@ -170,7 +170,7 @@
                 "dimensions": { "width": 2545, "height": 4600 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/652e9bccfbd9a45bcec817d1_ongridvertical.jpg?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero-plans.webp?auto=format,compress",
                 "id": "ZS6bzPvZpFvOyBfR",
                 "edit": {
                   "x": 0,
@@ -179,7 +179,7 @@
                   "background": "transparent"
                 }
               },
-              "title_left": "On-grid",
+              "title_left": "From this.",
               "content_left": [
                 {
                   "type": "paragraph",
@@ -192,7 +192,7 @@
                 "dimensions": { "width": 4000, "height": 2500 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/652a4e9efbd9a45bcec81641_2309_093_PBL_3D_VISUALS_Motive_C_sRGBPB001.jpg?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero-built.webp?auto=format,compress",
                 "id": "ZSpOnvvZpFvOyBZB",
                 "edit": {
                   "x": 0,
@@ -205,7 +205,7 @@
                 "dimensions": { "width": 2545, "height": 4600 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/652e9bcafbd9a45bcec817d0_offgridvertical.jpg?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero-built.webp?auto=format,compress",
                 "id": "ZS6byvvZpFvOyBfQ",
                 "edit": {
                   "x": 0,
@@ -214,7 +214,7 @@
                   "background": "transparent"
                 }
               },
-              "title_right": "Off-grid",
+              "title_right": "To this.",
               "content_right": [
                 {
                   "type": "paragraph",
@@ -227,7 +227,7 @@
                 "dimensions": { "width": 2840, "height": 1760 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/652548fffbd9a45bcec810f9_homepage_onTheRoad.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/togethere.webp?auto=format,compress",
                 "id": "ZSVI__vZpFvOyBD5",
                 "edit": {
                   "x": 0,
@@ -240,11 +240,11 @@
                 "link_type": "Media",
                 "kind": "document",
                 "id": "ZSwpThAAACIAyRiH",
-                "url": "https://www.d-g-m.com/assets/videos/drone.mp4",
+                "url": "#",
                 "name": "230821BRAN_DroneForOW_08B.mp4",
                 "size": "1877818"
               },
-              "title_center": "And on the road",
+              "title_center": "Until here.",
               "content_center": [
                 {
                   "type": "paragraph",
@@ -263,24 +263,13 @@
             "version": "initial",
             "items": [{}],
             "primary": {
-              "text_alignment": "left",
+              "text_alignment": "center",
               "background_color": "Black",
               "content": [
+
                 {
                   "type": "paragraph",
-                  "text": "Pebble is the all-electric trailer",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "designed for get-up-and-go",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "freedom.",
+                  "text": "This is what we do.",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -295,16 +284,16 @@
             "slice_label": null
           },
           {
-            "variation": "stickySliderWithAnchors",
+            "variation": "default",
             "version": "initial",
             "items": [
               {
-                "image": {
-                  "dimensions": { "width": 9089, "height": 6059 },
+                "icon": {
+                  "dimensions": { "width": 20, "height": 38 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/652e2e1cfbd9a45bcec81766_Pebble-46copy.jpg?auto=format,compress",
-                  "id": "ZS4uHPvZpFvOyBdm",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65255cbffbd9a45bcec81121_thePebble_batteryicon.png?auto=format,compress",
+                  "id": "ZSVcv_vZpFvOyBEh",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -312,39 +301,23 @@
                     "background": "transparent"
                   }
                 },
-                "video": { "link_type": "Media" },
-                "section_title": "100% Electric",
-                "content_text": [
+                "title": "45 kWh LFP battery",
+                "content": [
                   {
                     "type": "paragraph",
-                    "text": "No more fossil fuels, buzzing generators, and propane tanks. Pebble has power for days.",
+                    "text": "The safest battery on the market, with the capacity to power all of the appliances and stay off-grid for up to 7 days.",
                     "spans": [],
                     "direction": "ltr"
                   }
-                ],
-                "anchor_text": "100% Electric",
-                "button_link": {
-                  "id": "ZNopgxAAACgAsCxa",
-                  "type": "page",
-                  "tags": [],
-                  "lang": "en-us",
-                  "slug": "green",
-                  "first_publication_date": "2023-08-14T13:17:58+0000",
-                  "last_publication_date": "2024-07-31T00:35:59+0000",
-                  "uid": "pebble-flow",
-                  "url": "/pebble-flow",
-                  "link_type": "Document",
-                  "isBroken": false
-                },
-                "button_text": "Explore the pebble flow"
+                ]
               },
               {
-                "image": {
-                  "dimensions": { "width": 1782, "height": 1760 },
+                "icon": {
+                  "dimensions": { "width": 34, "height": 34 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/652549e9fbd9a45bcec810fb_homepage_magicHitch.png?auto=format,compress",
-                  "id": "ZSVJ6fvZpFvOyBD7",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65255cd7fbd9a45bcec81122_thePebble_solaricon.png?auto=format,compress",
+                  "id": "ZSVc1_vZpFvOyBEi",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -352,85 +325,23 @@
                     "background": "transparent"
                   }
                 },
-                "video": {
-                  "link_type": "Media",
-                  "kind": "document",
-                  "id": "ZS5UlBIAACcA1ufT",
-                  "url": "https://www.d-g-m.com/assets/videos/d25c8f85-70fe-44ab-aa83-8e28d76116a8_Hitch.mp4",
-                  "name": "Hitch.mp4",
-                  "size": "3590334"
-                },
-                "section_title": "Magic Hitch",
-                "content_text": [
+                "title": "1kW Integrated Solar",
+                "content": [
                   {
                     "type": "paragraph",
-                    "text": "With one touch, the Pebble Flow senses, self-positions, and safely attaches to your tow vehicle.",
+                    "text": "Allows for self-charging on the go or when parked, so it’s always topping off its power supply. It’s like being perpetually plugged into a 110V outlet.",
                     "spans": [],
                     "direction": "ltr"
                   }
-                ],
-                "anchor_text": "Magic hitch",
-                "button_link": {
-                  "link_type": "Web",
-                  "url": "https://pebblelife.com/pebble-flow",
-                  "target": ""
-                },
-                "button_text": "Explore the pebble flow"
+                ]
               },
               {
-                "image": {
-                  "dimensions": { "width": 1896, "height": 1896 },
+                "icon": {
+                  "dimensions": { "width": 2000, "height": 2000 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/ZiKqVfPdc1huKpZv_Screenshot2024-04-19at10.29.27AM.png?auto=format%2Ccompress&rect=518%2C0%2C1896%2C1896&w=1896&h=1896",
-                  "id": "ZiKqVfPdc1huKpZv",
-                  "edit": {
-                    "x": 518,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "video": {
-                  "link_type": "Media",
-                  "kind": "video",
-                  "id": "ZiKpp_Pdc1huKpZf",
-                  "url": "https://www.d-g-m.com/assets/videos/forweb01.mp4",
-                  "name": "EasyTow.mp4",
-                  "size": "2520466"
-                },
-                "section_title": "Easy Tow",
-                "content_text": [
-                  {
-                    "type": "paragraph",
-                    "text": "Introducing the world’s first dual-motor Active Tow Assist System. ATAS provides extended range, unwavering confidence and effortless towing even with an SUV or EV.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ],
-                "anchor_text": "Easy tow",
-                "button_link": {
-                  "id": "ZNopgxAAACgAsCxa",
-                  "type": "page",
-                  "tags": [],
-                  "lang": "en-us",
-                  "slug": "green",
-                  "first_publication_date": "2023-08-14T13:17:58+0000",
-                  "last_publication_date": "2024-07-31T00:35:59+0000",
-                  "uid": "pebble-flow",
-                  "url": "/pebble-flow",
-                  "link_type": "Document",
-                  "isBroken": false
-                },
-                "button_text": "Explore the pebble flow"
-              },
-              {
-                "image": {
-                  "dimensions": { "width": 1782, "height": 1760 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/6523fdc1fbd9a45bcec81015_4.png?auto=format,compress",
-                  "id": "ZSP9wfvZpFvOyBAV",
+                  "url": "https://www.d-g-m.com/assets/videos/65153b09fbd9a45bcec8070c_svg-2.svg?auto=compress,format",
+                  "id": "ZRU7CfvZpFvOyAcM",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -438,46 +349,23 @@
                     "background": "transparent"
                   }
                 },
-                "video": {
-                  "link_type": "Media",
-                  "kind": "video",
-                  "id": "ZiKrwfPdc1huKpaN",
-                  "url": "https://www.d-g-m.com/assets/videos/forweb02.mp4",
-                  "name": "240313CYBR_forWeb02D.mp4",
-                  "size": "5973993"
-                },
-                "section_title": "Remote Control",
-                "content_text": [
+                "title": "Universal Charging",
+                "content": [
                   {
                     "type": "paragraph",
-                    "text": "Never back up again. Once unhitched, the Pebble Flow is fully remote-controllable. Move around a campsite or driveway via the Pebble App, pivoting effortlessly, and positioning into tight spots with ease.",
+                    "text": "Charge how you want. AC/DC charging at EV charging stations, at home, or at campgrounds. The Pebble Flow also features regenerative braking so it can charge itself while you tow it.",
                     "spans": [],
                     "direction": "ltr"
                   }
-                ],
-                "anchor_text": "Remote control",
-                "button_link": {
-                  "id": "ZNopgxAAACgAsCxa",
-                  "type": "page",
-                  "tags": [],
-                  "lang": "en-us",
-                  "slug": "green",
-                  "first_publication_date": "2023-08-14T13:17:58+0000",
-                  "last_publication_date": "2024-07-31T00:35:59+0000",
-                  "uid": "pebble-flow",
-                  "url": "/pebble-flow",
-                  "link_type": "Document",
-                  "isBroken": false
-                },
-                "button_text": "Explore the pebble flow"
+                ]
               },
               {
-                "image": {
-                  "dimensions": { "width": 1786, "height": 1760 },
+                "icon": {
+                  "dimensions": { "width": 25, "height": 41 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/65254aa4fbd9a45bcec810fc_Group20046.png?auto=format,compress",
-                  "id": "ZSVKpPvZpFvOyBD8",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65255cf3fbd9a45bcec81123_thePebble_output.png?auto=format,compress",
+                  "id": "ZSVc8_vZpFvOyBEj",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -485,46 +373,23 @@
                     "background": "transparent"
                   }
                 },
-                "video": {
-                  "link_type": "Media",
-                  "kind": "document",
-                  "id": "ZS5UjBIAACYA1uev",
-                  "url": "https://www.d-g-m.com/assets/videos/f4407a71-5a28-468c-a065-a9b26a1df0fb_Instacamp.mp4",
-                  "name": "Instacamp.mp4",
-                  "size": "1529069"
-                },
-                "section_title": "InstaCamp",
-                "content_text": [
+                "title": "240V AC Output",
+                "content": [
                   {
                     "type": "paragraph",
-                    "text": "Be camp-ready in seconds, stress-free. With just one touch, watch the leveling stabilizers, stairs, awning, thermostat and lights automatically set-up camp for you.",
+                    "text": "Now you can charge your campsite equipment, your EV or even another RV.",
                     "spans": [],
                     "direction": "ltr"
                   }
-                ],
-                "anchor_text": "InstaCamp",
-                "button_link": {
-                  "id": "ZNopgxAAACgAsCxa",
-                  "type": "page",
-                  "tags": [],
-                  "lang": "en-us",
-                  "slug": "green",
-                  "first_publication_date": "2023-08-14T13:17:58+0000",
-                  "last_publication_date": "2024-07-31T00:35:59+0000",
-                  "uid": "pebble-flow",
-                  "url": "/pebble-flow",
-                  "link_type": "Document",
-                  "isBroken": false
-                },
-                "button_text": "Explore the pebble flow"
+                ]
               },
               {
-                "image": {
-                  "dimensions": { "width": 4000, "height": 2668 },
+                "icon": {
+                  "dimensions": { "width": 20, "height": 38 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/6528b654fbd9a45bcec81561_Pebble-14copy4.jpg?auto=format,compress",
-                  "id": "ZSi2VPvZpFvOyBVh",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65255cbffbd9a45bcec81121_thePebble_batteryicon.png?auto=format,compress",
+                  "id": "ZSVcv_vZpFvOyBEh",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -532,46 +397,35 @@
                     "background": "transparent"
                   }
                 },
-                "video": {
-                  "link_type": "Media",
-                  "kind": "document",
-                  "id": "ZTbDzBAAACIAcQmN",
-                  "url": "https://www.d-g-m.com/assets/videos/22b376e0-c353-4b09-a261-50d853a8002e_Interior+Flythrough+FINAL2.mp4",
-                  "name": "Interior Flythrough FINAL2.mp4",
-                  "size": "3187720"
-                },
-                "section_title": "Open & Airy Living",
-                "content_text": [
+                "title": "Emergency Energy Backup",
+                "content": [
                   {
                     "type": "paragraph",
-                    "text": "Panoramic windows give way to a 270° view. Convertible furniture, clever storage compartments, and minimalist, modern interior give you everything you need and the flexibility to make it your own.",
+                    "text": "With a battery capacity 3.5x that of a Tesla Powerwall, the Pebble Flow makes a great home backup battery in case of emergencies.",
                     "spans": [],
                     "direction": "ltr"
                   }
-                ],
-                "anchor_text": "Interiors",
-                "button_link": {
-                  "id": "ZNopgxAAACgAsCxa",
-                  "type": "page",
-                  "tags": [],
-                  "lang": "en-us",
-                  "slug": "green",
-                  "first_publication_date": "2023-08-14T13:17:58+0000",
-                  "last_publication_date": "2024-07-31T00:35:59+0000",
-                  "uid": "pebble-flow",
-                  "url": "/pebble-flow",
-                  "link_type": "Document",
-                  "isBroken": false
-                },
-                "button_text": "Explore Pebble Flow"
+                ]
               }
             ],
             "primary": {
-              "last_anchor_text": "And so much more",
-              "background": "Grey dark"
+              "image": {
+                "dimensions": { "width": 1774, "height": 1760 },
+                "alt": null,
+                "copyright": null,
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65255cacfbd9a45bcec81120_thePebble_batterymain.png?auto=format,compress",
+                "id": "ZSVcrPvZpFvOyBEg",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "background_color": "Beige light"
             },
-            "id": "sticky_slider$480a53bf-9603-4f9b-83c2-2e4c14e2c948",
-            "slice_type": "sticky_slider",
+            "id": "content_slider$78544db9-ac11-4b00-af00-be97a6a87e91",
+            "slice_type": "content_slider",
             "slice_label": null
           },
           {
@@ -625,7 +479,7 @@
                 "dimensions": { "width": 1920, "height": 1080 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format%2Ccompress&rect=0%2C0%2C10027%2C5640&w=1920&h=1080",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format%2Ccompress&rect=0%2C0%2C10027%2C5640&w=1920&h=1080",
                 "id": "ZiKq2vPdc1huKpZ7",
                 "edit": {
                   "x": 0,
@@ -637,7 +491,7 @@
                   "dimensions": { "width": 1200, "height": 670 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3346,1868&w=1200&h=670",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3346,1868&w=1200&h=670",
                   "id": "ZNyZpRAAACYAu1oD",
                   "edit": {
                     "x": 0,
@@ -650,7 +504,7 @@
                   "dimensions": { "width": 768, "height": 429 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3344,1868&w=768&h=429",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3344,1868&w=768&h=429",
                   "id": "ZNyZpRAAACYAu1oD",
                   "edit": {
                     "x": 0,
@@ -664,7 +518,7 @@
                 "dimensions": { "width": 1270, "height": 844 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/65254b3afbd9a45bcec810ff_homepage_bottomImage.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65254b3afbd9a45bcec810ff_homepage_bottomImage.png?auto=format,compress",
                 "id": "ZSVLOvvZpFvOyBD_",
                 "edit": {
                   "x": 0,
@@ -677,7 +531,7 @@
                 "dimensions": { "width": 3360, "height": 2100 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/65296356fbd9a45bcec815f4_Screenshot2023-10-13at17.33.30.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65296356fbd9a45bcec815f4_Screenshot2023-10-13at17.33.30.png?auto=format,compress",
                 "id": "ZSljVvvZpFvOyBX0",
                 "edit": {
                   "x": 0,
@@ -707,7 +561,7 @@
                 "dimensions": { "width": 376, "height": 482 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/65254b85fbd9a45bcec81102_homepage_pebbleApp.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65254b85fbd9a45bcec81102_homepage_pebbleApp.png?auto=format,compress",
                 "id": "ZSVLhfvZpFvOyBEC",
                 "edit": {
                   "x": 0,
@@ -776,7 +630,7 @@
                   "dimensions": { "width": 1630, "height": 1630 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/656082ca531ac2845a255933_cnet.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656082ca531ac2845a255933_cnet.png?auto=format,compress",
                   "id": "ZWCCylMawoRaJVkz",
                   "edit": {
                     "x": 0,
@@ -789,7 +643,7 @@
                   "dimensions": { "width": 444, "height": 99 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/656098b3531ac2845a25598c_logo_cnet.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656098b3531ac2845a25598c_logo_cnet.png?auto=format,compress",
                   "id": "ZWCYs1MawoRaJVmM",
                   "edit": {
                     "x": 0,
@@ -811,7 +665,7 @@
                   "dimensions": { "width": 3840, "height": 2160 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/Zr_F0EaF0TcGJAt4_p-1-IBD-2024-Automotive_W_d25816.webp?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/Zr_F0EaF0TcGJAt4_p-1-IBD-2024-Automotive_W_d25816.webp?auto=format,compress",
                   "id": "Zr_F0EaF0TcGJAt4",
                   "edit": {
                     "x": 0,
@@ -824,7 +678,7 @@
                   "dimensions": { "width": 581, "height": 82 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/65608387531ac2845a255935_logo_fastCompany.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65608387531ac2845a255935_logo_fastCompany.png?auto=format,compress",
                   "id": "ZWCDh1MawoRaJVk1",
                   "edit": {
                     "x": 0,
@@ -846,7 +700,7 @@
                   "dimensions": { "width": 3840, "height": 2160 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.jpg?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.jpg?auto=format,compress",
                   "id": "ZjFQsEMTzAJOCdNu",
                   "edit": {
                     "x": 0,
@@ -859,7 +713,7 @@
                   "dimensions": { "width": 444, "height": 99 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/Zr_a5kaF0TcGJA1z_engadgetlogo.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/Zr_a5kaF0TcGJA1z_engadgetlogo.png?auto=format,compress",
                   "id": "Zr_a5kaF0TcGJA1z",
                   "edit": {
                     "x": 0,
@@ -881,7 +735,7 @@
                   "dimensions": { "width": 10027, "height": 5640 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format,compress",
                   "id": "ZiKq2vPdc1huKpZ7",
                   "edit": {
                     "x": 0,
@@ -894,7 +748,7 @@
                   "dimensions": { "width": 100, "height": 100 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/Zr_bQEaF0TcGJA11_pcmaglogo.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/Zr_bQEaF0TcGJA11_pcmaglogo.png?auto=format,compress",
                   "id": "Zr_bQEaF0TcGJA11",
                   "edit": {
                     "x": 0,
@@ -916,7 +770,7 @@
                   "dimensions": { "width": 1630, "height": 1630 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
                   "id": "ZWCD31MawoRaJVk3",
                   "edit": {
                     "x": 0,
@@ -929,7 +783,7 @@
                   "dimensions": { "width": 179, "height": 122 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/656083ed531ac2845a255938_logo_techChrunch.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656083ed531ac2845a255938_logo_techChrunch.png?auto=format,compress",
                   "id": "ZWCD7VMawoRaJVk4",
                   "edit": {
                     "x": 0,
@@ -951,7 +805,7 @@
                   "dimensions": { "width": 1630, "height": 1630 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/6560843f531ac2845a25593a_Rectangle26097.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/6560843f531ac2845a25593a_Rectangle26097.png?auto=format,compress",
                   "id": "ZWCEP1MawoRaJVk6",
                   "edit": {
                     "x": 0,
@@ -964,7 +818,7 @@
                   "dimensions": { "width": 582, "height": 112 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/6560842e531ac2845a255939_logo_motorTrend.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/6560842e531ac2845a255939_logo_motorTrend.png?auto=format,compress",
                   "id": "ZWCELlMawoRaJVk5",
                   "edit": {
                     "x": 0,
@@ -986,7 +840,7 @@
                   "dimensions": { "width": 1630, "height": 1630 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
                   "id": "ZWCD31MawoRaJVk3",
                   "edit": {
                     "x": 0,
@@ -999,7 +853,7 @@
                   "dimensions": { "width": 735, "height": 157 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://www.d-g-m.com/assets/imgs/65608477531ac2845a25593b_logo_robbreport.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65608477531ac2845a25593b_logo_robbreport.png?auto=format,compress",
                   "id": "ZWCEd1MawoRaJVk7",
                   "edit": {
                     "x": 0,
@@ -1067,7 +921,7 @@
                 "dimensions": { "width": 3045, "height": 1786 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/65294a2cfbd9a45bcec815a1_cut32.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65294a2cfbd9a45bcec815a1_cut32.png?auto=format,compress",
                 "id": "ZSlKLPvZpFvOyBWh",
                 "edit": {
                   "x": 0,
@@ -1080,7 +934,7 @@
                 "dimensions": { "width": 3045, "height": 1786 },
                 "alt": null,
                 "copyright": null,
-                "url": "https://www.d-g-m.com/assets/imgs/652949d3fbd9a45bcec815a0_cut3.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/652949d3fbd9a45bcec815a0_cut3.png?auto=format,compress",
                 "id": "ZSlJ0_vZpFvOyBWg",
                 "edit": {
                   "x": 0,
@@ -1130,7 +984,7 @@
           "dimensions": { "width": 2400, "height": 1260 },
           "alt": null,
           "copyright": null,
-          "url": "https://www.d-g-m.com/assets/imgs/652dd7c4fbd9a45bcec81754_Hero_preorder.jpg?auto=format%2Ccompress&rect=0%2C276%2C3814%2C2002&w=2400&h=1260",
+          "url": "https://ik.imagekit.io/dgmbyrekazi/d/652dd7c4fbd9a45bcec81754_Hero_preorder.jpg?auto=format%2Ccompress&rect=0%2C276%2C3814%2C2002&w=2400&h=1260",
           "id": "ZS3XxPvZpFvOyBdU",
           "edit": { "x": 0, "y": 276, "zoom": 1, "background": "transparent" }
         }
