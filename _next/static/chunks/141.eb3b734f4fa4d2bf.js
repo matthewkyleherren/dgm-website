@@ -615,11 +615,11 @@
                 children: [
                   (0, n.jsxs)("div", {
                     className:
-                      "sticky top-10 flex flex-col w-[36.5%] bg-white rounded-18 overflow-hidden",
+                      "sticky top-10 flex flex-col w-[36.5%] bg-black rounded-18 overflow-hidden",
                     children: [
                       (0, n.jsx)("div", {
                         className:
-                          "absolute top-0 right-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none",
+                          "absolute top-0 right-0 w-full h-full bg-repeat opacity-40 pointer-events-none",
                       }),
                       (0, n.jsx)("div", {
                         ref: l,
@@ -631,7 +631,7 @@
                               children: [
                                 (0, n.jsxs)("div", {
                                   className:
-                                    "flex flex-col items-center py-[10.25rem] text-dark_grey",
+                                    "flex flex-col items-center py-[10.25rem] text-white",
                                   children: [
                                     (0, n.jsx)("div", {
                                       className:
@@ -648,7 +648,7 @@
                                     }),
                                     (0, n.jsx)("div", {
                                       className:
-                                        "font-headings text-36 leading-[100%] -tracking-[0.108rem] px-[11rem] mb-[2.4rem] text-center",
+                                        "font-headings text-36 leading-[100%] -tracking-[0.108rem] px-[11rem] mb-[2.4rem] text-center text-white",
                                       children: e.title,
                                     }),
                                     (0, n.jsx)("div", {
