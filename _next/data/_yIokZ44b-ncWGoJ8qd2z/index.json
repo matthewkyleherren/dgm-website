@@ -422,169 +422,6 @@
             "slice_label": null
           },
           {
-            "variation": "simpleContentTwoTexts",
-            "version": "initial",
-            "items": [{}],
-            "primary": {
-              "text_alignment": "center",
-              "background_color": "Grey dark",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "And that’s just the",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "beginning.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "second_content": [
-                {
-                  "type": "paragraph",
-                  "text": "Adventure inspired.",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "App driven.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "add_anchor": false,
-              "anchor_name": null
-            },
-            "id": "simple_content$61cc3d5e-7bea-4f3c-8816-cacb20dd1cbd",
-            "slice_type": "simple_content",
-            "slice_label": null
-          },
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [{}],
-            "primary": {
-              "image_top": {
-                "dimensions": { "width": 1920, "height": 1080 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format%2Ccompress&rect=0%2C0%2C10027%2C5640&w=1920&h=1080",
-                "id": "ZiKq2vPdc1huKpZ7",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                },
-                "tablet": {
-                  "dimensions": { "width": 1200, "height": 670 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3346,1868&w=1200&h=670",
-                  "id": "ZNyZpRAAACYAu1oD",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 0.35867237687366166,
-                    "background": "transparent"
-                  }
-                },
-                "mobile": {
-                  "dimensions": { "width": 768, "height": 429 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/70f1a2c4-3451-457e-aa77-edc2f0f1be54_36a2902558a8a3f7a9188484b83c1f1e.png?auto=compress,format&rect=0,0,3344,1868&w=768&h=429",
-                  "id": "ZNyZpRAAACYAu1oD",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 0.2296573875802998,
-                    "background": "transparent"
-                  }
-                }
-              },
-              "image_bottom": {
-                "dimensions": { "width": 1270, "height": 844 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65254b3afbd9a45bcec810ff_homepage_bottomImage.png?auto=format,compress",
-                "id": "ZSVLOvvZpFvOyBD_",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "image_main": {
-                "dimensions": { "width": 3360, "height": 2100 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65296356fbd9a45bcec815f4_Screenshot2023-10-13at17.33.30.png?auto=format,compress",
-                "id": "ZSljVvvZpFvOyBX0",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "video": {
-                "link_type": "Media",
-                "kind": "document",
-                "id": "ZSliVRAAACUAvKlm",
-                "url": "https://www.d-g-m.com/assets/videos/motive.mp4",
-                "name": "PLB_motiv_E_v001 (1) compressed.mp4",
-                "size": "2348272"
-              },
-              "feature_name": "Exterior lights",
-              "feature_icon": {
-                "dimensions": { "width": 14, "height": 19 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://www.d-g-m.com/assets/videos/63c3b3a1-e467-4a82-88f4-f32cf9ad3757_exterior-lights-icon.svg",
-                "id": "ZN3m6BAAACYAwVO7",
-                "edit": { "x": 0, "y": 0, "zoom": 1, "background": "#fff" }
-              },
-              "preview_image": {
-                "dimensions": { "width": 376, "height": 482 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65254b85fbd9a45bcec81102_homepage_pebbleApp.png?auto=format,compress",
-                "id": "ZSVLhfvZpFvOyBEC",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "preview_suptitle": "No manual required",
-              "preview_title": "The Pebble App is the remote control for your Pebble Flow. No manual required to get started.",
-              "preview_link_title": "Explore app",
-              "preview_link": {
-                "id": "ZNopaxAAACcAsCve",
-                "type": "page",
-                "tags": [],
-                "lang": "en-us",
-                "slug": "adventureinspiredapp-driven.",
-                "first_publication_date": "2023-08-14T13:17:34+0000",
-                "last_publication_date": "2023-10-24T08:58:10+0000",
-                "uid": "pebble-app",
-                "url": "/pebble-app",
-                "link_type": "Document",
-                "isBroken": false
-              }
-            },
-            "id": "feature_focus$49ef8d38-743b-450f-81fc-cd44d72fb4f2",
-            "slice_type": "feature_focus",
-            "slice_label": null
-          },
-          {
             "variation": "default",
             "version": "initial",
             "items": [],
@@ -594,13 +431,13 @@
               "content": [
                 {
                   "type": "paragraph",
-                  "text": "What others are",
+                  "text": "Some of our",
                   "spans": [],
                   "direction": "ltr"
                 },
                 {
                   "type": "paragraph",
-                  "text": "saying about Pebble",
+                  "text": "happy customers...",
                   "spans": [],
                   "direction": "ltr"
                 }
@@ -620,150 +457,10 @@
             "items": [
               {
                 "image": {
-                  "dimensions": { "width": 1630, "height": 1630 },
+                  "dimensions": { "width": 1100, "height": 1100 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656082ca531ac2845a255933_cnet.png?auto=format,compress",
-                  "id": "ZWCCylMawoRaJVkz",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "logo": {
-                  "dimensions": { "width": 444, "height": 99 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656098b3531ac2845a25598c_logo_cnet.png?auto=format,compress",
-                  "id": "ZWCYs1MawoRaJVmM",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "title": "“Think of it as a Tesla Powerwall on wheels that you can live inside part of the year.”",
-                "source": "Antuan Goodwin, CNET",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://www.cnet.com/roadshow/news/pebble-flow-electrified-camper-hitches-itself-pulls-its-own-weight/",
-                  "target": "_blank"
-                }
-              },
-              {
-                "image": {
-                  "dimensions": { "width": 3840, "height": 2160 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/Zr_F0EaF0TcGJAt4_p-1-IBD-2024-Automotive_W_d25816.webp?auto=format,compress",
-                  "id": "Zr_F0EaF0TcGJAt4",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "logo": {
-                  "dimensions": { "width": 581, "height": 82 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65608387531ac2845a255935_logo_fastCompany.png?auto=format,compress",
-                  "id": "ZWCDh1MawoRaJVk1",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "title": "This high-tech camper is like the iPhone of RVs",
-                "source": "Jesus Diaz, Fast Company",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://www.fastcompany.com/91126825/pebble-innovation-by-design-2024",
-                  "target": "_blank"
-                }
-              },
-              {
-                "image": {
-                  "dimensions": { "width": 3840, "height": 2160 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.jpg?auto=format,compress",
-                  "id": "ZjFQsEMTzAJOCdNu",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "logo": {
-                  "dimensions": { "width": 444, "height": 99 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/Zr_a5kaF0TcGJA1z_engadgetlogo.png?auto=format,compress",
-                  "id": "Zr_a5kaF0TcGJA1z",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "title": "“Pebble Flow is providing a glimpse at how an RV designed for the EV age should function.”",
-                "source": "Sam Rutherford, Engadget",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://www.engadget.com/the-pebble-flow-is-an-all-electric-trailer-for-the-ev-age-173009191.html?guccounter=1",
-                  "target": "_blank"
-                }
-              },
-              {
-                "image": {
-                  "dimensions": { "width": 10027, "height": 5640 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZiKq2vPdc1huKpZ7_PebbleFlow-31.jpg?auto=format,compress",
-                  "id": "ZiKq2vPdc1huKpZ7",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "logo": {
-                  "dimensions": { "width": 100, "height": 100 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/Zr_bQEaF0TcGJA11_pcmaglogo.png?auto=format,compress",
-                  "id": "Zr_bQEaF0TcGJA11",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "title": "“The Pebble Flow will debut with an Nvidia system that automates the hardest parts of RVing”",
-                "source": "Emily Dreibelbis",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://www.pcmag.com/news/ces-2024-this-125k-electric-rv-will-be-the-first-with-semi-autonomous-tech",
-                  "target": "_blank"
-                }
-              },
-              {
-                "image": {
-                  "dimensions": { "width": 1630, "height": 1630 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/customers/customer-01.jpg?auto=format,compress",
                   "id": "ZWCD31MawoRaJVk3",
                   "edit": {
                     "x": 0,
@@ -772,33 +469,17 @@
                     "background": "transparent"
                   }
                 },
-                "logo": {
-                  "dimensions": { "width": 179, "height": 122 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656083ed531ac2845a255938_logo_techChrunch.png?auto=format,compress",
-                  "id": "ZWCD7VMawoRaJVk4",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "title": "Bringing “electrification, automation and the usability of an iPhone to the RV world.”",
-                "source": "Kirsten Korosec, Tech Crunch",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://techcrunch.com/2023/10/19/pebbles-100k-ev-travel-trailer-can-live-off-the-grid-for-7-days/",
-                  "target": "_blank"
-                }
+                "logo": {},
+                "title": "Aargau Burgers",
+                "source": "",
+                "link": {}
               },
               {
                 "image": {
-                  "dimensions": { "width": 1630, "height": 1630 },
+                  "dimensions": { "width": 1100, "height": 1100 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/6560843f531ac2845a25593a_Rectangle26097.png?auto=format,compress",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/customers/customer-02.jpg?auto=format,compress",
                   "id": "ZWCEP1MawoRaJVk6",
                   "edit": {
                     "x": 0,
@@ -807,34 +488,18 @@
                     "background": "transparent"
                   }
                 },
-                "logo": {
-                  "dimensions": { "width": 582, "height": 112 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/6560842e531ac2845a255939_logo_motorTrend.png?auto=format,compress",
-                  "id": "ZWCELlMawoRaJVk5",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "title": "“The Pebble Flow does not resemble the rectangular, traditional boxy travel trailer, you know, the kind that tows like a brick.”",
-                "source": "Monica Gonderman, Motor Trend",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://www.motortrend.com/features/pebble-flow-electric-travel-trailer/",
-                  "target": "_blank"
-                }
+                "logo": {},
+                "title": "Flying Kebab",
+                "source": "",
+                "link": {}
               },
               {
                 "image": {
-                  "dimensions": { "width": 1630, "height": 1630 },
+                  "dimensions": { "width": 1100, "height": 1100 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/656083df531ac2845a255937_TechChrunch.png?auto=format,compress",
-                  "id": "ZWCD31MawoRaJVk3",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/customers/customer-03.jpg?auto=format,compress",
+                  "id": "ZiKq2vPdc1huKpZ7",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -842,12 +507,18 @@
                     "background": "transparent"
                   }
                 },
-                "logo": {
-                  "dimensions": { "width": 735, "height": 157 },
+                "logo": {},
+                "title": "Soups and Salads",
+                "source": "",
+                "link": {}
+              },
+              {
+                "image": {
+                  "dimensions": { "width": 1100, "height": 1100 },
                   "alt": null,
                   "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65608477531ac2845a25593b_logo_robbreport.png?auto=format,compress",
-                  "id": "ZWCEd1MawoRaJVk7",
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/customers/customer-01.jpg?auto=format,compress",
+                  "id": "ZWCCylMawoRaJVkz",
                   "edit": {
                     "x": 0,
                     "y": 0,
@@ -855,14 +526,12 @@
                     "background": "transparent"
                   }
                 },
-                "title": "“This New All-Electric Travel Trailer Parks Itself and Sets Up Camp—So You Don’t Have to”",
-                "source": "Bryan Hood, Robb Report",
-                "link": {
-                  "link_type": "Web",
-                  "url": "https://robbreport.com/motors/cars/pebble-flow-ev-friendly-luxury-trailer-set-up-camp-1235374555/",
-                  "target": "_blank"
-                }
+                "logo": {},
+                "title": "Happy Sushi",
+                "source": "",
+                "link": {}
               }
+
             ],
             "primary": { "background": "Black" },
             "id": "credibility$ca66f970-e0a8-47a4-ad25-44ead2406d47",
