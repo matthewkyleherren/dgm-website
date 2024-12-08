@@ -511,11 +511,11 @@
                 style: { height: "".concat((t.items.length + 2) * 75, "vh") },
                 children: (0, n.jsxs)("div", {
                   className:
-                    "sticky top-half-container-mobile md:top-half-container h-[calc(100vh_-_var(--padding-half-container-mobile)*2)] md:h-[calc(100vh_-_var(--padding-half-container)*2)] p-[0.6rem] flex flex-col bg-white rounded-13 overflow-hidden",
+                    "sticky top-half-container-mobile md:top-half-container h-[calc(100vh_-_var(--padding-half-container-mobile)*2)] md:h-[calc(100vh_-_var(--padding-half-container)*2)] p-[0.6rem] flex flex-col bg-black rounded-13 overflow-hidden",
                   children: [
                     (0, n.jsx)("div", {
                       className:
-                        "absolute top-0 right-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none",
+                        "absolute top-0 right-0 w-full h-full bg-repeat opacity-40 pointer-events-none",
                     }),
                     (0, n.jsx)("div", {
                       className: "flex-1 pt-[9.6rem] pb-[6rem]",
@@ -527,7 +527,7 @@
                             {
                               ref: (e) => (l.current[t] = e),
                               className:
-                                "relative w-full flex flex-col items-center text-dark_grey ".concat(
+                                "relative w-full flex flex-col items-center text-white ".concat(
                                   0 !== t && "hidden",
                                 ),
                               children: [
