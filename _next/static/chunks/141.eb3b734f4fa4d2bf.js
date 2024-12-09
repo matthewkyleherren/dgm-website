@@ -648,12 +648,12 @@
                                     }),
                                     (0, n.jsx)("div", {
                                       className:
-                                        "font-headings text-36 leading-[100%] -tracking-[0.108rem] px-[11rem] mb-[2.4rem] text-center text-white",
+                                        "font-headings text-36 leading-[100%] -tracking-[0.108rem] px-[11rem] mb-[2.4rem] text-center text-orange",
                                       children: e.title,
                                     }),
                                     (0, n.jsx)("div", {
                                       className:
-                                        "text-14 leading-[2rem] tracking-[0.014rem] px-[7.6rem] text-center",
+                                        "text-14 leading-[2rem] tracking-[0.014rem] px-[7.6rem] text-center font-body-mono text-white",
                                       children: (0, n.jsx)(s.v, {
                                         field: e.content,
                                       }),
