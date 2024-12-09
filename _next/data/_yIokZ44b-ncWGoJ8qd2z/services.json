@@ -14,749 +14,493 @@
       "lang": "en-us",
       "alternate_languages": [],
       "data": {
-        "slices": [
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [],
-            "primary": {
-              "background_color": "Green",
-              "background_image": {
-                "dimensions": { "width": 2200, "height": 1237 },
+        "slices": [{
+                  "variation": "default",
+                  "version": "initial",
+                  "items": [],
+                  "primary": {
+                    "background_color": "Green",
+                    "background_image": {
+                      "dimensions": {
+                        "width": 2200,
+                        "height": 1237
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/2hero_d_bg.webp?auto=format,compress",
+                      "id": "ZSAthvvZpFvOyA8D",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                      }
+                    },
+                    "background_image_mobile": {
+                      "dimensions": {
+                        "width": 2545,
+                        "height": 5658
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/hero_m_bg.jpg?auto=format,compress",
+                      "id": "ZS6bzfvZpFvOyBfS",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                      }
+                    },
+                    "foreground_image": {
+                      "dimensions": {
+                        "width": 2200,
+                        "height": 1237
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/2hero_d_fg.webp?auto=format,compress",
+                      "id": "ZSAtlvvZpFvOyA8E",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                      }
+                    },
+                    "foreground_image_mobile": {},
+                    "title": [{
+                        "type": "paragraph",
+                        "text": "services",
+                        "spans": [],
+                        "direction": "ltr"
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": " ",
+                        "spans": [],
+                        "direction": "ltr"
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": [],
+                        "direction": "ltr"
+                      }
+                    ],
+                    "bottom_title": [{
+                      "type": "paragraph",
+                      "text": "With you from appetizer to desert.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "right_title": "Introducing Pebble FLOW",
+                    "right_content": [{
+                        "type": "paragraph",
+                        "text": "Lighter living that’s never idle, ",
+                        "spans": [],
+                        "direction": "ltr"
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "and always, simply magical.",
+                        "spans": [],
+                        "direction": "ltr"
+                      }
+                    ]
+                  },
+                  "id": "large_cover$b1e455e0-6354-4979-a761-d9b585baf5c7",
+                  "slice_type": "large_cover",
+                  "slice_label": null
+                },
+                {
+                  "variation": "simpleContentParagraph",
+                  "version": "initial",
+                  "items": [],
+                  "primary": {
+                    "text_alignment": "center",
+                    "content": [{
+                      "type": "paragraph",
+                      "text": "We are partners for the long-haul.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "paragraph": [{
+                      "type": "paragraph",
+                      "text": "Our expertise is wide-ranging, and allows us to be a valuable partner regardless of which stage your restaurant is at.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "background_color": "Black",
+                    "add_anchor": true,
+                    "anchor_name": "Living"
+                  },
+                  "id": "simple_content$48aaba13-e0e6-4aac-9fcd-391e99bbc043",
+                  "slice_type": "simple_content",
+                  "slice_label": null
+                },
+                {
+                  "variation": "default",
+                  "version": "initial",
+                  "items": [{
+                      "icon": "Remote",
+                      "title": "Planning",
+                      "content": "If you are planning the construction of a new restaurant, renovating or expanding an existing one, our expertise in equipment and building can be invaluable.",
+                      "image": {
+                        "dimensions": {
+                          "width": 2079,
+                          "height": 2643
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/plan2.webp?auto=format,compress",
+                        "id": "ZSj9EvvZpFvOyBWE",
+                        "edit": {
+                          "x": 0,
+                          "y": 0,
+                          "zoom": 1,
+                          "background": "transparent"
+                        }
+                      }
+                    },
+                    {
+                      "icon": "Remote",
+                      "title": "Equipment Purchase",
+                      "content": "With many distribution-partners we can help you find the exact equipment you need. Whether new or refurbished.",
+                      "image": {
+                        "dimensions": {
+                          "width": 2085,
+                          "height": 2640
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/equip2.webp?auto=format,compress",
+                        "id": "ZS3FoPvZpFvOyBdJ",
+                        "edit": {
+                          "x": 0,
+                          "y": 0,
+                          "zoom": 1,
+                          "background": "transparent"
+                        }
+                      }
+                    },
+                    {
+                      "icon": "Remote",
+                      "title": "Equipment Installation",
+                      "content": "Installing and bringing on line professional kitchen equipment can be a challenge. We are well experienced in this.",
+                      "image": {
+                        "dimensions": {
+                          "width": 1004,
+                          "height": 1322
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/installation2.webp?auto=format,compress",
+                        "id": "ZS2-8fvZpFvOyBdH",
+                        "edit": {
+                          "x": 0,
+                          "y": 0,
+                          "zoom": 1,
+                          "background": "transparent"
+                        }
+                      }
+                    },
+                    {
+                      "icon": "Light bulb",
+                      "title": "Routine mainentance",
+                      "content": "Our experts can service your equipment at pre-arranged intervals so as to ensure smooth ongoing operation.",
+                      "image": {
+                        "dimensions": {
+                          "width": 1398,
+                          "height": 1762
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/maintenance2.webp?auto=format,compress",
+                        "id": "ZS3DXfvZpFvOyBdI",
+                        "edit": {
+                          "x": 0,
+                          "y": 0,
+                          "zoom": 1,
+                          "background": "transparent"
+                        }
+                      }
+                    },
+                    {
+                      "icon": "Remote",
+                      "title": "Emergency Repairs",
+                      "content": "If something goes wrong we are just a phone call away, and will help you get everything back to normal.",
+                      "image": {
+                        "dimensions": {
+                          "width": 1398,
+                          "height": 1762
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/repair2.webp?auto=format,compress",
+                        "id": "ZS3DXfvZpFvOyBdI",
+                        "edit": {
+                          "x": 0,
+                          "y": 0,
+                          "zoom": 1,
+                          "background": "transparent"
+                        }
+                      }
+                    }
+                  ],
+                  "primary": {},
+                  "id": "alternated_content$cba849b2-5568-4657-8768-2927ab085610",
+                  "slice_type": "alternated_content",
+                  "slice_label": null
+                },
+
+                {
+                  "variation": "default",
+                  "version": "initial",
+                  "items": [],
+                  "primary": {
+                    "text_alignment": "center",
+                    "background_color": "Black",
+                    "content": [{
+                        "type": "paragraph",
+                        "text": "However, that is far",
+                        "spans": [],
+                        "direction": "ltr"
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "from all that we do.",
+                        "spans": [],
+                        "direction": "ltr"
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Contact us for more.",
+                        "spans": [],
+                        "direction": "ltr"
+                      }
+                    ],
+                    "add_separator": true,
+                    "add_anchor": true,
+                    "anchor_name": "Intelligence",
+                    "small_spacings": false
+                  },
+                  "id": "simple_content$f515915f-6463-4b91-b811-3c11a220a36a",
+                  "slice_type": "simple_content",
+                  "slice_label": null
+                },
+                {
+                  "variation": "default",
+                  "version": "initial",
+                  "items": [{}],
+                  "primary": {
+                    "background_image": {
+                      "dimensions": {
+                        "width": 3045,
+                        "height": 1786
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/products/procucts_hero_d_bg.webp?auto=format,compress",
+                      "id": "ZSlKLPvZpFvOyBWh",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                      }
+                    },
+                    "foreground_image": {
+                      "dimensions": {
+                        "width": 3045,
+                        "height": 1786
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/about/abouthero_d.webp?auto=format,compress",
+                      "id": "ZSlJ0_vZpFvOyBWg",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                      }
+                    },
+                    "suptitle": "Up next...",
+                    "title": "products",
+                    "button_title": "Learn more",
+                    "button": {
+                      "id": "ZNopgxAAACgAsCxa",
+                      "type": "page",
+                      "tags": [],
+                      "lang": "en-us",
+                      "slug": "about",
+                      "first_publication_date": "2023-08-14T13:17:58+0000",
+                      "last_publication_date": "2024-07-31T00:35:59+0000",
+                      "uid": "about",
+                      "url": "/about",
+                      "link_type": "Document",
+                      "isBroken": false
+                    },
+                    "secondary_button_text": "Contact us",
+                    "secondary_button": {
+                      "id": "ZRp6xREAAAqLhCtE",
+                      "type": "preorder",
+                      "tags": [],
+                      "lang": "en-us",
+                      "slug": "pre-order",
+                      "first_publication_date": "2023-10-02T08:09:43+0000",
+                      "last_publication_date": "2024-08-06T17:11:32+0000",
+                      "link_type": "Document",
+                      "isBroken": false
+                    },
+                    "bottom_text": "Swiss quality gastro solutions."
+                  },
+                  "id": "pre_footer$c3c60cb3-e197-41d7-a701-f9ad642a7a44",
+                  "slice_type": "pre_footer",
+                  "slice_label": null
+                }
+
+              ],
+              "meta_title": "DGM | Services",
+              "meta_description": "DGM powers the kitchens of our favorite restaurants.",
+              "meta_image": {
+                "dimensions": {
+                  "width": 2400,
+                  "height": 1260
+                },
                 "alt": null,
                 "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65202d86fbd9a45bcec80f03_full.png?auto=format,compress",
+                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65202d86fbd9a45bcec80f03_full.png?auto=format%2Ccompress&rect=0%2C41%2C2200%2C1155&w=2400&h=1260",
                 "id": "ZSAthvvZpFvOyA8D",
                 "edit": {
                   "x": 0,
-                  "y": 0,
+                  "y": 41,
                   "zoom": 1,
                   "background": "transparent"
-                }
-              },
-              "background_image_mobile": {
-                "dimensions": { "width": 2545, "height": 5658 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/652e9bcdfbd9a45bcec817d2_pebbleflowvertical.jpg?auto=format,compress",
-                "id": "ZS6bzfvZpFvOyBfS",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "foreground_image": {
-                "dimensions": { "width": 2200, "height": 1237 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65202d96fbd9a45bcec80f04_bottom.png?auto=format,compress",
-                "id": "ZSAtlvvZpFvOyA8E",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "foreground_image_mobile": {},
-              "title": [
-                {
-                  "type": "paragraph",
-                  "text": "pebble flow",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": " ",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "bottom_title": [
-                {
-                  "type": "paragraph",
-                  "text": "Where home meets the road.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "right_title": "Introducing Pebble FLOW",
-              "right_content": [
-                {
-                  "type": "paragraph",
-                  "text": "Lighter living that’s never idle, ",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "and always, simply magical.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ]
-            },
-            "id": "large_cover$b1e455e0-6354-4979-a761-d9b585baf5c7",
-            "slice_type": "large_cover",
-            "slice_label": null
-          },
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [],
-            "primary": {
-              "text_alignment": "center",
-              "background_color": "Green",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "We’ve designed",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Pebble Flow as the perfect",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "combination of beauty and",
-                  "spans": [],
-                  "direction": "ltr"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "strength.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "add_separator": true,
-              "add_anchor": true,
-              "anchor_name": "Design",
-              "small_spacings": false
-            },
-            "id": "simple_content$c4a80a18-6bea-4e74-b257-c3c0dc666d87",
-            "slice_type": "simple_content",
-            "slice_label": null
-          },
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [
-              {
-                "title": "Automotive Design & Construction",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "text": "Pebble Flow has been built using rigorous automotive manufacturing processes. All-aluminum space frame construction. Lightweight composite and sustainable materials. Built-to-last durability that surpasses industry standards. A commitment to making Pebble the safest RV trailer on the road.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ],
-                "main_image": {
-                  "dimensions": { "width": 3723, "height": 2313 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/65290249fbd9a45bcec8158a_Chassis.png?auto=format,compress",
-                  "id": "ZSkCSfvZpFvOyBWK",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "main_video": { "link_type": "Media" },
-                "main_image_color": null,
-                "image_2": {},
-                "image_2_color": null,
-                "image_3": {},
-                "image_3_color": null
-              },
-              {
-                "title": "Aerodynamic Design",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "text": "We've spent countless hours refining the curves and lines through advanced computational simulations. The Pebble Flow is 300% as aerodynamic as a conventional travel trailer. Better mileage, longer range, and an overall safer towing experience.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ],
-                "main_image": {
-                  "dimensions": { "width": 10000, "height": 5624 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/6528abcffbd9a45bcec81553_Pebble-31copy6.jpg?auto=format,compress",
-                  "id": "ZSirz_vZpFvOyBVT",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                },
-                "main_video": { "link_type": "Media" },
-                "main_image_color": "#B1B8C3",
-                "image_2": {},
-                "image_2_color": "#646A5D",
-                "image_3": {},
-                "image_3_color": "#FFFFFF"
-              }
-            ],
-            "primary": {
-              "mobile": false,
-              "content_position": "left",
-              "background_color": "Beige light"
-            },
-            "id": "fullscreen_slider$161a42b6-3eb3-4f84-8b13-6ffe13a24c46",
-            "slice_type": "fullscreen_slider",
-            "slice_label": null
-          },
-          {
-            "variation": "simpleContentParagraph",
-            "version": "initial",
-            "items": [],
-            "primary": {
-              "text_alignment": "center",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "We worked hard to \nmake everything easy.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "paragraph": [
-                {
-                  "type": "paragraph",
-                  "text": "By simplifying every aspect of RV life, we’ve made it accessible and comfortable for everyone.",
-                  "spans": [],
-                  "direction": "ltr"
-                }
-              ],
-              "background_color": "Beige light",
-              "add_anchor": true,
-              "anchor_name": "Living"
-            },
-            "id": "simple_content$48aaba13-e0e6-4aac-9fcd-391e99bbc043",
-            "slice_type": "simple_content",
-            "slice_label": null
-          },
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [
-              {
-                "icon": "Remote",
-                "title": "Remote Control",
-                "content": "In Remote Control mode, you can easily hitch, park, and turn the Pebble Flow just by lifting a finger.",
-                "image": {
-                  "dimensions": { "width": 2079, "height": 2643 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/6528fd12fbd9a45bcec81584_Feature-RemoteControl.png?auto=format,compress",
-                  "id": "ZSj9EvvZpFvOyBWE",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                }
-                "background_color": "Beige light",
-                "add_anchor": true,
-                "anchor_name": "Planning"
-              },
-              {
-                "icon": "Camp",
-                "title": "InstaCamp",
-                "content": "Deploy camp and get settled in within seconds, not hours by using the InstaCamp quick action.",
-                "image": {
-                  "dimensions": { "width": 2085, "height": 2640 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/652dc5a0fbd9a45bcec81749_InstaCamp.png?auto=format,compress",
-                  "id": "ZS3FoPvZpFvOyBdJ",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                }
-                "background_color": "Beige light",
-                "add_anchor": true,
-                "anchor_name": "Something"
-              },
-              {
-                "icon": "Eye",
-                "title": "Status Monitoring",
-                "content": "Easily check-in on the status of your energy levels, tank levels, or solar charge, all from one place.",
-                "image": {
-                  "dimensions": { "width": 1004, "height": 1322 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/652dbef1fbd9a45bcec81747_Status_Monitoring.jpg?auto=format,compress",
-                  "id": "ZS2-8fvZpFvOyBdH",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                }
-              },
-              {
-                "icon": "Light bulb",
-                "title": "Tailored Comfort",
-                "content": "Access a suite of pre-set quick actions on your home screen for climate control and comfort tailored to your preferences.",
-                "image": {
-                  "dimensions": { "width": 1398, "height": 1762 },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/652dc35dfbd9a45bcec81748_TailoredComfort.jpg?auto=format,compress",
-                  "id": "ZS3DXfvZpFvOyBdI",
-                  "edit": {
-                    "x": 0,
-                    "y": 0,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
                 }
               }
-            ],
-            "primary": {},
-            "id": "alternated_content$cba849b2-5568-4657-8768-2927ab085610",
-            "slice_type": "alternated_content",
-            "slice_label": null
+            }
           },
-
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [],
-            "primary": {
-              "text_alignment": "center",
-              "background_color": "Beige light",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "The magic of",
-                  "spans": [],
-                  "direction": "ltr"
+          "footer": {
+            "id": "ZNoo_xAAACYAsCm_",
+            "uid": null,
+            "url": null,
+            "type": "footer",
+            "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-08-14T13:15:46+0000",
+            "last_publication_date": "2023-10-23T17:56:02+0000",
+            "slugs": [],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+              "footer_title": "Swiss gastro solutions.",
+              "newsletter_title": "Subscribe for the latest updates.",
+              "newsletter_button_text": "Subscribe",
+              "links": [{
+                  "title": "services",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "/services",
+                    "target": "_blank"
+                  }
                 },
                 {
-                  "type": "paragraph",
-                  "text": "travel goes beyond",
-                  "spans": [],
-                  "direction": "ltr"
+                  "title": "products",
+                  "link": {
+                    "id": "ZNopaxAAACcAsCve",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "products",
+                    "first_publication_date": "2023-08-14T13:17:34+0000",
+                    "last_publication_date": "2023-10-24T08:58:10+0000",
+                    "uid": "products",
+                    "url": "/products",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
                 },
                 {
-                  "type": "paragraph",
-                  "text": "the destination.",
-                  "spans": [],
-                  "direction": "ltr"
+                  "title": "about",
+                  "link": {
+                    "id": "ZNSYbBAAACcAl6gs",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "about",
+                    "first_publication_date": "2023-08-10T07:57:35+0000",
+                    "last_publication_date": "2024-09-04T00:29:21+0000",
+                    "uid": "about",
+                    "url": "/about",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
+                },
+                {
+                  "title": "shop",
+                  "link": {
+                    "id": "ZRp6xREAAAqLhCtE",
+                    "type": "shop",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "shop",
+                    "first_publication_date": "2023-10-02T08:09:43+0000",
+                    "last_publication_date": "2024-08-06T17:11:32+0000",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
                 }
               ],
-              "add_separator": true,
-              "add_anchor": true,
-              "anchor_name": "Intelligence",
-              "small_spacings": false
-            },
-            "id": "simple_content$f515915f-6463-4b91-b811-3c11a220a36a",
-            "slice_type": "simple_content",
-            "slice_label": null
-          },
-
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [],
-            "primary": {
-              "text_alignment": "center",
-              "background_color": "Green",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "text": "Always be in touch,",
-                  "spans": [],
-                  "direction": "ltr"
+              "social_networks": [{
+                  "title": "Instagram",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.instagram.com/dgmgmbh_/",
+                    "target": "_blank"
+                  }
                 },
                 {
-                  "type": "paragraph",
-                  "text": "even when you’re out",
-                  "spans": [],
-                  "direction": "ltr"
+                  "title": "Facebook",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.facebook.com/dgmgmbh_/",
+                    "target": "_blank"
+                  }
                 },
                 {
-                  "type": "paragraph",
-                  "text": "of reach.",
-                  "spans": [],
-                  "direction": "ltr"
+                  "title": "Linkedin",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.linkedin.com/company/dgm-gmbh/",
+                    "target": "_blank"
+                  }
                 }
               ],
-              "add_separator": false,
-              "add_anchor": true,
-              "anchor_name": "Connectivity",
-              "small_spacings": false
-            },
-            "id": "simple_content$57fc7f14-f502-429c-8a90-6be6b9b81fe6",
-            "slice_type": "simple_content",
-            "slice_label": null
-          },
-          {
-            "variation": "dropdownContent",
-            "version": "initial",
-            "items": [
-              {
-                "dropdown_title": "Do I need an EV to tow the Pebble Flow?",
-                "dropdown_content": [
-                  {
-                    "type": "paragraph",
-                    "text": "You don’t need an EV to tow The Pebble Flow.  Pebble Flow’s dual-motor Active Tow Assist System provides a safe and effortless towing experience and works great for gas, hybrid or EVs. As long as your vehicle has a towing capacity of 6,200 lbs, you’ll be able to tow the Pebble Flow.",
-                    "spans": [],
-                    "direction": "ltr"
+              "footer_bottom_links": [{
+                  "title": "Site by Kazi",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://kazi.ke",
+                    "target": "_blank"
                   }
-                ]
-              },
-              {
-                "dropdown_title": "How do I charge the Pebble Flow?",
-                "dropdown_content": [
-                  {
-                    "type": "paragraph",
-                    "text": "The Pebble Flow can be charged via  AC/DC charging at public stations, at home, campgrounds, and more. The Pebble Flow’s 1kW integrated solar self-charges on the go and is always topping off its power supply.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ]
-              },
-              {
-                "dropdown_title": "Does the Pebble App require the Internet to connect and communicate with the Pebble Flow?",
-                "dropdown_content": [
-                  {
-                    "type": "paragraph",
-                    "text": "No. All communication necessary for Pebble Flow's functions is kept within a local network, bypassing the need for cloud or internet service providers. This localized communication enables Pebble Flow's features to operate seamlessly, regardless of your location, even in remote areas.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ]
-              },
-              {
-                "dropdown_title": "What's included in the Magic Pack",
-                "dropdown_content": [
-                  {
-                    "type": "paragraph",
-                    "text": "The Magic Pack adds a powerful dual-motor setup and bundles a set of world-first features to the Pebble Flow, including Remote Control, Magic Hitch, Easy Tow and more.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ]
-              },
-              {
-                "dropdown_title": "Can I power my home with the Pebble Flow?",
-                "dropdown_content": [
-                  {
-                    "type": "paragraph",
-                    "text": "Yes. The total battery capacity of the Pebble Flow is 3.5x that of a Tesla Powerwall, making it a great home backup battery in the case of an emergency.",
-                    "spans": [],
-                    "direction": "ltr"
-                  }
-                ]
-              }
-            ],
-            "primary": {
-              "title": "FAQs",
-              "left_content_title": null,
-              "left_content_text": [],
-              "right_content_title": null,
-              "right_content_text": []
-            },
-            "id": "dropdown$eed4cf33-7b40-4d13-bd48-e094cb7302d6",
-            "slice_type": "dropdown",
-            "slice_label": null
-          },
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [],
-            "primary": {
-              "background_image": {
-                "dimensions": { "width": 3045, "height": 1786 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65294a2cfbd9a45bcec815a1_cut32.png?auto=format,compress",
-                "id": "ZSlKLPvZpFvOyBWh",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "foreground_image": {
-                "dimensions": { "width": 3045, "height": 1786 },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/652949d3fbd9a45bcec815a0_cut3.png?auto=format,compress",
-                "id": "ZSlJ0_vZpFvOyBWg",
-                "edit": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 1,
-                  "background": "transparent"
-                }
-              },
-              "suptitle": "Starting at $109,000",
-              "title": "join the ride",
-              "button_title": null,
-              "button": { "link_type": "Any" },
-              "secondary_button_text": "Pre-order",
-              "secondary_button": {
-                "id": "ZRp6xREAAAqLhCtE",
-                "type": "preorder",
-                "tags": [],
-                "lang": "en-us",
-                "slug": "pre-order",
-                "first_publication_date": "2023-10-02T08:09:43+0000",
-                "last_publication_date": "2024-08-06T17:11:32+0000",
-                "link_type": "Document",
-                "isBroken": false
-              },
-              "bottom_text": "est. Start of Production: End of 2024"
-            },
-            "id": "pre_footer$c3c60cb3-e197-41d7-a701-f9ad642a7a44",
-            "slice_type": "pre_footer",
-            "slice_label": null
-          },
-          {
-            "variation": "default",
-            "version": "initial",
-            "items": [],
-            "primary": {},
-            "id": "anchors$a8545d66-c288-488e-80e1-7579ba1a0e34",
-            "slice_type": "anchors",
-            "slice_label": null
-          }
-        ],
-        "meta_title": "Pebble Flow | All-electric Hassle-free RV",
-        "meta_description": "We power the kitchens of our favorite restaurants.",
-        "meta_image": {
-          "dimensions": { "width": 2400, "height": 1260 },
-          "alt": null,
-          "copyright": null,
-          "url": "https://ik.imagekit.io/dgmbyrekazi/d/65202d86fbd9a45bcec80f03_full.png?auto=format%2Ccompress&rect=0%2C41%2C2200%2C1155&w=2400&h=1260",
-          "id": "ZSAthvvZpFvOyA8D",
-          "edit": { "x": 0, "y": 41, "zoom": 1, "background": "transparent" }
-        }
-      }
-    },
-    "footer": {
-      "id": "ZNoo_xAAACYAsCm_",
-      "uid": null,
-      "url": null,
-      "type": "footer",
-      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
-      "tags": [],
-      "first_publication_date": "2023-08-14T13:15:46+0000",
-      "last_publication_date": "2023-10-23T17:56:02+0000",
-      "slugs": [],
-      "linked_documents": [],
-      "lang": "en-us",
-      "alternate_languages": [],
-      "data": {
-        "footer_title": "Where home meets the road.",
-        "newsletter_title": "Subscribe for the latest Pebble updates.",
-        "newsletter_button_text": "Join us",
-        "links": [
-          {
-            "title": "product",
-            "link": {
-              "id": "ZNopgxAAACgAsCxa",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "green",
-              "first_publication_date": "2023-08-14T13:17:58+0000",
-              "last_publication_date": "2024-07-31T00:35:59+0000",
-              "uid": "pebble-flow",
-              "url": "/pebble-flow",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "app",
-            "link": {
-              "id": "ZNopaxAAACcAsCve",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "adventureinspiredapp-driven.",
-              "first_publication_date": "2023-08-14T13:17:34+0000",
-              "last_publication_date": "2023-10-24T08:58:10+0000",
-              "uid": "pebble-app",
-              "url": "/pebble-app",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "company",
-            "link": {
-              "id": "ZNSYbBAAACcAl6gs",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "our-team",
-              "first_publication_date": "2023-08-10T07:57:35+0000",
-              "last_publication_date": "2024-09-04T00:29:21+0000",
-              "uid": "company",
-              "url": "/company",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "community",
-            "link": {
-              "id": "ZNSWxhAAACgAl6A1",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-10T07:50:33+0000",
-              "last_publication_date": "2023-10-31T10:00:14+0000",
-              "uid": "community",
-              "url": "/community",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "press",
-            "link": {
-              "id": "ZNopnhAAACgAsCzn",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "media--press",
-              "first_publication_date": "2023-08-14T13:18:24+0000",
-              "last_publication_date": "2023-10-19T06:44:58+0000",
-              "uid": "press",
-              "url": "/press",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "preorder",
-            "link": {
-              "id": "ZRp6xREAAAqLhCtE",
-              "type": "preorder",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "pre-order",
-              "first_publication_date": "2023-10-02T08:09:43+0000",
-              "last_publication_date": "2024-08-06T17:11:32+0000",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          }
-        ],
-        "social_networks": [
-          {
-            "title": "Instagram",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.instagram.com/pebblenow/",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Facebook",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.facebook.com/pebblenow/",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Linkedin",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.linkedin.com/company/pebblelife/",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "X",
-            "link": {
-              "link_type": "Web",
-              "url": "https://twitter.com/PebbleLife",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Discord",
-            "link": {
-              "link_type": "Web",
-              "url": "https://pbbl.cc/discord",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Youtube",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.youtube.com/@PebbleLife",
-              "target": "_blank"
-            }
-          }
-        ],
-        "footer_bottom_links": [
-          {
-            "title": "Privacy policy",
-            "link": {
-              "id": "ZNopGRAAACkAsCpb",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-14T13:16:12+0000",
-              "last_publication_date": "2023-10-19T07:31:29+0000",
-              "uid": "privacy-policy",
-              "url": "/privacy-policy",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "Terms & conditions",
-            "link": {
-              "id": "ZNopVRAAACcAsCtv",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-14T13:17:11+0000",
-              "last_publication_date": "2023-10-18T17:32:27+0000",
-              "uid": "terms-service",
-              "url": "/terms-service",
-              "link_type": "Document",
-              "isBroken": false
+                },
+                {
+                  "title": "Impressum",
+                  "link": {
+                    "id": "ZNopVRAAACcAsCtv",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "-",
+                    "first_publication_date": "2023-08-14T13:17:11+0000",
+                    "last_publication_date": "2023-10-18T17:32:27+0000",
+                    "uid": "impressum",
+                    "url": "/impressum",
+                    "link_type": "Document",
+                    "isBroken": false
             }
           }
         ]
