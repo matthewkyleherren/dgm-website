@@ -1034,12 +1034,12 @@
                       }),
                       (0, n.jsx)("div", {
                         className:
-                          "absolute top-0 left-0 w-full h-full bg-light_beige rounded-12",
+                          "absolute top-0 left-0 w-full h-full bg-black rounded-12",
                       }),
                       (0, n.jsx)("h1", {
                         ref: g,
                         className:
-                          "w-[80%] md:w-full text-center font-headings text-[5.6rem] -tracking-[0.252rem] leading-[89%] md:text-[8rem] lg:text-160 lg:-tracking-[0.96rem] lg:leading-[75%] lowercase text-dark_grey",
+                          "w-[80%] md:w-full text-center font-headings text-[5.6rem] -tracking-[0.252rem] leading-[89%] md:text-[8rem] lg:text-160 lg:-tracking-[0.96rem] lg:leading-[75%] lowercase text-orange",
                         children: (0, n.jsx)(s.v, { field: r.primary.title }),
                       }),
                       (0, n.jsx)("div", {

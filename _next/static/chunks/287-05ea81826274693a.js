@@ -11,7 +11,7 @@
           r = t.meta_title
             ? t.meta_title
             : t.title
-              ? "Pebble | ".concat(t.title)
+              ? "DGM | ".concat(t.title)
               : "Pebble Mobility";
         return (0, a.jsxs)(n(), {
           children: [
