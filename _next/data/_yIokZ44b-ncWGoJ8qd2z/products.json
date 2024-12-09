@@ -351,199 +351,124 @@
       }
     },
     "footer": {
-      "id": "ZNoo_xAAACYAsCm_",
-      "uid": null,
-      "url": null,
-      "type": "footer",
-      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
-      "tags": [],
-      "first_publication_date": "2023-08-14T13:15:46+0000",
-      "last_publication_date": "2023-10-23T17:56:02+0000",
-      "slugs": [],
-      "linked_documents": [],
-      "lang": "en-us",
-      "alternate_languages": [],
-      "data": {
-        "footer_title": "Where home meets the road.",
-        "newsletter_title": "Subscribe for the latest Pebble updates.",
-        "newsletter_button_text": "Join us",
-        "links": [
-          {
-            "title": "product",
-            "link": {
-              "id": "ZNopgxAAACgAsCxa",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "green",
-              "first_publication_date": "2023-08-14T13:17:58+0000",
-              "last_publication_date": "2024-07-31T00:35:59+0000",
-              "uid": "pebble-flow",
-              "url": "/pebble-flow",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "app",
-            "link": {
-              "id": "ZNopaxAAACcAsCve",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "adventureinspiredapp-driven.",
-              "first_publication_date": "2023-08-14T13:17:34+0000",
-              "last_publication_date": "2023-10-24T08:58:10+0000",
-              "uid": "pebble-app",
-              "url": "/pebble-app",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "company",
-            "link": {
-              "id": "ZNSYbBAAACcAl6gs",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "our-team",
-              "first_publication_date": "2023-08-10T07:57:35+0000",
-              "last_publication_date": "2024-09-04T00:29:21+0000",
-              "uid": "company",
-              "url": "/company",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "community",
-            "link": {
-              "id": "ZNSWxhAAACgAl6A1",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-10T07:50:33+0000",
-              "last_publication_date": "2023-10-31T10:00:14+0000",
-              "uid": "community",
-              "url": "/community",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "press",
-            "link": {
-              "id": "ZNopnhAAACgAsCzn",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "media--press",
-              "first_publication_date": "2023-08-14T13:18:24+0000",
-              "last_publication_date": "2023-10-19T06:44:58+0000",
-              "uid": "press",
-              "url": "/press",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "preorder",
-            "link": {
-              "id": "ZRp6xREAAAqLhCtE",
-              "type": "preorder",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "pre-order",
-              "first_publication_date": "2023-10-02T08:09:43+0000",
-              "last_publication_date": "2024-08-06T17:11:32+0000",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          }
-        ],
-        "social_networks": [
-          {
-            "title": "Instagram",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.instagram.com/pebblenow/",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Facebook",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.facebook.com/pebblenow/",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Linkedin",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.linkedin.com/company/pebblelife/",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "X",
-            "link": {
-              "link_type": "Web",
-              "url": "https://twitter.com/PebbleLife",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Discord",
-            "link": {
-              "link_type": "Web",
-              "url": "https://pbbl.cc/discord",
-              "target": "_blank"
-            }
-          },
-          {
-            "title": "Youtube",
-            "link": {
-              "link_type": "Web",
-              "url": "https://www.youtube.com/@PebbleLife",
-              "target": "_blank"
-            }
-          }
-        ],
-        "footer_bottom_links": [
-          {
-            "title": "Privacy policy",
-            "link": {
-              "id": "ZNopGRAAACkAsCpb",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-14T13:16:12+0000",
-              "last_publication_date": "2023-10-19T07:31:29+0000",
-              "uid": "privacy-policy",
-              "url": "/privacy-policy",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "Terms & conditions",
-            "link": {
-              "id": "ZNopVRAAACcAsCtv",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-14T13:17:11+0000",
-              "last_publication_date": "2023-10-18T17:32:27+0000",
-              "uid": "terms-service",
-              "url": "/terms-service",
-              "link_type": "Document",
-              "isBroken": false
+            "id": "ZNoo_xAAACYAsCm_",
+            "uid": null,
+            "url": null,
+            "type": "footer",
+            "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-08-14T13:15:46+0000",
+            "last_publication_date": "2023-10-23T17:56:02+0000",
+            "slugs": [],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+              "footer_title": "Swiss gastro solutions.",
+              "newsletter_title": "Subscribe for the latest updates.",
+              "newsletter_button_text": "Subscribe",
+              "links": [{
+                  "title": "services",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "/services",
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "title": "products",
+                  "link": {
+                    "id": "ZNopaxAAACcAsCve",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "products",
+                    "first_publication_date": "2023-08-14T13:17:34+0000",
+                    "last_publication_date": "2023-10-24T08:58:10+0000",
+                    "uid": "products",
+                    "url": "/products",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
+                },
+                {
+                  "title": "about",
+                  "link": {
+                    "id": "ZNSYbBAAACcAl6gs",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "about",
+                    "first_publication_date": "2023-08-10T07:57:35+0000",
+                    "last_publication_date": "2024-09-04T00:29:21+0000",
+                    "uid": "about",
+                    "url": "/about",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
+                },
+                {
+                  "title": "shop",
+                  "link": {
+                    "id": "ZRp6xREAAAqLhCtE",
+                    "type": "shop",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "shop",
+                    "first_publication_date": "2023-10-02T08:09:43+0000",
+                    "last_publication_date": "2024-08-06T17:11:32+0000",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
+                }
+              ],
+              "social_networks": [{
+                  "title": "Instagram",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.instagram.com/dgmgmbh_/",
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "title": "Facebook",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.facebook.com/dgmgmbh_/",
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "title": "Linkedin",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.linkedin.com/company/dgm-gmbh/",
+                    "target": "_blank"
+                  }
+                }
+              ],
+              "footer_bottom_links": [{
+                  "title": "Site by Kazi",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://kazi.ke",
+                    "target": "_blank"
+                  }
+                },
+                {
+                  "title": "Impressum",
+                  "link": {
+                    "id": "ZNopVRAAACcAsCtv",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "-",
+                    "first_publication_date": "2023-08-14T13:17:11+0000",
+                    "last_publication_date": "2023-10-18T17:32:27+0000",
+                    "uid": "impressum",
+                    "url": "/impressum",
+                    "link_type": "Document",
+                    "isBroken": false
             }
           }
         ]
