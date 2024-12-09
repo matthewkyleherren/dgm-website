@@ -637,17 +637,9 @@
           {
             "title": "services",
             "link": {
-              "id": "ZNopgxAAACgAsCxa",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "services",
-              "first_publication_date": "2023-08-14T13:17:58+0000",
-              "last_publication_date": "2024-07-31T00:35:59+0000",
-              "uid": "services",
+              "link_type": "Web",
               "url": "/services",
-              "link_type": "Document",
-              "isBroken": false
+              "target": "_self"
             }
           },
           {
@@ -678,38 +670,6 @@
               "last_publication_date": "2024-09-04T00:29:21+0000",
               "uid": "about",
               "url": "/about",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "community",
-            "link": {
-              "id": "ZNSWxhAAACgAl6A1",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "-",
-              "first_publication_date": "2023-08-10T07:50:33+0000",
-              "last_publication_date": "2023-10-31T10:00:14+0000",
-              "uid": "community",
-              "url": "/community",
-              "link_type": "Document",
-              "isBroken": false
-            }
-          },
-          {
-            "title": "press",
-            "link": {
-              "id": "ZNopnhAAACgAsCzn",
-              "type": "page",
-              "tags": [],
-              "lang": "en-us",
-              "slug": "media--press",
-              "first_publication_date": "2023-08-14T13:18:24+0000",
-              "last_publication_date": "2023-10-19T06:44:58+0000",
-              "uid": "press",
-              "url": "/press",
               "link_type": "Document",
               "isBroken": false
             }
