@@ -685,30 +685,22 @@
                     "White" === t.primary.background_color
                       ? "bg-white"
                       : "Beige light" === t.primary.background_color
-                        ? "bg-orange"
-                        : "Orange" === t.primary.background_color
-                        ? "bg-orange"
-                        : "Black" === t.primary.background_color
-                        ? "bg-black"
+                        ? "bg-light_beige"
                         : "Beige dark" === t.primary.background_color
                           ? "bg-dark_beige"
                           : "Grey dark" === t.primary.background_color
-                            ? "bg-orange"
-                            : "bg-orange",
+                            ? "bg-dark_grey"
+                            : "bg-green",
                     " \n          ",
                   )
                   .concat(
                     "White" === t.primary.background_color ||
                       ("Beige light" === t.primary.background_color &&
                         (t.primary.paragraph || !t.primary.second_content))
-                      ? "text-black"
+                      ? "text-dark_grey"
                       : "Beige light" === t.primary.background_color
-                        ? "text-black"
-                        : "Black" === t.primary.background_color
-                        ? "text-orange"
-                        : "Orange" === t.primary.background_color
-                        ? "text-black"
-                        : "text-orange",
+                        ? "text-dark_beige"
+                        : "text-light_beige",
                     "\n          ",
                   ),
               children: (0, n.jsxs)("div", {

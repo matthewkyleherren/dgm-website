@@ -1,0 +1,657 @@
+{
+  "pageProps": {
+    "page": {
+      "id": "ZjE3PhIAAM0C4uZ4",
+      "uid": "pebbles-easy-tow-paves-a-future-where-towing-is-accessible-and-enjoyable",
+      "url": "/post/pebbles-easy-tow-paves-a-future-where-towing-is-accessible-and-enjoyable",
+      "type": "post",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZjE3PhIAAM0C4uZ4%22%29+%5D%5D",
+      "tags": ["Tech", "Engineering"],
+      "first_publication_date": "2024-04-30T20:22:29+0000",
+      "last_publication_date": "2024-04-30T20:22:29+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "title": "Pebble’s Easy Tow Paves A Future Where Towing Is Accessible and Enjoyable",
+        "main_image": {
+          "dimensions": { "width": 3840, "height": 2160 },
+          "alt": null,
+          "copyright": null,
+          "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.jpg?auto=format,compress",
+          "id": "ZjFQsEMTzAJOCdNu",
+          "edit": { "x": 0, "y": 0, "zoom": 1, "background": "transparent" }
+        },
+        "author": "Ivan Wang",
+        "date": "2024-04-30",
+        "slices": [
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "text": [
+                {
+                  "type": "paragraph",
+                  "text": "Watch Full Video",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "https://youtu.be/BjlEOJMJKak",
+                        "target": "_self"
+                      }
+                    },
+                    { "start": 0, "end": 16, "type": "strong" }
+                  ],
+                  "direction": "ltr"
+                }
+              ],
+              "author": null,
+              "job": null
+            },
+            "id": "quote$65de4e08-53f2-41c3-9fac-e729fa9d9629",
+            "slice_type": "quote",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [
+              {
+                "image": {
+                  "dimensions": { "width": 960, "height": 540 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZjE40EMTzAJOCdHI_IMB_r0MM7T.gif?auto=format,compress",
+                  "id": "ZjE40EMTzAJOCdHI",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                }
+              }
+            ],
+            "primary": {},
+            "id": "slider$60e497ae-d714-40e0-92e5-afd6515113e2",
+            "slice_type": "slider",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "Towing presents a set of challenges on the road. From safety concerns to decreased efficiency, towing can detract from the joy of the journey. The increasing adoption of electric vehicles (EVs) in recent years has added a layer of complexity, introducing issues related to towing capability, charging logistics, and range anxiety.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$e7731938-3f4d-4bb9-b67a-500113951c36",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [
+                {
+                  "type": "heading4",
+                  "text": "Challenges of Towing with EVs",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "When towing a travel trailer with electric vehicles, the additional weight and drag significantly increase your energy consumption and thus impact your vehicle’s range, which means more money and time spent on charging and the added stress of finding a charging spot. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "“It’s been very clear now for a couple of years that the use case of towing with an EV is broken” - Stefan Solyom, CTO of Pebble. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "That is, until Easy Tow.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$a50b48fa-5414-4f19-bc22-469c96ef100d",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [
+                {
+                  "type": "paragraph",
+                  "text": "Every Moment Matters",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "Pebble’s mission is to empower anyone to take their lifestyle on the road by making it as simple, accessible, and as beautiful as possible.  ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Every choice we make is intended to give you more opportunity, flexibility and access while also giving you back more time for the moments that matter most. This led us to ponder: How can we eliminate the towing hassles and provide our customers with more time for adventure? ",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$94bdb7a8-e2b5-41ab-b5ff-0b392bff8691",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [
+              {
+                "image": {
+                  "dimensions": { "width": 569, "height": 320 },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://ik.imagekit.io/dgmbyrekazi/d/ZjFRnkMTzAJOCdN4_IMB_sHT85n.GIF?auto=format,compress",
+                  "id": "ZjFRnkMTzAJOCdN4",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
+                }
+              }
+            ],
+            "primary": {},
+            "id": "slider$5f7cbfd0-2128-4f85-8774-b9690ee1167b",
+            "slice_type": "slider",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [
+                {
+                  "type": "paragraph",
+                  "text": "Aerodynamic Design",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "“It’s by far the largest contributor to range loss. The entire journey of how the air comes and goes is important. Every surface needs to be analyzed.”  - William Li, Head of Mechanical Engineering of Pebble. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Drag, lift, headwinds, crosswinds. How the air goes around the front corners and then the back corner. How the crosswinds attack your sidewalls and go over your roof. These are all elements of aerodynamics. How the air flows impacts not just your driving efficiency but also your towing stability.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pebble’s approach to tackling these challenges involves both design and technology. The streamlined design of the Pebble Flow features rounded edges and smooth surfaces complemented by a patented active aero system. The system features a telescoping aero component at the trailer’s front which automatically elevates itself at high speeds and lowers when parked. It redirects airflow from the tow vehicle to avoid direct impact on the flat front window, thereby decreasing drag and improving the overall towing stability. We’ve spent countless hours refining the design through advanced computational simulations. We want the air to come in nicely, and leave gracefully, in all directions. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The result – 300% as aerodynamic as a conventional travel trailer. The impact of these enhancements is substantial. ",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$f9af29c3-2fb1-4bd6-8c5d-6a2e82534c64",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [{ "image": {} }],
+            "primary": {},
+            "id": "slider$68d701f7-71f1-44a0-9b42-f03884d36741",
+            "slice_type": "slider",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [
+                {
+                  "type": "paragraph",
+                  "text": "Easy Tow",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "Towing should be safe and effortless, whether towing with an SUV, a pick-up truck, a gas vehicle or an EV. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "While enhancing aerodynamics boosts towing stability and efficiency, we’ve gone a step further to reduce the power required by the tow vehicle, thereby extending your range. The Pebble Flow with Magic Pack is equipped with a dual-motor Active Propulsion Assist System, powered by two electric motors. The industry-first system intelligently supplies the optimal amount of torque, making you almost forget you’re pulling a load. Using the Pebble App, you can pre-set your desired state of charge for when you arrive at your destination, allowing the system to intelligently optimize the propulsion assist in real-time. Alternatively, you have the flexibility to manually activate or deactivate the system at any time. Stefan puts it compellingly, “The transition from Easy Tow off to Easy Tow on is so profound, it becomes addictive”. \n",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Easy Tow drastically lowers the energy and torque demands on the tow vehicle, alleviating range concerns for EV drivers and improving fuel efficiency for those with gas-powered vehicles.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$940b61f2-e4eb-4024-a0ae-cbb76a6cacdf",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [
+                {
+                  "type": "paragraph",
+                  "text": "Regenerative Braking",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "The ease doesn’t end with propulsion assist. Setting the Pebble Flow apart from conventional travel trailers, it is equipped with three braking systems: automotive friction brakes for reliable stopping power, parking brakes eliminating the need for wheel chocks and regenerative braking, mirroring the driving experience of an electric vehicle. The regenerative braking system not only ensures smooth and effective deceleration but also instills confidence during descents, as it actively slows the vehicle while simultaneously recharging Pebble Flow’s battery. This harmonious blend of technology ensures that drivers experience superior stopping behavior and peace of mind while towing, especially when navigating down steep mountainous terrain.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$ab12b3e6-d1a6-48cf-acf6-79a86596cccb",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "content_left": [
+                {
+                  "type": "paragraph",
+                  "text": "Development Progress",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "content_right": [
+                {
+                  "type": "paragraph",
+                  "text": "Since unveiling the Pebble Flow last year, continuous enhancements have been made to both hardware and software. Through rigorous testing with popular tow vehicle options, including all-electric ones like the Tesla Cybertruck and Rivian R1S, we’ve observed encouraging outcomes.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EV efficiency is commonly measured in miles per kilowatt-hour (miles per kWh). This metric indicates how many miles an EV can travel on one kilowatt-hour of electricity; therefore, higher figures mean better efficiency. When towing, the efficiency of EVs decreases dramatically due to air resistance and weight. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "According to feedback from Rivian owners in the Pebble Community, towing a 5,500 lbs travel trailer with a Rivian R1S typically results in an efficiency of 0.8 to 1.2 miles per kWh. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The preliminary data reported by the R1S towing a 6,200 lbs Pebble Flow engineering prototype however show that at a constant speed of 55 mph, the average efficiency stands at 1.4 miles per kWh without active propulsion assist. This increases to 1.8 miles per kWh when the active propulsion assist system is activated. While the initial results are promising, we at Pebble are committed to further testing and enhancing performance ahead of production commencement later this year.\n",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "For exclusive insights, test and validation progress, production readiness, and the latest news, we encourage you to subscribe to our newsletter, follow our social media channels, and join the vibrant Pebble Community on Discord, where we share behind-the-scenes glimpses and engage directly with our passionate followers. \n",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "background": "White",
+              "separators": false
+            },
+            "id": "content$e2c3f887-af46-4747-aaa7-092b29751257",
+            "slice_type": "content",
+            "slice_label": null
+          },
+          {
+            "variation": "default",
+            "version": "initial",
+            "items": [],
+            "primary": {
+              "text": [
+                {
+                  "type": "paragraph",
+                  "text": "Like always, thank you for being a part of Pebble’s journey!",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ],
+              "author": null,
+              "job": null
+            },
+            "id": "quote$222800bc-4740-4e29-9769-74f2d85acca2",
+            "slice_type": "quote",
+            "slice_label": null
+          }
+        ],
+        "meta_title": null,
+        "meta_description": null,
+        "meta_image": {}
+      }
+    },
+    "tags": ["Tech", "Engineering"],
+    "footer": {
+      "id": "ZNoo_xAAACYAsCm_",
+      "uid": null,
+      "url": null,
+      "type": "footer",
+      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-08-14T13:15:46+0000",
+      "last_publication_date": "2023-10-23T17:56:02+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "footer_title": "Swiss Gastro Solutions.",
+        "newsletter_title": "Subscribe for the latest Pebble updates.",
+        "newsletter_button_text": "Join us",
+        "links": [
+          {
+            "title": "product",
+            "link": {
+              "id": "ZNopgxAAACgAsCxa",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "green",
+              "first_publication_date": "2023-08-14T13:17:58+0000",
+              "last_publication_date": "2024-07-31T00:35:59+0000",
+              "uid": "pebble-flow",
+              "url": "/pebble-flow",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "app",
+            "link": {
+              "id": "ZNopaxAAACcAsCve",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "adventureinspiredapp-driven.",
+              "first_publication_date": "2023-08-14T13:17:34+0000",
+              "last_publication_date": "2023-10-24T08:58:10+0000",
+              "uid": "pebble-app",
+              "url": "/pebble-app",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "company",
+            "link": {
+              "id": "ZNSYbBAAACcAl6gs",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "our-team",
+              "first_publication_date": "2023-08-10T07:57:35+0000",
+              "last_publication_date": "2024-09-04T00:29:21+0000",
+              "uid": "company",
+              "url": "/company",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "community",
+            "link": {
+              "id": "ZNSWxhAAACgAl6A1",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-10T07:50:33+0000",
+              "last_publication_date": "2023-10-31T10:00:14+0000",
+              "uid": "community",
+              "url": "/community",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "press",
+            "link": {
+              "id": "ZNopnhAAACgAsCzn",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "media--press",
+              "first_publication_date": "2023-08-14T13:18:24+0000",
+              "last_publication_date": "2023-10-19T06:44:58+0000",
+              "uid": "press",
+              "url": "/press",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "preorder",
+            "link": {
+              "id": "ZRp6xREAAAqLhCtE",
+              "type": "preorder",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "pre-order",
+              "first_publication_date": "2023-10-02T08:09:43+0000",
+              "last_publication_date": "2024-08-06T17:11:32+0000",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          }
+        ],
+        "social_networks": [
+          {
+            "title": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.instagram.com/pebblenow/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Facebook",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.facebook.com/pebblenow/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.linkedin.com/company/pebblelife/",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "X",
+            "link": {
+              "link_type": "Web",
+              "url": "https://twitter.com/PebbleLife",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Discord",
+            "link": {
+              "link_type": "Web",
+              "url": "https://pbbl.cc/discord",
+              "target": "_blank"
+            }
+          },
+          {
+            "title": "Youtube",
+            "link": {
+              "link_type": "Web",
+              "url": "https://www.youtube.com/@PebbleLife",
+              "target": "_blank"
+            }
+          }
+        ],
+        "footer_bottom_links": [
+          {
+            "title": "Privacy policy",
+            "link": {
+              "id": "ZNopGRAAACkAsCpb",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-14T13:16:12+0000",
+              "last_publication_date": "2023-10-19T07:31:29+0000",
+              "uid": "privacy-policy",
+              "url": "/privacy-policy",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Terms & conditions",
+            "link": {
+              "id": "ZNopVRAAACcAsCtv",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "-",
+              "first_publication_date": "2023-08-14T13:17:11+0000",
+              "last_publication_date": "2023-10-18T17:32:27+0000",
+              "uid": "terms-service",
+              "url": "/terms-service",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          }
+        ]
+      }
+    }
+  },
+  "__N_SSG": true
+}
