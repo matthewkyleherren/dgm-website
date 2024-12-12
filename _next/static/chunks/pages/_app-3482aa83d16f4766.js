@@ -16392,8 +16392,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                         className:
                           "header-logo relative rounded-10 md:rounded-12 pointer-events-auto overflow-hidden transition-bg duration-global ease-out opacity-0 ".concat(
                             tt
-                              ? "bg-light_beige h-[5.2rem] lg:h-[6.2rem] ml-[0.2rem] mt-[0.2rem] w-[5.2rem] lg:w-[6.2rem]"
-                              : "bg-white h-[5.6rem] lg:h-[6.6rem] w-[5.6rem] lg:w-[6.6rem]",
+                              ? "bg-green h-[5.2rem] lg:h-[6.2rem] ml-[0.2rem] mt-[0.2rem] w-[5.2rem] lg:w-[6.2rem]"
+                              : "bg-green h-[5.6rem] lg:h-[6.6rem] w-[5.6rem] lg:w-[6.6rem]",
                             " ",
                           ),
                         children: (0, s.jsx)(I.Z, {
@@ -16410,7 +16410,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                       (0, s.jsxs)("div", {
                         ref: a,
                         className:
-                          "hidden relative xl:flex mobile:hidden w-[16.2rem] rounded-12 bg-white items-center lg:h-[6.6rem] opacity-0",
+                          "hidden relative xl:flex mobile:hidden w-[16.2rem] rounded-12 bg-green items-center lg:h-[6.6rem] opacity-0",
                         onMouseEnter: () => tr(!0),
                         onMouseLeave: () => {
                           if (Q <= 1024) return;
@@ -16554,7 +16554,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                 children: [
                                   (0, s.jsx)("div", {
                                     className:
-                                      "absolute top-0 left-0 w-full h-full bg-white rounded-s-12 rounded-e-none -z-1 pointer-events-auto",
+                                      "absolute top-0 left-0 w-full h-full bg-green rounded-s-12 rounded-e-none -z-1 pointer-events-auto",
                                     ref: l,
                                   }),
                                   q.data.navigation_links.map((t, e) =>
@@ -16566,7 +16566,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                         children: (0, s.jsx)(I.Z, {
                                           field: t.link,
                                           className:
-                                            "body-mono-10 tracking-0.05 text-dark_grey",
+                                            "body-mono-10 tracking-0.05 text-white",
                                           children: (0, s.jsx)("span", {
                                             onMouseEnter: () => ta(e),
                                             ref: (t) => (f.current[e] = t),
@@ -16604,7 +16604,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                       });
                                 },
                                 className:
-                                  "bg-light_beige flex justify-center items-center h-full rounded-10 body-mono-10 tracking-0.05 text-dark_grey",
+                                  "bg-black flex justify-center items-center h-full rounded-10 body-mono-10 tracking-0.05 text-orange",
                                 children: q.data.cta_text,
                               }),
                             }),

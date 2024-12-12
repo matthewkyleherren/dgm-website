@@ -471,14 +471,14 @@ video {
   display: none;
 }
 :root {
-  --color-orange: 251 115 57;
+  --color-orange: 255 107 0;
   --color-white: 242 239 233;
-  --color-light-beige: 215 209 198;
-  --color-dark-beige: 163 155 139;
-  --color-dark-grey: 87 83 73;
+  --color-light-beige: 230 230 230;
+  --color-dark-beige: 160 160 160;
+  --color-dark-grey: 100 100 100;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 60 66 53;
+  --color-green: 25 25 25;
   --color-grid: var(--color-orange);
 }
 
@@ -490,7 +490,7 @@ video {
   --color-dark-grey: 100 100 100;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 60 66 53;
+  --color-green: 25 25 25;
   --color-grid: var(--color-orange);
 }
 
@@ -5547,7 +5547,7 @@ ul {
   --color-dark-grey: 100 100 100;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 60 66 53;
+  --color-green: 25 25 25;
   --color-grid: var(--color-orange);
 }
 

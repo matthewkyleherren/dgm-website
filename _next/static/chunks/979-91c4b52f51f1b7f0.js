@@ -370,7 +370,7 @@
           return (0, r.jsxs)("footer", {
             ref: s,
             className:
-              "px-container overflow-hidden py-32 md:pt-48 md:pb-[4.4rem] bg-orange text-black popup:hidden",
+              "px-container overflow-hidden py-32 md:pt-48 md:pb-[4.4rem] bg-green text-white popup:hidden",
             children: [
               (0, r.jsxs)("div", {
                 ref: c,

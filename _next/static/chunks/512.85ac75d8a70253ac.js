@@ -1519,7 +1519,7 @@
                       "absolute left-0 top-0 w-full h-full bg-dots bg-size-dots bg-repeat z-0 opacity-40",
                   }),
                   (0, n.jsx)("div", {
-                    className: "relative bg-light_beige z-1",
+                    className: "relative bg-green z-1",
                     children: (0, n.jsxs)("div", {
                       ref: m,
                       className:
