@@ -930,7 +930,7 @@
                           (0, n.jsx)("h1", {
                             ref: x,
                             className:
-                              "absolute top-[45%] md:top-1/2 left-0 w-full -translate-y-1/2 font-headings text-orange text-center overflow-hidden",
+                              "absolute top-[45%] md:top-1/2 left-0 w-full -translate-y-1/2 font-headings text-white text-center overflow-hidden",
                             children:
                               "default" === r.variation
                                 ? (0, n.jsx)("div", {

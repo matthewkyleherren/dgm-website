@@ -518,7 +518,7 @@
               (0, n.jsx)("div", {
                 ref: s,
                 className:
-                  "w-[80%] mx-auto opacity-0 invisible h-[45%] mt-[3rem] flex items-center justify-center text-44 leading-[86%] text-white text-center font-headings -tracking-[0.176rem]",
+                  "w-[80%] mx-auto opacity-0 invisible h-[45%] mt-[3rem] uppercase flex items-center justify-center text-44 leading-[86%] text-white text-center font-headings -tracking-[0.176rem]",
                 children: r,
               }),
               (0, n.jsx)("div", {
@@ -550,9 +550,9 @@
             }, []),
             (0, n.jsx)("div", {
               ref: c,
-              className: "flex-1 flex justify-between text-14 text-dark_grey",
+              className: "flex-1 flex justify-between text-12 font-body-mono uppercase text-dark_grey",
               children: (0, n.jsx)("div", {
-                className: "w-[65%] 2xl:w-[55%] text-center mx-auto",
+                className: "w-[65%] 2xl:w-[55%] text-justify mx-auto",
                 children: (0, n.jsx)(o.v, { field: l }),
               }),
             })
@@ -607,7 +607,7 @@
             };
           return (0, n.jsxs)("div", {
             ref: t,
-            className: "relative font-body-mono text-10 whitespace-nowrap",
+            className: "relative text-10 whitespace-nowrap",
             children: [
               (0, n.jsxs)("div", {
                 className: "text-dark_beige",
@@ -617,7 +617,7 @@
                 ref: s,
                 className: "overflow-hidden absolute left-0 top-0",
                 children: (0, n.jsxs)("div", {
-                  className: "text-dark_grey",
+                  className: "text-orange",
                   children: [r + 1, ".", l],
                 }),
               }),
@@ -684,7 +684,7 @@
               s &&
               (0, n.jsx)("div", {
                 className:
-                  "block w-full text-center bg-white xl:bg-light_beige landscape:bg-light_beige xl:transition-bg xl:duration-global xl:ease-out xl:hover:bg-dark_beige/50 text-dark_grey rounded-[0.8rem] xl:text-10 tracking-[0.05rem] leading-[180%] md:text-12 md:tracking-[0.036rem] md:leading-[200%] font-body-mono uppercase",
+                  "nope block w-full text-center bg-white xl:bg-light_beige landscape:bg-light_beige xl:transition-bg xl:duration-global xl:ease-out xl:hover:bg-dark_beige/50 text-dark_grey rounded-[0.8rem] xl:text-10 tracking-[0.05rem] leading-[180%] md:text-12 md:tracking-[0.036rem] md:leading-[200%] font-body-mono uppercase",
                 children: (0, n.jsxs)(m.f, {
                   className:
                     "flex justify-center items-center w-full py-[1.7rem] xl:py-[2.1rem]",

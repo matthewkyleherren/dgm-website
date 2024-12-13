@@ -2841,6 +2841,7 @@ video {
 }
 .font-headings {
   font-family: Youth, sans-serif;
+  font-weight: 300 !important;
 }
 .text-10 {
   font-size: clamp(10px, 1rem, 13px);
@@ -3155,6 +3156,11 @@ video {
   --tw-text-opacity: 1;
   color: rgb(var(--color-white) / var(--tw-text-opacity));
 }
+
+.text-justify {
+ text-align: justify;
+}
+
 .opacity-0 {
   opacity: 0;
 }

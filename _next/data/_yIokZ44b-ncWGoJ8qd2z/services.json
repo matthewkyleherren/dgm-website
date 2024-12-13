@@ -27,7 +27,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/7hero_d_bg.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/7hero_d_bg.webp?auto=format,compress",
                       "id": "ZSAthvvZpFvOyA8D",
                       "edit": {
                         "x": 0,
@@ -43,7 +43,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/hero_m_bg.jpg?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/hero_m_bg.jpg?auto=format,compress",
                       "id": "ZS6bzfvZpFvOyBfS",
                       "edit": {
                         "x": 0,
@@ -59,7 +59,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/2hero_d_fg.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/2hero_d_fg.webp?auto=format,compress",
                       "id": "ZSAtlvvZpFvOyA8E",
                       "edit": {
                         "x": 0,
@@ -143,7 +143,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/plan2.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/plan2.webp?auto=format,compress",
                       "id": "ZS4uHPvZpFvOyBdm",
                       "edit": {
                         "x": 0,
@@ -185,7 +185,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/equip2.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/equip2.webp?auto=format,compress",
                       "id": "ZSVJ6fvZpFvOyBD7",
                       "edit": {
                         "x": 0,
@@ -219,7 +219,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/installation2.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/installation2.webp?auto=format,compress",
                       "id": "ZiKqVfPdc1huKpZv",
                       "edit": {
                         "x": 518,
@@ -261,7 +261,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/maintenance2.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/services/maintenance2.webp?auto=format,compress",
                       "id": "ZSP9wfvZpFvOyBAV",
                       "edit": {
                         "x": 0,
@@ -316,7 +316,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/products/procucts_hero_d_bg.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/products/procucts_hero_d_bg.webp?auto=format,compress",
                       "id": "ZSlKLPvZpFvOyBWh",
                       "edit": {
                         "x": 0,
@@ -332,7 +332,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/products/procucts_hero_d_bg.webp?auto=format,compress&sat=-100",
+                      "url": "https://dgm-cdn.gumlet.io/products/procucts_hero_d_bg.webp?auto=format,compress",
                       "id": "ZSlJ0_vZpFvOyBWg",
                       "edit": {
                         "x": 0,
@@ -353,7 +353,7 @@
                       "first_publication_date": "2023-08-14T13:17:58+0000",
                       "last_publication_date": "2024-07-31T00:35:59+0000",
                       "uid": "products",
-                      "url": "/products",
+                      "url": "/",
                       "link_type": "Document",
                       "isBroken": false
                     },
@@ -438,7 +438,7 @@
                     "first_publication_date": "2023-08-14T13:17:34+0000",
                     "last_publication_date": "2023-10-24T08:58:10+0000",
                     "uid": "products",
-                    "url": "/products",
+                    "url": "/",
                     "link_type": "Document",
                     "isBroken": false
                   }
@@ -453,7 +453,7 @@
                     "first_publication_date": "2023-08-10T07:57:35+0000",
                     "last_publication_date": "2024-09-04T00:29:21+0000",
                     "uid": "about",
-                    "url": "/about",
+                    "url": "/",
                     "link_type": "Document",
                     "isBroken": false
                   }
