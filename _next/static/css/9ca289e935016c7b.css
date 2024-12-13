@@ -25,38 +25,40 @@
 }
 @font-face {
   font-family: Youth;
-  src: url(/fonts/Youth-Medium.woff2) format('woff2');
+  src: url("/fonts/GeistVF.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Aeonik Fono;
-  src:
-    url(/fonts/AeonikFonoTRIAL-Regular.woff2) format('woff2'),
-    url(/fonts/AeonikFonoTRIAL-Regular.woff) format('woff');
+  src: url("/fonts/GeistMonoVF.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Aeonik;
-  src:
-    url(/fonts/Aeonik-Regular.woff2) format('woff2'),
-    url(/fonts/Aeonik-Regular.woff) format('woff');
+  src: url("/fonts/GeistVF.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Aeonik;
-  src:
-    url(/fonts/Aeonik-Bold.woff2) format('woff2'),
-    url(/fonts/Aeonik-Bold.woff) format('woff');
+  src: url("/fonts/GeistVF.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: Aeonik;
+  src: url("/fonts/GeistVF.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
 .button-white {
   background-color: rgb(var(--color-white) / var(--tw-bg-opacity));
 }
@@ -478,7 +480,7 @@ video {
   --color-dark-grey: 100 100 100;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 25 25 25;
+  --color-green: 0 0 0;
   --color-grid: var(--color-orange);
 }
 
@@ -490,7 +492,7 @@ video {
   --color-dark-grey: 100 100 100;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 25 25 25;
+  --color-green: 0 0 0;
   --color-grid: var(--color-orange);
 }
 
@@ -2904,7 +2906,7 @@ video {
   font-size: 2.4rem;
 }
 .text-\[5\.6rem\] {
-  font-size: 5.6rem;
+  font-size: 5rem;
 }
 .text-\[6rem\] {
   font-size: 6rem;
@@ -5543,11 +5545,11 @@ ul {
   --color-orange: 255 107 0;
   --color-white: 242 239 233;
   --color-light-beige: 230 230 230;
-  --color-dark-beige: 25 25 25;
+  --color-dark-beige: 0 0 0;
   --color-dark-grey: 100 100 100;
   --color-black: 0 0 0;
   --color-real-white: 255 255 255;
-  --color-green: 25 25 25;
+  --color-green: 0 0 0;
   --color-grid: var(--color-orange);
 }
 
