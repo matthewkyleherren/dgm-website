@@ -155,7 +155,7 @@
                   (0, n.jsx)("div", {
                     ref: t,
                     className:
-                      "pager pager-disabled flex justify-center items-center w-[3.6rem] h-[3.6rem] rounded-10 cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05] ".concat(
+                      "pager pager-disabled flex justify-center items-center w-[3.6rem] h-[3.6rem] cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05] ".concat(
                         "White" === r.primary.background
                           ? "bg-light_beige"
                           : "bg-white",
@@ -177,7 +177,7 @@
                   (0, n.jsx)("div", {
                     ref: o,
                     className:
-                      "pager flex justify-center items-center w-[3.6rem] h-[3.6rem] rounded-10 cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05] ".concat(
+                      "pager flex justify-center items-center w-[3.6rem] h-[3.6rem] cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05] ".concat(
                         "White" === r.primary.background
                           ? "bg-light_beige"
                           : "bg-white",
@@ -263,7 +263,7 @@
                                 className: "pt-[1.6rem]",
                                 children: (0, n.jsx)("div", {
                                   className:
-                                    "flex justify-center items-center w-[3.6rem] h-[3.6rem] rounded-10 transition-transform duration-700 ease-out xl:group-hover:scale-[1.1] ".concat(
+                                    "flex justify-center items-center w-[3.6rem] h-[3.6rem] transition-transform duration-700 ease-out xl:group-hover:scale-[1.1] ".concat(
                                       "White" === r.primary.background
                                         ? "bg-light_beige"
                                         : "bg-white",

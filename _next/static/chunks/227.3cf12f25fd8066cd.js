@@ -805,7 +805,7 @@
             (0, n.jsxs)("div", {
               ref: t,
               className:
-                "flex justify-center items-center bg-white rounded-12 p-[2.4rem] uppercase font-body-mono text-10 leading-[180%] tracking-[0.05rem] text-orange cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05]",
+                "flex justify-center items-center bg-white p-[2.4rem] uppercase font-body-mono text-10 leading-[180%] tracking-[0.05rem] text-orange cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05]",
               children: [
                 (0, n.jsx)("span", {
                   className: "inline-block mr-[0.7rem]",

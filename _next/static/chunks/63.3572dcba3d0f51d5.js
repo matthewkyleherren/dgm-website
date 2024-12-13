@@ -569,7 +569,7 @@
                         }),
                         (0, l.jsxs)("div", {
                           className:
-                            "relative w-full min-h-[2.36rem] flex-1 px-[2rem] pt-[1.2rem] pb-[3.7rem] rounded-10 text-dark_grey z-[999] md:absolute landscape:absolute "
+                            "relative w-full min-h-[2.36rem] flex-1 px-[2rem] pt-[1.2rem] pb-[3.7rem] text-dark_grey z-[999] md:absolute landscape:absolute "
                               .concat(
                                 "right" === t.primary.content_position
                                   ? "md:right-10 landscape:right-10"

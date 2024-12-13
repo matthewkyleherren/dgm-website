@@ -28,7 +28,7 @@
                     className:
                       "flex justify-center items-center w-[3.6rem] h-[3.6rem] ".concat(
                         "white" === a ? "bg-white" : "bg-light_beige",
-                        " rounded-10 mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
+                        " mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
                       ),
                     children: (0, l.jsx)("div", {
                       className: "svg-wrapper w-[1.1rem] h-[0.85rem]",
@@ -54,7 +54,7 @@
                     className:
                       "flex justify-center items-center w-[3.6rem] h-[3.6rem] ".concat(
                         "white" === a ? "bg-white" : "bg-light_beige",
-                        " rounded-10 mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
+                        " mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
                       ),
                     children: (0, l.jsx)("div", {
                       className: "svg-wrapper w-[1.1rem] h-[0.85rem]",
@@ -78,7 +78,7 @@
                   className:
                     "flex justify-center items-center w-[3.6rem] h-[3.6rem] ".concat(
                       "white" === a ? "bg-white" : "bg-light_beige",
-                      " rounded-10 mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
+                      " mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
                     ),
                   children: (0, l.jsx)("div", {
                     className: "svg-wrapper w-[1.1rem] h-[0.85rem]",
@@ -139,7 +139,7 @@
             (0, l.jsxs)("div", {
               ref: s,
               className:
-                "relative flex items-center bg-white rounded-12 border-white border-[0.2rem] uppercase",
+                "relative flex items-center bg-white border-white border-[0.2rem] uppercase",
               children: [
                 (0, l.jsx)("div", {
                   className:
@@ -475,7 +475,7 @@
               children: [
                 (0, l.jsx)("div", {
                   className:
-                    "col-span-full md:col-start-2 md:col-end-6 lg:col-start-2 lg:col-end-12 xl:col-start-4 xl:col-end-10 xl:px-30 h-full",
+                    "col-span-full md:col-start-2 md:col-end-6 lg:col-start-2 lg:col-end-12 xl:col-start-4 xl:col-end-10 xl:px-0 h-full",
                   children: (0, l.jsxs)("div", {
                     className: "relative grid gap-y-[4rem]",
                     children: [
@@ -581,7 +581,7 @@
                               (0, l.jsxs)("div", {
                                 ref: R,
                                 className:
-                                  "absolute bottom-[0.6rem] right-[0.6rem] md:bottom-[1.25rem] md:right-[1.25rem] w-[calc(100%_-_1.2rem)] md:w-[39rem] lg:w-[59rem] xl:w-[39rem] flex items-center bg-white p-[0.2rem] rounded-12 pointer-events-auto",
+                                  "absolute bottom-[0.6rem] right-[0.6rem] md:bottom-[1.25rem] md:right-[1.25rem] w-[calc(100%_-_1.2rem)] md:w-[39rem] lg:w-[59rem] xl:w-[39rem] flex items-center bg-white p-[0.2rem] pointer-events-auto",
                                 children: [
                                   (0, l.jsx)("div", {
                                     ref: z,
@@ -589,11 +589,11 @@
                                       "relative w-[11.5rem] lg:w-[16rem] xl:w-[11rem] z-1",
                                     children: (0, l.jsx)("div", {
                                       className:
-                                        "relative w-[200%] h-0 pt-[219%] rounded-10 overflow-hidden pointer-events-none",
+                                        "relative w-[200%] h-0 pt-[219%] overflow-hidden pointer-events-none",
                                       children: (0, l.jsx)("div", {
                                         ref: H,
                                         className:
-                                          "absolute top-0 left-0 w-full h-full rounded-10 overflow-hidden",
+                                          "absolute top-0 left-0 w-full h-full overflow-hidden",
                                         children: (0, l.jsx)("div", {
                                           ref: T,
                                           className:
@@ -770,7 +770,7 @@
                   }),
                   (0, l.jsxs)("div", {
                     className:
-                      "absolute bottom-[0.6rem] right-[0.6rem] md:bottom-[1.25rem] md:right-[1.25rem] w-[calc(100%_-_1.2rem)] md:w-[39rem] lg:w-[59rem] xl:w-[39rem] flex items-center bg-white p-[0.2rem] rounded-10 pointer-events-auto z-2",
+                      "absolute bottom-[0.6rem] right-[0.6rem] md:bottom-[1.25rem] md:right-[1.25rem] w-[calc(100%_-_1.2rem)] md:w-[39rem] lg:w-[59rem] xl:w-[39rem] flex items-center bg-white p-[0.2rem] pointer-events-auto z-2",
                     children: [
                       (0, l.jsx)("div", {
                         className:

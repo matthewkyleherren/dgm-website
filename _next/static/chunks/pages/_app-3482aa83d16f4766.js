@@ -16390,7 +16390,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                         onMouseEnter: () => tr(!0),
                         onMouseLeave: () => tr(!1),
                         className:
-                          "header-logo relative rounded-10 md:rounded-12 pointer-events-auto overflow-hidden transition-bg duration-global ease-out opacity-0 ".concat(
+                          "header-logo relative pointer-events-auto overflow-hidden transition-bg duration-global ease-out opacity-0 ".concat(
                             tt
                               ? "bg-green h-[5.2rem] lg:h-[6.2rem] ml-[0.2rem] mt-[0.2rem] w-[5.2rem] lg:w-[6.2rem]"
                               : "bg-green h-[5.6rem] lg:h-[6.6rem] w-[5.6rem] lg:w-[6.6rem]",
@@ -16410,7 +16410,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                       (0, s.jsxs)("div", {
                         ref: a,
                         className:
-                          "hidden relative xl:flex mobile:hidden w-[16.2rem] rounded-12 bg-green items-center lg:h-[6.6rem] opacity-0",
+                          "hidden relative xl:flex mobile:hidden w-[16.2rem] bg-green items-center lg:h-[6.6rem] opacity-0",
                         onMouseEnter: () => tr(!0),
                         onMouseLeave: () => {
                           if (Q <= 1024) return;
@@ -16554,7 +16554,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                 children: [
                                   (0, s.jsx)("div", {
                                     className:
-                                      "absolute top-0 left-0 w-full h-full bg-green rounded-s-12 rounded-e-none -z-1 pointer-events-auto",
+                                      "absolute top-0 left-0 w-full h-full bg-green -z-1 pointer-events-auto",
                                     ref: l,
                                   }),
                                   q.data.navigation_links.map((t, e) =>
@@ -16583,7 +16583,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                           }),
                           (0, s.jsx)("div", {
                             className:
-                              "absolute right-0 top-0 w-[9.6rem] h-full pr-[2px] py-[2px] hd:pr-[3px] hd:py-[3px] 2k:pr-[4px] 2k:py-[4px] pointer-events-auto rounded-10 overflow-hidden",
+                              "absolute right-0 top-0 w-[9.6rem] h-full pr-[2px] py-[2px] hd:pr-[3px] hd:py-[3px] 2k:pr-[4px] 2k:py-[4px] pointer-events-auto overflow-hidden",
                             ref: c,
                             children: (0, s.jsx)("div", {
                               ref: h,
@@ -16604,7 +16604,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                       });
                                 },
                                 className:
-                                  "bg-black flex justify-center items-center h-full rounded-10 body-mono-10 tracking-0.05 text-orange",
+                                  "bg-black flex justify-center items-center h-full body-mono-10 tracking-0.05 text-orange",
                                 children: q.data.cta_text,
                               }),
                             }),
@@ -16618,16 +16618,16 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                         children: [
                           (0, s.jsx)("div", {
                             className:
-                              "block xl:hidden mobile:block absolute top-0 left-0 w-full h-full rounded-13 overflow-hidden bg-white pointer-events-none",
+                              "block xl:hidden mobile:block absolute top-0 left-0 w-full h-full rounded-13 overflow-hidden bg-green pointer-events-none",
                             ref: v,
                             children: (0, s.jsx)("div", {
                               className:
-                                "absolute top-0 left-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40",
+                                "absolute top-0 left-0 w-full h-full bg-green",
                             }),
                           }),
                           (0, s.jsxs)("div", {
                             className:
-                              "flex items-center bg-white rounded-10 z-1 pointer-events-auto",
+                              "flex items-center bg-green z-1 pointer-events-auto",
                             ref: g,
                             children: [
                               (0, s.jsxs)("div", {
@@ -16674,10 +16674,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                 children: (0, s.jsx)("div", {
                                   ref: _,
                                   className:
-                                    "h-full body-mono-10 tracking-0.05 text-dark_grey",
+                                    "h-full body-mono-10 tracking-0.05 text-black",
                                   children: (0, s.jsx)(I.Z, {
                                     className:
-                                      "flex items-center px-10 py-15 bg-light_beige rounded-[0.8rem] h-full",
+                                      "flex items-center px-10 py-15 bg-orange rounded-[0.8rem] h-full",
                                     href: "/preorder",
                                     children: q.data.cta_text,
                                   }),
@@ -17136,7 +17136,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                 (0, s.jsx)(tt(), {
                   id: "google-tag-manager",
                   src: "https://www.googletagmanager.com/gtag/js?id=".concat(
-                    "G-PRSB9NGYMD",
+                    "G-PRSB9NGYMW",
                   ),
                 }),
                 (0, s.jsx)(tt(), {
@@ -17144,11 +17144,11 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                   children:
                     "\n              window.dataLayer = window.dataLayer || [];\n              function gtag(){dataLayer.push(arguments);}\n              gtag('js', new Date());\n              gtag('config', '"
                       .concat(
-                        "AW-11206996922",
+                        "AW-11206996022",
                         "');\n              gtag('config', '",
                       )
                       .concat(
-                        "G-PRSB9NGYMD",
+                        "G-PRSB9NGYMW",
                         "', {\n                page_path: window.location.pathname,\n                page_title: document.title,\n                page_location: window.location.href,\n              });\n          ",
                       ),
                 }),
@@ -17158,7 +17158,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
               id: "meta",
               children:
                 "\n            !function(f,b,e,v,n,t,s)\n            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            'https://connect.facebook.net/en_US/fbevents.js');\n            fbq('init', '".concat(
-                  "199311119754135",
+                  "199311119754134",
                   "');\n          ",
                 ),
             }),
@@ -17166,7 +17166,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
               id: "hotjar",
               children:
                 "\n            (function(h,o,t,j,a,r){\n                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n                h._hjSettings={hjid:".concat(
-                  "3523515",
+                  "3523514",
                   ",hjsv:6};\n                a=o.getElementsByTagName('head')[0];\n                r=o.createElement('script');r.async=1;\n                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n                a.appendChild(r);\n            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');          \n          ",
                 ),
             }),

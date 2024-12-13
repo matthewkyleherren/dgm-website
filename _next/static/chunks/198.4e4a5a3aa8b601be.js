@@ -684,7 +684,7 @@
               s &&
               (0, n.jsx)("div", {
                 className:
-                  "block w-full text-center bg-white xl:bg-light_beige landscape:bg-light_beige xl:transition-bg xl:duration-global xl:ease-out xl:hover:bg-dark_beige/50 text-dark_grey rounded-[0.8rem] xl:rounded-10 text-10 tracking-[0.05rem] leading-[180%] md:text-12 md:tracking-[0.036rem] md:leading-[200%] font-body-mono uppercase",
+                  "block w-full text-center bg-white xl:bg-light_beige landscape:bg-light_beige xl:transition-bg xl:duration-global xl:ease-out xl:hover:bg-dark_beige/50 text-dark_grey rounded-[0.8rem] xl:text-10 tracking-[0.05rem] leading-[180%] md:text-12 md:tracking-[0.036rem] md:leading-[200%] font-body-mono uppercase",
                 children: (0, n.jsxs)(m.f, {
                   className:
                     "flex justify-center items-center w-full py-[1.7rem] xl:py-[2.1rem]",
@@ -1193,7 +1193,7 @@
                     className:
                       "relative landscape:sticky landscape:top-0 landscape:".concat(
                         r,
-                        " p-half-container-mobile md:p-half-container w-full h-[calc(100vh_-_1.2rem)] md:h-[calc(100vh_-_2rem)] flex flex-col rounded-15 mb-[1.2rem] landscape:rounded-[0] landscape:mb-10 bg-white landscape:flex-row landscape:gap-x-[0.4rem] landscape:h-screen",
+                        " p-half-container-mobile md:p-half-container w-full h-[calc(100vh_-_1.2rem)] md:h-[calc(100vh_-_2rem)] flex flex-col mb-[1.2rem] landscape:rounded-[0] landscape:mb-10 bg-white landscape:flex-row landscape:gap-x-[0.4rem] landscape:h-screen",
                       ),
                     style: { zIndex: l + 1 },
                     children: [
@@ -1203,7 +1203,7 @@
                       }),
                       (0, n.jsxs)("div", {
                         className:
-                          "flex flex-col items-center gap-[6rem] pb-[6rem] pt-[10.2rem] rounded-10 px-[0.8rem] landscape:w-[36.5%] landscape:pt-[18rem] landscape:gap-0 landscape:pb-[3rem] landscape:px-[3rem] landscape:bg-white",
+                          "flex flex-col items-center gap-[6rem] pb-[6rem] pt-[10.2rem] px-[0.8rem] landscape:w-[36.5%] landscape:pt-[18rem] landscape:gap-0 landscape:pb-[3rem] landscape:px-[3rem] landscape:bg-white",
                         children: [
                           (0, n.jsx)("div", {
                             className:
@@ -1240,7 +1240,7 @@
                       }),
                       (0, n.jsxs)("div", {
                         className:
-                          "flex-1 relative w-full h-[100px] landscape:h-full flex flex-col rounded-10 overflow-hidden",
+                          "flex-1 relative w-full h-[100px] landscape:h-full flex flex-col overflow-hidden",
                         children: [
                           e.video && e.video.url
                             ? (0, n.jsxs)(n.Fragment, {

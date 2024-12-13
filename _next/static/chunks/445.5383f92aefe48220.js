@@ -362,7 +362,7 @@
       r.Z = (e) => {
         let { children: r, size: t = "small", blur: l = !0 } = e;
         return (0, n.jsx)("div", {
-          className: "rounded-12 p-[1.8rem] lg:p-40\n  "
+          className: "p-[1.8rem] lg:p-40\n  "
             .concat(
               l
                 ? "backdrop-blur-[105px] text-white"
@@ -723,11 +723,11 @@
             className:
               "w-full h-[400vh] -mt-[100vh] sticky top-0 opacity-0 bg-dark_beige",
             children: (0, n.jsxs)("div", {
-              className: "sticky top-0 w-full h-screen p-[1rem]",
+              className: "sticky top-0 w-full h-screen",
               children: [
                 (0, n.jsxs)("div", {
                   className:
-                    "w-full z-2 h-full relative flex overflow-hidden rounded-15",
+                    "w-full z-2 h-full relative flex overflow-hidden",
                   onMouseEnter: () => {
                     m.current &&
                       ((k.current = "left"),
@@ -756,7 +756,7 @@
                     (0, n.jsx)("div", {
                       ref: T,
                       className:
-                        "absolute w-full h-full overflow-hidden rounded-15",
+                        "absolute w-full h-full overflow-hidden",
                       children: (0, n.jsx)("div", {
                         ref: R,
                         className: "w-full h-full pointer-events-none",
@@ -799,12 +799,12 @@
                 }),
                 (0, n.jsxs)("div", {
                   className:
-                    "xl:absolute z-3 left-10 right-10 top-10 bottom-10 pointer-events-none flex rounded-15 overflow-hidden",
+                    "xl:absolute z-3 left-10 right-10 top-10 bottom-10 pointer-events-none flex overflow-hidden",
                   children: [
                     (0, n.jsx)("div", {
                       ref: N,
                       className:
-                        "absolute w-full h-full overflow-hidden rounded-15 pointer-events-auto",
+                        "absolute w-full h-full overflow-hidden pointer-events-auto",
                       onMouseEnter: () => {
                         m.current &&
                           ((k.current = "right"),
@@ -871,7 +871,7 @@
                 }),
                 (0, n.jsxs)("div", {
                   className:
-                    "xl:absolute z-1 left-10 right-10 top-10 bottom-10 flex rounded-15 overflow-hidden bg-white items-center justify-center",
+                    "xl:absolute z-1 left-10 right-10 top-10 bottom-10 flex overflow-hidden bg-white items-center justify-center",
                   children: [
                     r.primary.video_center.url
                       ? (0, n.jsxs)("div", {
@@ -1040,7 +1040,7 @@
             children: (0, n.jsxs)("div", {
               ref: l,
               className:
-                "sticky top-half-container-mobile md:top-half-container overflow-hidden w-full h-[calc(100vh_-_var(--padding-half-container-mobile)*2)] md:h-[calc(100vh_-_var(--padding-half-container)*2)] rounded-15",
+                "sticky top-half-container-mobile md:top-half-container overflow-hidden w-full h-[calc(100vh_-_var(--padding-half-container-mobile)*2)] md:h-[calc(100vh_-_var(--padding-half-container)*2)]",
               children: [
                 (0, n.jsx)("div", {
                   className:
@@ -1051,7 +1051,7 @@
                     children: [
                       (0, n.jsx)("div", {
                         className:
-                          "absolute w-full h-full overflow-hidden rounded-15",
+                          "absolute w-full h-full overflow-hidden",
                         children: (0, n.jsx)(d.Z, {
                           field: r.primary.image_left_mobile,
                           fallbackAlt: "",
@@ -1093,7 +1093,7 @@
                     children: [
                       (0, n.jsx)("div", {
                         className:
-                          "absolute w-full h-full overflow-hidden rounded-15",
+                          "absolute w-full h-full overflow-hidden",
                         children: (0, n.jsx)(d.Z, {
                           field: r.primary.image_right_mobile,
                           fallbackAlt: "",
@@ -1135,7 +1135,7 @@
                     children: [
                       (0, n.jsx)("div", {
                         className:
-                          "absolute w-full h-full overflow-hidden rounded-15",
+                          "absolute w-full h-full overflow-hidden",
                         children: r.primary.video_center.url
                           ? (0, n.jsxs)(n.Fragment, {
                               children: [

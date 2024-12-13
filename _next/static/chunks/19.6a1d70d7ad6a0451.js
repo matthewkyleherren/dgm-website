@@ -7,7 +7,7 @@
       r.Z = (e) => {
         let { children: r, size: t = "small", blur: a = !0 } = e;
         return (0, n.jsx)("div", {
-          className: "rounded-12 p-[1.8rem] lg:p-40\n  "
+          className: "p-[1.8rem] lg:p-40\n  "
             .concat(
               a
                 ? "backdrop-blur-[105px] text-white"
@@ -1016,7 +1016,7 @@
                             (0, n.jsx)("div", {
                               ref: k,
                               className:
-                                "absolute hidden bottom-10 right-10 md:bottom-20 md:right-20 rounded-12 bg-dark_grey/50 z-3 text-20 leading-[105%] -tracking-[0.06rem]",
+                                "absolute hidden bottom-10 right-10 md:bottom-20 md:right-20 bg-dark_grey/50 z-3 text-20 leading-[105%] -tracking-[0.06rem]",
                               children: (0, n.jsxs)(d.Z, {
                                 size: "large",
                                 children: [

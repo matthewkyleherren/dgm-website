@@ -1919,7 +1919,7 @@
                       (0, r.jsx)(m.Z, {
                         href: "/",
                         className:
-                          "justify-center items-center absolute top-1/2 -translate-y-1/2 right-[1rem] hidden xl:flex w-[6.6rem] h-[6.6rem] rounded-12 cursor-pointer bg-white transition-transform duration-global ease-out xl:hover:scale-[1.05]",
+                          "justify-center items-center absolute top-1/2 -translate-y-1/2 right-[1rem] hidden xl:flex w-[6.6rem] h-[6.6rem] cursor-pointer bg-white transition-transform duration-global ease-out xl:hover:scale-[1.05]",
                         children: (0, r.jsx)("div", {
                           className: "svg-wrapper w-[1rem]",
                           children: (0, r.jsx)("span", {
@@ -1971,7 +1971,7 @@
                         },
                         ref: K,
                         className:
-                          "flex justify-center items-center absolute top-[0.6rem] left-[0.6rem] xl:top-[3rem] xl:left-[3rem] w-[5.6rem] h-[5.6rem] xl:w-[4rem] xl:h-[4rem] border-px border-light_beige rounded-12 cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05]",
+                          "flex justify-center items-center absolute top-[0.6rem] left-[0.6rem] xl:top-[3rem] xl:left-[3rem] w-[5.6rem] h-[5.6rem] xl:w-[4rem] xl:h-[4rem] border-px border-light_beige cursor-pointer transition-transform duration-global ease-out xl:hover:scale-[1.05]",
                         children: (0, r.jsx)("div", {
                           className: "svg-wrapper w-[1.5rem] xl:w-[1.3rem]",
                           children: (0, r.jsx)("span", {
@@ -1983,7 +1983,7 @@
                       (0, r.jsx)(m.Z, {
                         href: "/",
                         className:
-                          "flex justify-center items-center absolute top-[0.6rem] right-[0.6rem] xl:hidden w-[5.6rem] h-[5.6rem] rounded-12 cursor-pointer bg-light_beige",
+                          "flex justify-center items-center absolute top-[0.6rem] right-[0.6rem] xl:hidden w-[5.6rem] h-[5.6rem] cursor-pointer bg-light_beige",
                         children: (0, r.jsx)("div", {
                           className: "svg-wrapper w-[1rem]",
                           children: (0, r.jsx)("span", {
@@ -1994,7 +1994,7 @@
                       }),
                       (0, r.jsxs)("div", {
                         className:
-                          "flex flex-col items-center px-[1.7rem] md:px-30 pt-[8rem] md:pt-[6.3rem] pb-[6rem] md:pb-[5.1rem]",
+                          "flex flex-col items-center px-[1.7rem] md:px-0 pt-[8rem] md:pt-[6.3rem] pb-[6rem] md:pb-[5.1rem]",
                         children: [
                           (0, r.jsx)("span", {
                             className: "svg-wrapper w-[3.14rem]",
@@ -2009,7 +2009,7 @@
                       }),
                       (0, r.jsxs)("div", {
                         className:
-                          "w-full flex-1 xl:overflow-y-scroll u-nsb px-10 md:px-30 pb-[2rem] md:pb-[2.5rem]",
+                          "w-full flex-1 xl:overflow-y-scroll u-nsb px-10 md:px-0 pb-[2rem] md:pb-[2.5rem]",
                         "data-lenis-prevent": !0,
                         children: [
                           (0, r.jsxs)(g, {
@@ -2025,7 +2025,7 @@
                                 ref: P,
                                 htmlFor: "pebble-flow",
                                 className:
-                                  "relative block bg-light_beige/50 xl:bg-light_beige/30 px-[2.5rem] md:px-30 pt-[3.9rem] md:pt-[5.6rem] pb-[3rem] md:pb-[4.2rem] rounded-12 mb-5 md:mb-10 cursor-pointer hover:bg-dark_beige/[0.25] checked:bg-dark_beige transition-bg duration-global ease-out",
+                                  "relative block bg-light_beige/50 xl:bg-light_beige/30 px-[2.5rem] md:px-0 pt-[3.9rem] md:pt-[5.6rem] pb-[3rem] md:pb-[4.2rem] mb-5 md:mb-10 cursor-pointer hover:bg-dark_beige/[0.25] checked:bg-dark_beige transition-bg duration-global ease-out",
                                 children: [
                                   (0, r.jsxs)("div", {
                                     className:
@@ -2108,7 +2108,7 @@
                                 ref: L,
                                 htmlFor: "pebble-flow-magic-pack",
                                 className:
-                                  "relative block bg-light_beige/50 xl:bg-light_beige/30 px-[2.5rem] md:px-30 pt-[3.9rem] md:pt-[5.6rem] pb-[3rem] md:pb-[4.2rem] rounded-12 cursor-pointer hover:bg-dark_beige/[0.25] checked:bg-dark_beige transition-bg duration-global ease-out",
+                                  "relative block bg-light_beige/50 xl:bg-light_beige/30 px-[2.5rem] md:px-0 pt-[3.9rem] md:pt-[5.6rem] pb-[3rem] md:pb-[4.2rem] cursor-pointer hover:bg-dark_beige/[0.25] checked:bg-dark_beige transition-bg duration-global ease-out",
                                 children: [
                                   (0, r.jsxs)("div", {
                                     className:
@@ -2320,7 +2320,7 @@
                       }),
                       (0, r.jsx)("div", {
                         className:
-                          "w-full px-[1.5rem] md:px-30 pb-[2.1rem] md:pb-30",
+                          "w-full px-[1.5rem] md:px-0 pb-[2.1rem] md:pb-30",
                         children: (0, r.jsxs)("div", {
                           className:
                             "relative w-full flex flex-col border-x-px border-light_beige",
@@ -2363,7 +2363,7 @@
                                         }));
                                     },
                                     className:
-                                      "button-disabled w-full rounded-10 py-[2rem] bg-dark_beige text-white text-center font-body-mono text-10 leading-[180%] tracking-[0.05rem] md:text-12 md:leading-[200%] md:tracking-[0.036rem] uppercase cursor-pointer hover:bg-dark_beige/[0.85] transition-bg duration-global ease-out",
+                                      "button-disabled w-full py-[2rem] bg-dark_beige text-white text-center font-body-mono text-10 leading-[180%] tracking-[0.05rem] md:text-12 md:leading-[200%] md:tracking-[0.036rem] uppercase cursor-pointer hover:bg-dark_beige/[0.85] transition-bg duration-global ease-out",
                                     children: (0, r.jsx)("span", {
                                       id: "button-text transition-opacity duration-global ease-out",
                                       children: t.data.step_one_button_title,
@@ -2385,7 +2385,7 @@
                                         });
                                     },
                                     className:
-                                      "w-full rounded-10 py-[2rem] bg-dark_beige text-white text-center font-body-mono text-10 leading-[180%] tracking-[0.05rem] md:text-12 md:leading-[200%] md:tracking-[0.036rem] uppercase cursor-pointer hidden hover:bg-dark_beige/[0.85] transition-bg duration-global ease-out",
+                                      "w-full py-[2rem] bg-dark_beige text-white text-center font-body-mono text-10 leading-[180%] tracking-[0.05rem] md:text-12 md:leading-[200%] md:tracking-[0.036rem] uppercase cursor-pointer hidden hover:bg-dark_beige/[0.85] transition-bg duration-global ease-out",
                                     children: (0, r.jsx)("span", {
                                       id: "button-text",
                                       children: t.data.step_two_button_title,
@@ -2394,7 +2394,7 @@
                                   (0, r.jsx)("button", {
                                     ref: O,
                                     className:
-                                      "rounded-10 w-full py-[2rem] bg-dark_beige text-white font-body-mono text-10 leading-[180%] tracking-[0.05rem] md:text-12 md:leading-[200%] md:tracking-[0.036rem] uppercase hidden hover:bg-dark_beige/[0.85] transition-bg duration-global ease-out",
+                                      "w-full py-[2rem] bg-dark_beige text-white font-body-mono text-10 leading-[180%] tracking-[0.05rem] md:text-12 md:leading-[200%] md:tracking-[0.036rem] uppercase hidden hover:bg-dark_beige/[0.85] transition-bg duration-global ease-out",
                                     id: "submit",
                                     children: (0, r.jsx)("span", {
                                       id: "button-text",

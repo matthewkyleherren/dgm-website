@@ -1021,7 +1021,7 @@
                   children: (0, n.jsxs)("div", {
                     ref: v,
                     className:
-                      "rounded-12 h-screen flex items-center justify-center sticky top-[7.6rem] md:top-[9.6rem]",
+                      "h-screen flex items-center justify-center sticky top-[7.6rem] md:top-[9.6rem]",
                     children: [
                       (0, n.jsx)("div", {
                         className:
@@ -1045,7 +1045,7 @@
                       (0, n.jsx)("div", {
                         ref: j,
                         className:
-                          "absolute left-0 top-0 w-full h-full origin-bottom rounded-12 overflow-hidden will-change-transform",
+                          "absolute left-0 top-0 w-full h-full origin-bottom overflow-hidden will-change-transform",
                         children: (0, n.jsx)("div", {
                           ref: y,
                           className:

@@ -383,7 +383,7 @@
                     className:
                       "flex justify-center items-center w-[3.6rem] h-[3.6rem] ".concat(
                         "white" === s ? "bg-white" : "bg-light_beige",
-                        " rounded-10 mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
+                        " mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
                       ),
                     children: (0, l.jsx)("div", {
                       className: "svg-wrapper w-[1.1rem] h-[0.85rem]",
@@ -409,7 +409,7 @@
                     className:
                       "flex justify-center items-center w-[3.6rem] h-[3.6rem] ".concat(
                         "white" === s ? "bg-white" : "bg-light_beige",
-                        " rounded-10 mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
+                        " mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
                       ),
                     children: (0, l.jsx)("div", {
                       className: "svg-wrapper w-[1.1rem] h-[0.85rem]",
@@ -433,7 +433,7 @@
                   className:
                     "flex justify-center items-center w-[3.6rem] h-[3.6rem] ".concat(
                       "white" === s ? "bg-white" : "bg-light_beige",
-                      " rounded-10 mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
+                      " mr-[0.9rem] transition-transform duration-global ease-out group-hover:scale-105",
                     ),
                   children: (0, l.jsx)("div", {
                     className: "svg-wrapper w-[1.1rem] h-[0.85rem]",
@@ -456,7 +456,7 @@
       t.Z = (e) => {
         let { children: t, size: r = "small", blur: n = !0 } = e;
         return (0, l.jsx)("div", {
-          className: "rounded-12 p-[1.8rem] lg:p-40\n  "
+          className: "p-[1.8rem] lg:p-40\n  "
             .concat(
               n
                 ? "backdrop-blur-[105px] text-white"
@@ -761,7 +761,7 @@
                         (0, l.jsx)("div", {
                           className: "relative w-full ".concat(
                             g ? "h-0 pt-[66.86%]" : "h-full",
-                            " md:pt-0 md:absolute md:top-0 md:left-0 md:h-full overflow-hidden rounded-15",
+                            " md:pt-0 md:absolute md:top-0 md:left-0 md:h-full overflow-hidden",
                           ),
                           children: (0, l.jsx)("div", {
                             ref: u,

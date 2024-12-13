@@ -533,7 +533,7 @@
                               children: [
                                 (0, n.jsx)("div", {
                                   className:
-                                    "flex justify-center items-center w-[4.4rem] h-[4.4rem] lg:w-[7.4rem] lg:h-[7.4rem] mb-[2.4rem] lg:mb-[6rem] rounded-12 border-px border-dark_grey/20",
+                                    "flex justify-center items-center w-[4.4rem] h-[4.4rem] lg:w-[7.4rem] lg:h-[7.4rem] mb-[2.4rem] lg:mb-[6rem] border-px border-dark_grey/20",
                                   children: (0, n.jsx)("div", {
                                     className: "h-[1.7rem] lg:h-[2.7rem]",
                                     children: (0, n.jsx)(i.Z, {
@@ -564,7 +564,7 @@
                     }),
                     (0, n.jsx)("div", {
                       className:
-                        "relative w-full pt-[74.35%] rounded-10 overflow-hidden",
+                        "relative w-full pt-[74.35%] overflow-hidden",
                       children: (0, n.jsx)(m.Z, {
                         field: t.primary.image,
                         fallbackAlt: "",
@@ -635,7 +635,7 @@
                                   children: [
                                     (0, n.jsx)("div", {
                                       className:
-                                        "flex justify-center items-center w-[5rem] h-[5rem] mb-[2.4rem] rounded-12 border-px border-dark_grey/20",
+                                        "flex justify-center items-center w-[5rem] h-[5rem] mb-[2.4rem] border-px border-dark_grey/20",
                                       children: (0, n.jsx)("div", {
                                         className: "h-[1.7rem]",
                                         children: (0, n.jsx)(i.Z, {

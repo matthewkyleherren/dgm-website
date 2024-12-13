@@ -178,7 +178,7 @@
                 ),
               children: (0, n.jsxs)("div", {
                 className:
-                  "flex items-center justify-center bg-white rounded-15 h-full py-100 lg:py-[15rem] xl:py-0",
+                  "flex items-center justify-center bg-white h-full py-100 lg:py-[15rem] xl:py-0",
                 children: [
                   (0, n.jsx)("div", {
                     className:
@@ -192,7 +192,7 @@
                           "col-start-4 col-end-10 md:col-start-5 md:col-end-9 lg:col-start-6 lg:col-end-8",
                         children: (0, n.jsx)("div", {
                           className:
-                            "mx-auto relative rounded-15 overflow-hidden h-0",
+                            "mx-auto relative overflow-hidden h-0",
                           style: { paddingBottom: "".concat(d, "%") },
                           children: (0, n.jsx)(l.Z, {
                             sizes: "(max-width: 768px) 80vw, 15vw",

@@ -1084,14 +1084,14 @@
                     (0, n.jsx)("div", {
                       ref: Z,
                       className:
-                        "absolute bottom-0 right-0 w-full h-full bg-white rounded-12 overflow-hidden nope",
+                        "absolute bottom-0 right-0 w-full h-full bg-white overflow-hidden nope",
                       children: (0, n.jsx)("div", {
                         ref: B,
                         className:
-                          "absolute bottom-0 right-0 w-full h-full bg-white rounded-10 p-[0.2rem] overflow-hidden",
+                          "absolute bottom-0 right-0 w-full h-full bg-white p-[0.2rem] overflow-hidden",
                         children: (0, n.jsxs)("div", {
                           className:
-                            "relative w-full h-full rounded-10 overflow-hidden",
+                            "relative w-full h-full overflow-hidden",
                           children: [
                             (0, n.jsx)("video", {
                               loop: !0,
@@ -1099,7 +1099,7 @@
                               playsInline: !0,
                               autoPlay: !0,
                               className:
-                                "relative w-full h-full object-cover rounded-10 xl:rounded-none",
+                                "relative w-full h-full object-cover xl:rounded-none",
                               children: (0, n.jsx)("source", {
                                 type: "video/mp4",
                                 src: r,
@@ -1114,7 +1114,7 @@
                               disablePictureInPicture: !0,
                               controlsList: "nodownload noplaybackrate",
                               className:
-                                "absolute top-0 left-0 w-full h-full object-contain rounded-10 bg-black opacity-0 pointer-events-auto xl:object-cover",
+                                "absolute top-0 left-0 w-full h-full object-contain bg-black opacity-0 pointer-events-auto xl:object-cover",
                             }),
                             (0, n.jsx)("div", {
                               className:
@@ -1159,7 +1159,7 @@
                                 className: "pointer-events-auto",
                                 children: (0, n.jsx)("div", {
                                   className:
-                                    "flex items-center justify-center w-[6.6rem] h-[6.6rem] bg-white rounded-12 cursor-pointer transition-transform ease-out duration-500 xl:hover:scale-[1.05]",
+                                    "flex items-center justify-center w-[6.6rem] h-[6.6rem] bg-white cursor-pointer transition-transform ease-out duration-500 xl:hover:scale-[1.05]",
                                   children: (0, n.jsx)("div", {
                                     className:
                                       "w-[1rem] h-[1rem] svg-wrapper text-dark_grey",
@@ -1706,13 +1706,13 @@
                                 children: (0, n.jsxs)(y.Z, {
                                   field: r.primary.live_event_link,
                                   className:
-                                    "group flex flex-col w-[9.8rem] md:w-[11rem] lg:w-[20rem] xl:w-[12rem] h-full bg-white rounded-12 p-[0.2rem]",
+                                    "group flex flex-col w-[9.8rem] md:w-[11rem] lg:w-[20rem] xl:w-[12rem] h-full bg-white p-[0.2rem]",
                                   onMouseEnter: () => X(!1),
                                   onMouseLeave: () => X(!0),
                                   children: [
                                     (0, n.jsx)("div", {
                                       className:
-                                        "relative w-full h-0 pt-[77.69%] md:pt-[100%] rounded-10 overflow-hidden",
+                                        "relative w-full h-0 pt-[77.69%] md:pt-[100%] overflow-hidden",
                                       children: (0, n.jsx)("div", {
                                         className:
                                           "absolute w-full h-full top-0 left-0 transition-transform ease-out duration-500 xl:group-hover:scale-[1.1]",

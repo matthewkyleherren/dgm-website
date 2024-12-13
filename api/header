@@ -1,1 +1,74 @@
-{"id":"ZRGjhhAAALmLSTuZ","uid":null,"url":null,"type":"navigationburger","href":"https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZRGjhhAAALmLSTuZ%22%29+%5D%5D","tags":[],"first_publication_date":"2023-09-25T15:13:26+0000","last_publication_date":"2023-10-23T17:52:24+0000","slugs":[],"linked_documents":[],"lang":"en-us","alternate_languages":[],"data":{"cta_text":"Preorder","cta_link":{"id":"ZRp6xREAAAqLhCtE","type":"preorder","tags":[],"lang":"en-us","slug":"pre-order","first_publication_date":"2023-10-02T08:09:43+0000","last_publication_date":"2024-08-06T17:11:32+0000","link_type":"Document","isBroken":false},"navigation_links":[{"link_title":"Product","link":{"id":"ZNopgxAAACgAsCxa","type":"page","tags":[],"lang":"en-us","slug":"green","first_publication_date":"2023-08-14T13:17:58+0000","last_publication_date":"2024-07-31T00:35:59+0000","uid":"pebble-flow","url":"/pebble-flow","link_type":"Document","isBroken":false}},{"link_title":"App","link":{"id":"ZNopaxAAACcAsCve","type":"page","tags":[],"lang":"en-us","slug":"adventureinspiredapp-driven.","first_publication_date":"2023-08-14T13:17:34+0000","last_publication_date":"2023-10-24T08:58:10+0000","uid":"pebble-app","url":"/pebble-app","link_type":"Document","isBroken":false}},{"link_title":"Company","link":{"id":"ZNSYbBAAACcAl6gs","type":"page","tags":[],"lang":"en-us","slug":"our-team","first_publication_date":"2023-08-10T07:57:35+0000","last_publication_date":"2024-09-04T00:29:21+0000","uid":"company","url":"/company","link_type":"Document","isBroken":false}},{"link_title":"Community","link":{"id":"ZNSWxhAAACgAl6A1","type":"page","tags":[],"lang":"en-us","slug":"-","first_publication_date":"2023-08-10T07:50:33+0000","last_publication_date":"2023-10-31T10:00:14+0000","uid":"community","url":"/community","link_type":"Document","isBroken":false}}]}}
+{
+    "id": "ZRGjhhAAALmLSTuZ",
+    "uid": null,
+    "url": null,
+    "type": "navigationburger",
+    "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZRGjhhAAALmLSTuZ%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2023-09-25T15:13:26+0000",
+    "last_publication_date": "2023-10-23T17:52:24+0000",
+    "slugs": [],
+    "linked_documents": [],
+    "lang": "en-us",
+    "alternate_languages": [],
+    "data": {
+        "cta_text": "Preorder",
+        "cta_link": {
+            "id": "ZRp6xREAAAqLhCtE",
+            "type": "preorder",
+            "tags": [],
+            "lang": "en-us",
+            "slug": "pre-order",
+            "first_publication_date": "2023-10-02T08:09:43+0000",
+            "last_publication_date": "2024-08-06T17:11:32+0000",
+            "link_type": "Document",
+            "isBroken": false
+        },
+        "navigation_links": [{
+            "link_title": "Services",
+            "link": {
+                "id": "ZNopgxAAACgAsCxa",
+                "type": "page",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "green",
+                "first_publication_date": "2023-08-14T13:17:58+0000",
+                "last_publication_date": "2024-07-31T00:35:59+0000",
+                "uid": "services",
+                "url": "/services",
+                "link_type": "Document",
+                "isBroken": false
+            }
+        }, {
+            "link_title": "Products",
+            "link": {
+                "id": "ZNopaxAAACcAsCve",
+                "type": "page",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "adventureinspiredapp-driven.",
+                "first_publication_date": "2023-08-14T13:17:34+0000",
+                "last_publication_date": "2023-10-24T08:58:10+0000",
+                "uid": "products",
+                "url": "/products",
+                "link_type": "Document",
+                "isBroken": false
+            }
+        }, {
+            "link_title": "Company",
+            "link": {
+                "id": "ZNSYbBAAACcAl6gs",
+                "type": "page",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "our-team",
+                "first_publication_date": "2023-08-10T07:57:35+0000",
+                "last_publication_date": "2024-09-04T00:29:21+0000",
+                "uid": "company",
+                "url": "/company",
+                "link_type": "Document",
+                "isBroken": false
+            }
+        }]
+    }
+}

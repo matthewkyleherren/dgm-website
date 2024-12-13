@@ -305,7 +305,7 @@
               "data-slice-type": r.slice_type,
               "data-slice-variation": r.variation,
               className:
-                "anchors bg-white lg:cursor-pointer fixed flex font-body-mono gap-[1rem] h-[5.6rem] lg:h-[6.6rem] items-center leading-[1.8] left-container-mobile md:left-container opacity-0 lg:pl-[8.4rem] lg:pr-[2.2rem] rounded-12 text-10 text-dark_grey top-container-mobile md:top-container tracking-0.05 uppercase w-[5.6rem] lg:w-auto z-anchors transition-bg duration-global ease-out",
+                "anchors bg-white lg:cursor-pointer fixed flex font-body-mono gap-[1rem] h-[5.6rem] lg:h-[6.6rem] items-center leading-[1.8] left-container-mobile md:left-container opacity-0 lg:pl-[8.4rem] lg:pr-[2.2rem] text-10 text-dark_grey top-container-mobile md:top-container tracking-0.05 uppercase w-[5.6rem] lg:w-auto z-anchors transition-bg duration-global ease-out",
               onMouseEnter: () => {
                 window.innerWidth < 1024 || (D(), (L.current = !0));
               },
