@@ -14929,7 +14929,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                 children: (0, n.jsx)("div", {
                   ref: v,
                   className:
-                    "flex justify-center items-center w-full h-full bg-light_beige md:bg-white rounded-12",
+                    "flex justify-center items-center w-full h-full bg-light_beige md:bg-white",
                   children: (0, n.jsx)("div", {
                     className: "svg-wrapper w-[1.2rem]",
                     children: (0, n.jsx)(s.Z, {}),
@@ -14951,7 +14951,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                   children: [
                     (0, n.jsx)("div", {
                       className:
-                        "absolute left-0 top-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none",
+                        "absolute left-0 top-0 w-full h-full bg-repeat opacity-40 pointer-events-none",
                     }),
                     (0, n.jsx)("div", {
                       className: "relative z-1",
@@ -15112,7 +15112,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                 className: "w-full p-[0.2rem]",
                 children: (0, n.jsx)("div", {
                   className:
-                    "relative w-full h-0 pb-[77%] lg:pb-[55%] overflow-hidden rounded-16",
+                    "relative w-full h-0 pb-[77%] lg:pb-[55%] overflow-hidden",
                   onMouseEnter: () => b(1),
                   onMouseLeave: () => b(0),
                   children: (0, n.jsx)(m.Z, {
@@ -15963,7 +15963,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
               (0, s.jsx)("div", {
                 ref: r,
                 className:
-                  "fade fixed top-0 left-0 w-full h-screen bg-white pointer-events-none opacity-0 z-transition",
+                  "fade fixed top-0 left-0 w-full h-screen bg-green pointer-events-none opacity-0 z-transition",
               }),
             ],
           });
@@ -15971,7 +15971,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
         D = () =>
           (0, s.jsx)("div", {
             className:
-              "lg:hidden portrait:hidden font-body-mono text-10 leading-[1.8] tracking-0.05 uppercase bg-white text-black flex flex-col gap- items-center justify-center fixed top-0 text-center left-0 h-screen w-screen pointer-events-none z-[999]",
+              "lg:hidden portrait:hidden font-body-mono text-10 leading-[1.8] tracking-0.05 uppercase bg-orange text-black flex flex-col gap- items-center justify-center fixed top-0 text-center left-0 h-screen w-screen pointer-events-none z-[999]",
             children: (0, s.jsxs)("div", {
               children: [
                 "Please rotate your device ",
@@ -16378,7 +16378,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                   (0, s.jsx)("div", {
                     ref: e,
                     className:
-                      "fixed top-0 left-0 w-screen h-screen backdrop-blur-[100px] bg-[rgba(184,176,165,0.80)] z-headerOverlay pointer-events-none opacity-0 xl:hidden mobile:block",
+                      "fixed top-0 left-0 w-screen h-screen backdrop-blur-[100px] bg-green z-headerOverlay pointer-events-none opacity-0 xl:hidden mobile:block",
                   }),
                   (0, s.jsxs)("header", {
                     ref: t,
@@ -16589,7 +16589,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                               ref: h,
                               className: "w-full h-full",
                               children: (0, s.jsx)(I.Z, {
-                                href: "/preorder",
+                                href: "/",
                                 onMouseEnter: () => {
                                   P.p8.effects.blink(L.current[0].chars);
                                 },

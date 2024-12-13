@@ -178,11 +178,11 @@
                 ),
               children: (0, n.jsxs)("div", {
                 className:
-                  "flex items-center justify-center bg-white h-full py-100 lg:py-[15rem] xl:py-0",
+                  "flex items-center justify-center bg-green h-full py-100 lg:py-[15rem] xl:py-0",
                 children: [
                   (0, n.jsx)("div", {
                     className:
-                      "absolute top-0 right-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none",
+                      "absolute top-0 right-0 w-full h-full pointer-events-none",
                   }),
                   (0, n.jsxs)("div", {
                     className: "grid grid-cols-12 relative z-1",

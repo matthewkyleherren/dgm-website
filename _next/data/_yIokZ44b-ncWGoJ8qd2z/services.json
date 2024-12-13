@@ -1,20 +1,20 @@
 {
   "pageProps": {
     "page": {
-      "id": "ZNopgxAAACgAsCxa",
-      "uid": "services",
-      "url": "/services",
-      "type": "page",
-      "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNopgxAAACgAsCxa%22%29+%5D%5D",
-      "tags": [],
-      "first_publication_date": "2023-08-14T13:17:58+0000",
-      "last_publication_date": "2024-07-31T00:35:59+0000",
-      "slugs": ["green"],
-      "linked_documents": [],
-      "lang": "en-us",
-      "alternate_languages": [],
-      "data": {
-        "slices": [{
+              "id": "ZNopgxAAACgAsCxa",
+              "uid": "services",
+              "url": "/services",
+              "type": "page",
+              "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNopgxAAACgAsCxa%22%29+%5D%5D",
+              "tags": [],
+              "first_publication_date": "2023-08-14T13:17:58+0000",
+              "last_publication_date": "2024-07-31T00:35:59+0000",
+              "slugs": ["green"],
+              "linked_documents": [],
+              "lang": "en-us",
+              "alternate_languages": [],
+              "data": {
+                "slices": [{
                   "variation": "default",
                   "version": "initial",
                   "items": [],
@@ -27,7 +27,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/2hero_d_bg.webp?auto=format,compress",
+                      "url": "https://dgm-cdn.gumlet.io/services/7hero_d_bg.webp?auto=format,compress&sat=-100",
                       "id": "ZSAthvvZpFvOyA8D",
                       "edit": {
                         "x": 0,
@@ -43,7 +43,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/hero_m_bg.jpg?auto=format,compress",
+                      "url": "https://dgm-cdn.gumlet.io/services/hero_m_bg.jpg?auto=format,compress&sat=-100",
                       "id": "ZS6bzfvZpFvOyBfS",
                       "edit": {
                         "x": 0,
@@ -59,7 +59,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/2hero_d_fg.webp?auto=format,compress",
+                      "url": "https://dgm-cdn.gumlet.io/services/2hero_d_fg.webp?auto=format,compress&sat=-100",
                       "id": "ZSAtlvvZpFvOyA8E",
                       "edit": {
                         "x": 0,
@@ -70,50 +70,44 @@
                     },
                     "foreground_image_mobile": {},
                     "title": [{
-                        "type": "paragraph",
-                        "text": "services",
-                        "spans": [],
-                        "direction": "ltr"
-                      },
-                      {
-                        "type": "paragraph",
-                        "text": " ",
-                        "spans": [],
-                        "direction": "ltr"
-                      },
-                      {
-                        "type": "paragraph",
-                        "text": "",
-                        "spans": [],
-                        "direction": "ltr"
-                      }
-                    ],
+                      "type": "paragraph",
+                      "text": "services",
+                      "spans": [],
+                      "direction": "ltr"
+                    }, {
+                      "type": "paragraph",
+                      "text": " ",
+                      "spans": [],
+                      "direction": "ltr"
+                    }, {
+                      "type": "paragraph",
+                      "text": "",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
                     "bottom_title": [{
                       "type": "paragraph",
                       "text": "With you from appetizer to desert.",
                       "spans": [],
                       "direction": "ltr"
                     }],
-                    "right_title": "Introducing Pebble FLOW",
+                    "right_title": "We are DGM",
                     "right_content": [{
-                        "type": "paragraph",
-                        "text": "Lighter living that’s never idle, ",
-                        "spans": [],
-                        "direction": "ltr"
-                      },
-                      {
-                        "type": "paragraph",
-                        "text": "and always, simply magical.",
-                        "spans": [],
-                        "direction": "ltr"
-                      }
-                    ]
+                      "type": "paragraph",
+                      "text": "And this is what we do.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }, {
+                      "type": "paragraph",
+                      "text": "Some of it. Contact us for more.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }]
                   },
                   "id": "large_cover$b1e455e0-6354-4979-a761-d9b585baf5c7",
                   "slice_type": "large_cover",
                   "slice_label": null
-                },
-                {
+                }, {
                   "variation": "simpleContentParagraph",
                   "version": "initial",
                   "items": [],
@@ -138,123 +132,220 @@
                   "id": "simple_content$48aaba13-e0e6-4aac-9fcd-391e99bbc043",
                   "slice_type": "simple_content",
                   "slice_label": null
-                },
-                {
-                  "variation": "default",
+                }, {
+                  "variation": "stickySliderWithAnchors",
                   "version": "initial",
                   "items": [{
-                      "icon": "Remote",
-                      "title": "Planning",
-                      "content": "If you are planning the construction of a new restaurant, renovating or expanding an existing one, our expertise in equipment and building can be invaluable.",
-                      "image": {
-                        "dimensions": {
-                          "width": 2079,
-                          "height": 2643
-                        },
-                        "alt": null,
-                        "copyright": null,
-                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/plan2.webp?auto=format,compress",
-                        "id": "ZSj9EvvZpFvOyBWE",
-                        "edit": {
-                          "x": 0,
-                          "y": 0,
-                          "zoom": 1,
-                          "background": "transparent"
-                        }
+                    "image": {
+                      "dimensions": {
+                        "width": 9089,
+                        "height": 6059
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://dgm-cdn.gumlet.io/services/plan2.webp?auto=format,compress&sat=-100",
+                      "id": "ZS4uHPvZpFvOyBdm",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
                       }
                     },
-                    {
-                      "icon": "Remote",
-                      "title": "Equipment Purchase",
-                      "content": "With many distribution-partners we can help you find the exact equipment you need. Whether new or refurbished.",
-                      "image": {
-                        "dimensions": {
-                          "width": 2085,
-                          "height": 2640
-                        },
-                        "alt": null,
-                        "copyright": null,
-                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/equip2.webp?auto=format,compress",
-                        "id": "ZS3FoPvZpFvOyBdJ",
-                        "edit": {
-                          "x": 0,
-                          "y": 0,
-                          "zoom": 1,
-                          "background": "transparent"
-                        }
+                    "video": {
+                      "link_type": "Media"
+                    },
+                    "section_title": "Planning",
+                    "content_text": [{
+                      "type": "paragraph",
+                      "text": "If you are planning the construction of a new restaurant, renovating or expanding an existing one, our expertise in equipment and building can be invaluable.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "anchor_text": "Planning",
+                    "button_link": {
+                      "id": "ZNopgxAAACgAsCxa",
+                      "type": "page",
+                      "tags": [],
+                      "lang": "en-us",
+                      "slug": "green",
+                      "first_publication_date": "2023-08-14T13:17:58+0000",
+                      "last_publication_date": "2024-07-31T00:35:59+0000",
+                      "uid": "pebble-flow",
+                      "url": "/pebble-flow",
+                      "link_type": "Document",
+                      "isBroken": false
+                    },
+                    "button_text": "Explore the pebble flow"
+                  }, {
+                    "image": {
+                      "dimensions": {
+                        "width": 1782,
+                        "height": 1760
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://dgm-cdn.gumlet.io/services/equip2.webp?auto=format,compress&sat=-100",
+                      "id": "ZSVJ6fvZpFvOyBD7",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
                       }
                     },
-                    {
-                      "icon": "Remote",
-                      "title": "Equipment Installation",
-                      "content": "Installing and bringing on line professional kitchen equipment can be a challenge. We are well experienced in this.",
-                      "image": {
-                        "dimensions": {
-                          "width": 1004,
-                          "height": 1322
-                        },
-                        "alt": null,
-                        "copyright": null,
-                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/installation2.webp?auto=format,compress",
-                        "id": "ZS2-8fvZpFvOyBdH",
-                        "edit": {
-                          "x": 0,
-                          "y": 0,
-                          "zoom": 1,
-                          "background": "transparent"
-                        }
+                    "video": {
+                      "link_type": "Media"
+                    },
+                    "section_title": "Sales",
+                    "content_text": [{
+                      "type": "paragraph",
+                      "text": "With many distribution-partners we can help you find the exact equipment you need. Whether new or refurbished.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "anchor_text": "Sales",
+                    "button_link": {
+                      "link_type": "Web",
+                      "url": "https://pebblelife.com/pebble-flow",
+                      "target": ""
+                    },
+                    "button_text": "Explore the pebble flow"
+                  }, {
+                    "image": {
+                      "dimensions": {
+                        "width": 1896,
+                        "height": 1896
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://dgm-cdn.gumlet.io/services/installation2.webp?auto=format,compress&sat=-100",
+                      "id": "ZiKqVfPdc1huKpZv",
+                      "edit": {
+                        "x": 518,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
                       }
                     },
-                    {
-                      "icon": "Light bulb",
-                      "title": "Routine mainentance",
-                      "content": "Our experts can service your equipment at pre-arranged intervals so as to ensure smooth ongoing operation.",
-                      "image": {
-                        "dimensions": {
-                          "width": 1398,
-                          "height": 1762
-                        },
-                        "alt": null,
-                        "copyright": null,
-                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/maintenance2.webp?auto=format,compress",
-                        "id": "ZS3DXfvZpFvOyBdI",
-                        "edit": {
-                          "x": 0,
-                          "y": 0,
-                          "zoom": 1,
-                          "background": "transparent"
-                        }
+                    "video": {
+                      "link_type": "Media"
+                    },
+                    "section_title": "Installation",
+                    "content_text": [{
+                      "type": "paragraph",
+                      "text": "Installing and bringing on line professional kitchen equipment can be a challenge. We are well experienced in this.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "anchor_text": "Installation",
+                    "button_link": {
+                      "id": "ZNopgxAAACgAsCxa",
+                      "type": "page",
+                      "tags": [],
+                      "lang": "en-us",
+                      "slug": "green",
+                      "first_publication_date": "2023-08-14T13:17:58+0000",
+                      "last_publication_date": "2024-07-31T00:35:59+0000",
+                      "uid": "pebble-flow",
+                      "url": "/pebble-flow",
+                      "link_type": "Document",
+                      "isBroken": false
+                    },
+                    "button_text": "Explore the pebble flow"
+                  }, {
+                    "image": {
+                      "dimensions": {
+                        "width": 1782,
+                        "height": 1760
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://dgm-cdn.gumlet.io/services/maintenance2.webp?auto=format,compress&sat=-100",
+                      "id": "ZSP9wfvZpFvOyBAV",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
                       }
                     },
-                    {
-                      "icon": "Remote",
-                      "title": "Emergency Repairs",
-                      "content": "If something goes wrong we are just a phone call away, and will help you get everything back to normal.",
-                      "image": {
-                        "dimensions": {
-                          "width": 1398,
-                          "height": 1762
-                        },
-                        "alt": null,
-                        "copyright": null,
-                        "url": "https://ik.imagekit.io/dgmbyrekazi/d/services/repair2.webp?auto=format,compress",
-                        "id": "ZS3DXfvZpFvOyBdI",
-                        "edit": {
-                          "x": 0,
-                          "y": 0,
-                          "zoom": 1,
-                          "background": "transparent"
-                        }
+                    "video": {
+                      "link_type": "Media"
+                    },
+                    "section_title": "Maintenance",
+                    "content_text": [{
+                      "type": "paragraph",
+                      "text": "Our experts can service your equipment at pre-arranged intervals so as to ensure smooth ongoing operation.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "anchor_text": "Maintenance",
+                    "button_link": {
+                      "id": "ZNopgxAAACgAsCxa",
+                      "type": "page",
+                      "tags": [],
+                      "lang": "en-us",
+                      "slug": "green",
+                      "first_publication_date": "2023-08-14T13:17:58+0000",
+                      "last_publication_date": "2024-07-31T00:35:59+0000",
+                      "uid": "pebble-flow",
+                      "url": "/pebble-flow",
+                      "link_type": "Document",
+                      "isBroken": false
+                    },
+                    "button_text": "Explore the pebble flow"
+                  }, {
+                    "image": {
+                      "dimensions": {
+                        "width": 1786,
+                        "height": 1760
+                      },
+                      "alt": null,
+                      "copyright": null,
+                      "url": "https://dgm-cdn.gumlet.io/services/repair2.webp?auto=format,compress&sat=-100",
+                      "id": "ZSVKpPvZpFvOyBD8",
+                      "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
                       }
-                    }
-                  ],
-                  "primary": {},
-                  "id": "alternated_content$cba849b2-5568-4657-8768-2927ab085610",
-                  "slice_type": "alternated_content",
+                    },
+                    "video": {
+                      "link_type": "Media"
+                    },
+                    "section_title": "Repair",
+                    "content_text": [{
+                      "type": "paragraph",
+                      "text": "If something goes wrong we are just a phone call away, and will help you get everything back to normal.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
+                    "anchor_text": "Repair",
+                    "button_link": {
+                      "id": "ZNopgxAAACgAsCxa",
+                      "type": "page",
+                      "tags": [],
+                      "lang": "en-us",
+                      "slug": "green",
+                      "first_publication_date": "2023-08-14T13:17:58+0000",
+                      "last_publication_date": "2024-07-31T00:35:59+0000",
+                      "uid": "pebble-flow",
+                      "url": "/pebble-flow",
+                      "link_type": "Document",
+                      "isBroken": false
+                    },
+                    "button_text": "Explore the pebble flow"
+                  }],
+                  "primary": {
+                    "last_anchor_text": "And so much more",
+                    "background": "Dark grey"
+                  },
+                  "id": "sticky_slider$480a53bf-9603-4f9b-83c2-2e4c14e2c948",
+                  "slice_type": "sticky_slider",
                   "slice_label": null
-                },
-
-                {
+                }, {
                   "variation": "default",
                   "version": "initial",
                   "items": [],
@@ -262,24 +353,21 @@
                     "text_alignment": "center",
                     "background_color": "Black",
                     "content": [{
-                        "type": "paragraph",
-                        "text": "However, that is far",
-                        "spans": [],
-                        "direction": "ltr"
-                      },
-                      {
-                        "type": "paragraph",
-                        "text": "from all that we do.",
-                        "spans": [],
-                        "direction": "ltr"
-                      },
-                      {
-                        "type": "paragraph",
-                        "text": "Contact us for more.",
-                        "spans": [],
-                        "direction": "ltr"
-                      }
-                    ],
+                      "type": "paragraph",
+                      "text": "However, that is far",
+                      "spans": [],
+                      "direction": "ltr"
+                    }, {
+                      "type": "paragraph",
+                      "text": "from all that we do.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }, {
+                      "type": "paragraph",
+                      "text": "Contact us for more.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }],
                     "add_separator": true,
                     "add_anchor": true,
                     "anchor_name": "Intelligence",
@@ -288,8 +376,7 @@
                   "id": "simple_content$f515915f-6463-4b91-b811-3c11a220a36a",
                   "slice_type": "simple_content",
                   "slice_label": null
-                },
-                {
+                }, {
                   "variation": "default",
                   "version": "initial",
                   "items": [{}],
@@ -301,7 +388,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/products/procucts_hero_d_bg.webp?auto=format,compress",
+                      "url": "https://dgm-cdn.gumlet.io/products/procucts_hero_d_bg.webp?auto=format,compress&sat=-100",
                       "id": "ZSlKLPvZpFvOyBWh",
                       "edit": {
                         "x": 0,
@@ -317,7 +404,7 @@
                       },
                       "alt": null,
                       "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/about/abouthero_d.webp?auto=format,compress",
+                      "url": "https://dgm-cdn.gumlet.io/about/abouthero_d.webp?auto=format,compress&sat=-100",
                       "id": "ZSlJ0_vZpFvOyBWg",
                       "edit": {
                         "x": 0,
@@ -359,62 +446,67 @@
                   "id": "pre_footer$c3c60cb3-e197-41d7-a701-f9ad642a7a44",
                   "slice_type": "pre_footer",
                   "slice_label": null
-                }
-
-              ],
-              "meta_title": "DGM | Services",
-              "meta_description": "DGM powers the kitchens of our favorite restaurants.",
-              "meta_image": {
-                "dimensions": {
-                  "width": 2400,
-                  "height": 1260
-                },
-                "alt": null,
-                "copyright": null,
-                "url": "https://ik.imagekit.io/dgmbyrekazi/d/65202d86fbd9a45bcec80f03_full.png?auto=format%2Ccompress&rect=0%2C41%2C2200%2C1155&w=2400&h=1260",
-                "id": "ZSAthvvZpFvOyA8D",
-                "edit": {
-                  "x": 0,
-                  "y": 41,
-                  "zoom": 1,
-                  "background": "transparent"
+                }],
+                "meta_title": "DGM | Services",
+                "meta_description": "DGM powers the kitchens of our favorite restaurants.",
+                "meta_image": {
+                  "dimensions": {
+                    "width": 2400,
+                    "height": 1260
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://dgm-cdn.gumlet.io/65202d86fbd9a45bcec80f03_full.png?auto=format%2Ccompress&rect=0%2C41%2C2200%2C1155&w=2400&h=1260",
+                  "id": "ZSAthvvZpFvOyA8D",
+                  "edit": {
+                    "x": 0,
+                    "y": 41,
+                    "zoom": 1,
+                    "background": "transparent"
+                  }
                 }
               }
-            }
-          },
-          "footer": {
-            "id": "ZNoo_xAAACYAsCm_",
-            "uid": null,
-            "url": null,
-            "type": "footer",
-            "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
-            "tags": [],
-            "first_publication_date": "2023-08-14T13:15:46+0000",
-            "last_publication_date": "2023-10-23T17:56:02+0000",
-            "slugs": [],
-            "linked_documents": [],
-            "lang": "en-us",
-            "alternate_languages": [],
-            "data": {
-              "footer_title": "Swiss gastro solutions.",
-              "newsletter_title": "Subscribe for the latest updates.",
-              "newsletter_button_text": "Subscribe",
-              "links": [{
+            },
+            "footer": {
+              "id": "ZNoo_xAAACYAsCm_",
+              "uid": null,
+              "url": null,
+              "type": "footer",
+              "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G\u0026q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+              "tags": [],
+              "first_publication_date": "2023-08-14T13:15:46+0000",
+              "last_publication_date": "2023-10-23T17:56:02+0000",
+              "slugs": [],
+              "linked_documents": [],
+              "lang": "en-us",
+              "alternate_languages": [],
+              "data": {
+                "footer_title": "Swiss Gastro Solutions.",
+                "newsletter_title": "Subscribe for the latest DGM news and offers.",
+                "newsletter_button_text": "Join us",
+                "links": [{
                   "title": "services",
                   "link": {
-                    "link_type": "Web",
+                    "id": "ZNopgxAAACgAsCxa",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "green",
+                    "first_publication_date": "2023-08-14T13:17:58+0000",
+                    "last_publication_date": "2024-07-31T00:35:59+0000",
+                    "uid": "services",
                     "url": "/services",
-                    "target": "_blank"
+                    "link_type": "Document",
+                    "isBroken": false
                   }
-                },
-                {
+                }, {
                   "title": "products",
                   "link": {
                     "id": "ZNopaxAAACcAsCve",
                     "type": "page",
                     "tags": [],
                     "lang": "en-us",
-                    "slug": "products",
+                    "slug": "adventureinspiredapp-driven.",
                     "first_publication_date": "2023-08-14T13:17:34+0000",
                     "last_publication_date": "2023-10-24T08:58:10+0000",
                     "uid": "products",
@@ -422,15 +514,14 @@
                     "link_type": "Document",
                     "isBroken": false
                   }
-                },
-                {
+                }, {
                   "title": "about",
                   "link": {
                     "id": "ZNSYbBAAACcAl6gs",
                     "type": "page",
                     "tags": [],
                     "lang": "en-us",
-                    "slug": "about",
+                    "slug": "our-team",
                     "first_publication_date": "2023-08-10T07:57:35+0000",
                     "last_publication_date": "2024-09-04T00:29:21+0000",
                     "uid": "about",
@@ -438,74 +529,54 @@
                     "link_type": "Document",
                     "isBroken": false
                   }
-                },
-                {
-                  "title": "shop",
-                  "link": {
-                    "id": "ZRp6xREAAAqLhCtE",
-                    "type": "shop",
-                    "tags": [],
-                    "lang": "en-us",
-                    "slug": "shop",
-                    "first_publication_date": "2023-10-02T08:09:43+0000",
-                    "last_publication_date": "2024-08-06T17:11:32+0000",
-                    "link_type": "Document",
-                    "isBroken": false
-                  }
-                }
-              ],
-              "social_networks": [{
+                }],
+                "social_networks": [{
                   "title": "Instagram",
                   "link": {
                     "link_type": "Web",
-                    "url": "https://www.instagram.com/dgmgmbh_/",
+                    "url": "https://www.instagram.com/d-g-m_/",
                     "target": "_blank"
                   }
-                },
-                {
+                }, {
                   "title": "Facebook",
                   "link": {
                     "link_type": "Web",
-                    "url": "https://www.facebook.com/dgmgmbh_/",
+                    "url": "https://www.facebook.com/d-g-m_/",
                     "target": "_blank"
                   }
-                },
-                {
+                }, {
                   "title": "Linkedin",
                   "link": {
                     "link_type": "Web",
-                    "url": "https://www.linkedin.com/company/dgm-gmbh/",
+                    "url": "https://www.linkedin.com/company/d-g-m_/",
                     "target": "_blank"
                   }
-                }
-              ],
-              "footer_bottom_links": [{
-                  "title": "Site by Kazi",
-                  "link": {
-                    "link_type": "Web",
-                    "url": "https://kazi.ke",
-                    "target": "_blank"
-                  }
-                },
-                {
+                }],
+                "footer_bottom_links": [{
                   "title": "Impressum",
                   "link": {
-                    "id": "ZNopVRAAACcAsCtv",
+                    "id": "ZNopGRAAACkAsCpb",
                     "type": "page",
                     "tags": [],
                     "lang": "en-us",
                     "slug": "-",
-                    "first_publication_date": "2023-08-14T13:17:11+0000",
-                    "last_publication_date": "2023-10-18T17:32:27+0000",
+                    "first_publication_date": "2023-08-14T13:16:12+0000",
+                    "last_publication_date": "2023-10-19T07:31:29+0000",
                     "uid": "impressum",
-                    "url": "/impressum",
+                    "url": "/",
                     "link_type": "Document",
                     "isBroken": false
+                  }
+                }, {
+                  "title": "Site by Matthew Herren",
+                  "link": {
+                    "link_type": "Web",
+                    "url": "https://www.facebook.com/matthew.herren",
+                    "target": "_blank"
+                  }
+                }]
+              }
             }
-          }
-        ]
-      }
-    }
-  },
+          },
   "__N_SSG": true
 }

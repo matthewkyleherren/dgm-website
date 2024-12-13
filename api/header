@@ -3,7 +3,7 @@
     "uid": null,
     "url": null,
     "type": "navigationburger",
-    "href": "https://pebble-website.cdn.prismic.io/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZRGjhhAAALmLSTuZ%22%29+%5D%5D",
+    "href": "https://dgm.cdn.rekazi.com/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZRGjhhAAALmLSTuZ%22%29+%5D%5D",
     "tags": [],
     "first_publication_date": "2023-09-25T15:13:26+0000",
     "last_publication_date": "2023-10-23T17:52:24+0000",
@@ -12,7 +12,7 @@
     "lang": "en-us",
     "alternate_languages": [],
     "data": {
-        "cta_text": "Preorder",
+        "cta_text": "Contact",
         "cta_link": {
             "id": "ZRp6xREAAAqLhCtE",
             "type": "preorder",
@@ -50,12 +50,12 @@
                 "first_publication_date": "2023-08-14T13:17:34+0000",
                 "last_publication_date": "2023-10-24T08:58:10+0000",
                 "uid": "products",
-                "url": "/products",
+                "url": "/",
                 "link_type": "Document",
                 "isBroken": false
             }
         }, {
-            "link_title": "Company",
+            "link_title": "About",
             "link": {
                 "id": "ZNSYbBAAACcAl6gs",
                 "type": "page",
@@ -64,8 +64,8 @@
                 "slug": "our-team",
                 "first_publication_date": "2023-08-10T07:57:35+0000",
                 "last_publication_date": "2024-09-04T00:29:21+0000",
-                "uid": "company",
-                "url": "/company",
+                "uid": "about",
+                "url": "/about",
                 "link_type": "Document",
                 "isBroken": false
             }

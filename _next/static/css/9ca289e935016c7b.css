@@ -3389,7 +3389,7 @@ ul {
 }
 .header-logo.a {
   --tw-bg-opacity: 1;
-  background-color: rgb(var(--color-light-beige) / var(--tw-bg-opacity));
+  background-color: rgb(25, 25, 25);
 }
 .newsletter-checkbox:checked + div {
   opacity: 1;
@@ -5555,3 +5555,8 @@ ul {
 display: none;
 visibility: hidden;
 }
+
+.simple-content {
+ min-height:100vh;
+  }
+  

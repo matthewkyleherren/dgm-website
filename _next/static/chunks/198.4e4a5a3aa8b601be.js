@@ -518,7 +518,7 @@
               (0, n.jsx)("div", {
                 ref: s,
                 className:
-                  "w-[80%] mx-auto opacity-0 invisible h-[45%] mt-[3rem] flex items-center justify-center text-44 leading-[86%] text-dark_grey text-center font-headings -tracking-[0.176rem]",
+                  "w-[80%] mx-auto opacity-0 invisible h-[45%] mt-[3rem] flex items-center justify-center text-44 leading-[86%] text-white text-center font-headings -tracking-[0.176rem]",
                 children: r,
               }),
               (0, n.jsx)("div", {
@@ -1007,11 +1007,11 @@
             children: [
               (0, n.jsxs)("div", {
                 className:
-                  "w-[36.5%] h-[calc(100vh_-_2rem)] sticky top-10 bg-white rounded-18 flex flex-col pb-[3rem] px-[3rem]",
+                  "w-[36.5%] h-[calc(100vh_-_2rem)] sticky top-10 bg-green rounded-18 flex flex-col pb-[3rem] px-[3rem]",
                 children: [
                   (0, n.jsx)("div", {
                     className:
-                      "absolute top-0 right-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none",
+                      "absolute top-0 right-0 w-full h-full pointer-events-none",
                   }),
                   (0, n.jsx)("div", {
                     className: "h-full relative",
@@ -1193,21 +1193,21 @@
                     className:
                       "relative landscape:sticky landscape:top-0 landscape:".concat(
                         r,
-                        " p-half-container-mobile md:p-half-container w-full h-[calc(100vh_-_1.2rem)] md:h-[calc(100vh_-_2rem)] flex flex-col mb-[1.2rem] landscape:rounded-[0] landscape:mb-10 bg-white landscape:flex-row landscape:gap-x-[0.4rem] landscape:h-screen",
+                        " p-half-container-mobile md:p-half-container w-full h-[calc(100vh_-_1.2rem)] md:h-[calc(100vh_-_2rem)] flex flex-col mb-[1.2rem] landscape:rounded-[0] landscape:mb-10 bg-green landscape:flex-row landscape:gap-x-[0.4rem] landscape:h-screen",
                       ),
                     style: { zIndex: l + 1 },
                     children: [
                       (0, n.jsx)("div", {
                         className:
-                          "absolute top-0 right-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none",
+                          "absolute top-0 right-0 w-full h-full pointer-events-none",
                       }),
                       (0, n.jsxs)("div", {
                         className:
-                          "flex flex-col items-center gap-[6rem] pb-[6rem] pt-[10.2rem] px-[0.8rem] landscape:w-[36.5%] landscape:pt-[18rem] landscape:gap-0 landscape:pb-[3rem] landscape:px-[3rem] landscape:bg-white",
+                          "flex flex-col items-center gap-[6rem] pb-[6rem] pt-[10.2rem] px-[0.8rem] landscape:w-[36.5%] landscape:pt-[18rem] landscape:gap-0 landscape:pb-[3rem] landscape:px-[3rem] landscape:bg-green",
                         children: [
                           (0, n.jsx)("div", {
                             className:
-                              "text-32 text-dark_grey text-center font-headings -tracking-[0.128rem] leading-[93%] landscape:pb-[14.4rem] landscape:text-44 landscape:leading-[86%] landscape:-tracking-[0.176rem]",
+                              "text-32 text-white text-center font-headings -tracking-[0.128rem] leading-[93%] landscape:pb-[14.4rem] landscape:text-44 landscape:leading-[86%] landscape:-tracking-[0.176rem]",
                             children: e.section_title,
                           }),
                           (0, n.jsx)("div", {
