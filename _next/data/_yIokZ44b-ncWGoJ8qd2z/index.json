@@ -1,517 +1,472 @@
 {
   "pageProps": {
     "page": {
-              "id": "ZNSWnRAAACYAl593",
-              "uid": null,
-              "url": "/",
-              "type": "home",
-              "href": "https://dgm.cdn.rekazi.com/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G\u0026q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNSWnRAAACYAl593%22%29+%5D%5D",
-              "tags": [],
-              "first_publication_date": "2023-08-10T07:49:52+0000",
-              "last_publication_date": "2024-08-16T23:05:46+0000",
-              "slugs": ["home"],
-              "linked_documents": [],
-              "lang": "en-us",
-              "alternate_languages": [],
-              "data": {
-                "slices": [{
-                  "variation": "default",
-                  "version": "initial",
-                  "items": [{}],
-                  "primary": {
-                    "title": [{
-                      "type": "paragraph",
-                      "text": "en",
-                      "spans": [],
-                      "direction": "ltr"
-                    }, {
-                      "type": "paragraph",
-                      "text": "guete.",
-                      "spans": [],
-                      "direction": "ltr"
-                    }],
-                    "background_image": {
-                      "dimensions": {
-                        "width": 3987,
-                        "height": 2500
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero/dgm-hero-desktop_bg.webp?auto=format,compress",
-                      "id": "ZSrvcPvZpFvOyBZP",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "background_image_mobile": {
-                      "dimensions": {
-                        "width": 2544,
-                        "height": 4600
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero/dgm-hero-mobile_all.webp?auto=format,compress",
-                      "id": "ZS6ce_vZpFvOyBfV",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "middle_image": {
-                      "dimensions": {
-                        "width": 3987,
-                        "height": 2500
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero/dgm-hero-desktop_fg2.webp?auto=format,compress",
-                      "id": "ZSrv6_vZpFvOyBZQ",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "middle_image_mobile": {},
-                    "foreground_video_mov": {},
-                    "foreground_video_webm": {},
-                    "foreground_image": {
-                      "dimensions": {
-                        "width": 1920,
-                        "height": 1200
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/hero/dgm-hero-desktop_fg2.webp?auto=format,compress",
-                      "id": "ZSkPDvvZpFvOyBWN",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "live_event": false,
-                    "live_event_link": {
-                      "link_type": "Web",
-                      "url": "https://pbbl.cc/livestream",
-                      "target": "_blank"
-                    },
-                    "live_event_image": {
-                      "dimensions": {
-                        "width": 232,
-                        "height": 232
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/6525487afbd9a45bcec810f6_hodmepage_live.png?auto=format,compress",
-                      "id": "ZSVIevvZpFvOyBD2",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "video_preview": {
-                      "link_type": "Media",
-                      "kind": "document",
-                      "id": "ZTa7IxAAACMAcOqd",
-                      "url": "/shortd%EF%B9%AA20new.mp4",
-                      "name": "short new.mp4",
-                      "size": "3305358"
-                    },
-                    "video": {
-                      "link_type": "Media",
-                      "kind": "document",
-                      "id": "ZTa7XBAAACQAcOuu",
-                      "url": "99a920dfb-9d9f-4432-9b5d-ed524d00d313_long+2.mp4",
-                      "name": "long 2.mp4",
-                      "size": "53048017"
+            "id": "ZNSWnRAAACYAl593",
+            "uid": null,
+            "url": "/",
+            "type": "home",
+            "href": "https://dgm.cdn.rekazi.com/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G\u0026q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNSWnRAAACYAl593%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-08-10T07:49:52+0000",
+            "last_publication_date": "2024-08-16T23:05:46+0000",
+            "slugs": ["home"],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+              "slices": [
+              {
+                "variation": "largeCoverDoubleTitle",
+                "version": "initial",
+                "items": [],
+                "primary": {
+                  "background_color": "Beige dark",
+                  "background_image": {
+                    "dimensions": { "width": 4000, "height": 2700 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://dgm-cdn.gumlet.io/services/7hero_d_bg.webp?auto=format,compress&sat=-100",
+                    "id": "ZTAwi_vZpFvOyB2R",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
                     }
                   },
-                  "id": "hero$3150cbee-501a-4016-a72f-2cd30ae47b84",
-                  "slice_type": "hero",
-                  "slice_label": null
-                }, {
-                  "variation": "simpleContentTwoTexts",
-                  "version": "initial",
-                  "items": [{}],
-                  "primary": {
-                    "text_alignment": "center",
-                    "background_color": "Black",
-                    "content": [{
-                      "type": "paragraph",
-                      "text": "Konzentrieren",
-                      "spans": [],
-                      "direction": "ltr"
-                    }, {
-                      "type": "paragraph",
-                      "text": "Sie sich auf",
-                      "spans": [],
-                      "direction": "ltr"
-                    }, {
-                      "type": "paragraph",
-                      "text": "Ihre Gäste.",
-                      "spans": [],
-                      "direction": "ltr"
-                    }],
-                    "second_content": [{
-                      "type": "paragraph",
-                      "text": "Nicht",
-                      "spans": [],
-                      "direction": "ltr"
-                    }, {
-                      "type": "paragraph",
-                      "text": "Ihre",
-                      "spans": [],
-                      "direction": "ltr"
-                    }, {
-                      "type": "paragraph",
-                      "text": "Küchentechnik.",
-                      "spans": [],
-                      "direction": "ltr"
-                    }],
-                    "add_anchor": false,
-                    "anchor_name": null
+                  "background_image_mobile": {
+                    "dimensions": { "width": 2545, "height": 5325 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://dgm-cdn.gumlet.io/services/hero_m_bg.jpg?auto=format,compress&sat=-100",
+                    "id": "ZS6b1vvZpFvOyBfT",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
                   },
-                  "id": "simple_content$b86b65e1-a6c6-4663-b2d3-dd5266544617",
-                  "slice_type": "simple_content",
-                  "slice_label": null
-                }, {
-                  "variation": "default",
-                  "version": "initial",
-                  "items": [{}],
-                  "primary": {
-                    "image_left": {
-                      "dimensions": {
-                        "width": 3600,
-                        "height": 2094
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-plans.webp?auto=format,compress",
-                      "id": "ZSihqfvZpFvOyBVL",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "image_left_mobile": {
-                      "dimensions": {
-                        "width": 3600,
-                        "height": 2094
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-plans.webp?auto=format,compress",
-                      "id": "ZS6bzPvZpFvOyBfR",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "title_left": "Von diesem.",
-                    "content_left": [{}],
-                    "image_right": {
-                      "dimensions": {
-                        "width": 3600,
-                        "height": 2094
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-built.webp?auto=format,compress",
-                      "id": "ZSpOnvvZpFvOyBZB",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "image_right_mobile": {
-                      "dimensions": {
-                        "width": 3600,
-                        "height": 2094
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-built.webp?auto=format,compress",
-                      "id": "ZS6byvvZpFvOyBfQ",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "title_right": "Über diese.",
-                    "content_right": [{}],
-                    "image_center": {
-                      "dimensions": {
-                        "width": 2840,
-                        "height": 1760
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/bishier.webp?auto=format,compress",
-                      "id": "ZSVI__vZpFvOyBD5",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "video_center": {},
-                    "title_center": "Bis hier.",
-                    "content_center": [{}]
+                  "foreground_image": {
+                    "dimensions": { "width": 4000, "height": 2700 },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://dgm-cdn.gumlet.io/services/2hero_d_fg.webp?auto=format,compress&sat=-100",
+                    "id": "ZTAwkfvZpFvOyB2S",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
                   },
-                  "id": "on_off_grid_images_reveal$d167f051-943c-4685-8250-8540087d395c",
-                  "slice_type": "on_off_grid_images_reveal",
-                  "slice_label": null
-                }, {
-                  "variation": "default",
-                  "version": "initial",
-                  "items": [{}],
-                  "primary": {
-                    "text_alignment": "center",
-                    "background_color": "Black",
-                    "content": [{
+                  "foreground_image_mobile": {},
+                  "title": [
+                    {
                       "type": "paragraph",
-                      "text": "Das ist",
+                      "text": "Die geheime",
                       "spans": [],
                       "direction": "ltr"
-                    }, {
+                    },
+                    {
                       "type": "paragraph",
-                      "text": "unserer",
+                      "text": "Zutat, die dein",
                       "spans": [],
                       "direction": "ltr"
-                    }, {
+                    }
+                  ],
+                  "second_title": [
+                    {
                       "type": "paragraph",
-                      "text": "Arbeit.",
+                      "text": "Lieblingsrestaurant",
                       "spans": [],
                       "direction": "ltr"
-                    }],
-                    "add_separator": false,
-                    "add_anchor": false,
-                    "anchor_name": null,
-                    "small_spacings": false
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "am Laufen hält.",
+                      "spans": [],
+                      "direction": "ltr"
+                    }
+                  ]
+                },
+                "id": "large_cover$7bc732fd-f5b8-417c-ac2f-a0536622b23f",
+                "slice_type": "large_cover",
+                "slice_label": null
+              },
+               {
+                "variation": "simpleContentTwoTexts",
+                "version": "initial",
+                "items": [{}],
+                "primary": {
+                  "text_alignment": "center",
+                  "background_color": "Black",
+                  "content": [{
+                    "type": "paragraph",
+                    "text": "Konzentrieren",
+                    "spans": [],
+                    "direction": "ltr"
+                  }, {
+                    "type": "paragraph",
+                    "text": "Sie sich auf",
+                    "spans": [],
+                    "direction": "ltr"
+                  }, {
+                    "type": "paragraph",
+                    "text": "Ihre Gäste.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }],
+                  "second_content": [{
+                    "type": "paragraph",
+                    "text": "Nicht",
+                    "spans": [],
+                    "direction": "ltr"
+                  }, {
+                    "type": "paragraph",
+                    "text": "Ihre",
+                    "spans": [],
+                    "direction": "ltr"
+                  }, {
+                    "type": "paragraph",
+                    "text": "Küchentechnik.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }],
+                  "add_anchor": false,
+                  "anchor_name": null
+                },
+                "id": "simple_content$b86b65e1-a6c6-4663-b2d3-dd5266544617",
+                "slice_type": "simple_content",
+                "slice_label": null
+              }, {
+                "variation": "default",
+                "version": "initial",
+                "items": [{}],
+                "primary": {
+                  "image_left": {
+                    "dimensions": {
+                      "width": 3600,
+                      "height": 2094
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-plans.webp?auto=format,compress",
+                    "id": "ZSihqfvZpFvOyBVL",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
                   },
-                  "id": "simple_content$b00e63bb-0c93-45cd-b39f-4472f796bdff",
-                  "slice_type": "simple_content",
-                  "slice_label": null
-                }, {
-                  "variation": "default",
-                  "version": "initial",
-                  "items": [{}],
-                  "primary": {
-                    "background_image": {
-                      "dimensions": {
-                        "width": 3045,
-                        "height": 1786
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/7hero_d_bg.webp?auto=format,compress&sat=-100",
-                      "id": "ZSlKLPvZpFvOyBWh",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
+                  "image_left_mobile": {
+                    "dimensions": {
+                      "width": 3600,
+                      "height": 2094
                     },
-                    "foreground_image": {
-                      "dimensions": {
-                        "width": 3045,
-                        "height": 1786
-                      },
-                      "alt": null,
-                      "copyright": null,
-                      "url": "https://dgm-cdn.gumlet.io/services/7hero_d_fg.webp?auto=format,compress&sat=-100",
-                      "id": "ZSlJ0_vZpFvOyBWg",
-                      "edit": {
-                        "x": 0,
-                        "y": 0,
-                        "zoom": 1,
-                        "background": "transparent"
-                      }
-                    },
-                    "suptitle": "Up next...",
-                    "title": "services",
-                    "button_title": "Learn more",
-                    "button": {
-                      "id": "ZNopgxAAACgAsCxa",
-                      "type": "page",
-                      "tags": [],
-                      "lang": "en-us",
-                      "slug": "services",
-                      "first_publication_date": "2023-08-14T13:17:58+0000",
-                      "last_publication_date": "2024-07-31T00:35:59+0000",
-                      "uid": "pebble-flow",
-                      "url": "/services",
-                      "link_type": "Document",
-                      "isBroken": false
-                    },
-                    "secondary_button_text": "Contact us",
-                    "secondary_button": {
-                      "id": "ZRp6xREAAAqLhCtE",
-                      "type": "preorder",
-                      "tags": [],
-                      "lang": "en-us",
-                      "slug": "pre-order",
-                      "first_publication_date": "2023-10-02T08:09:43+0000",
-                      "last_publication_date": "2024-08-06T17:11:32+0000",
-                      "link_type": "Document",
-                      "isBroken": false
-                    },
-                    "bottom_text": "Swiss gastro solutions."
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-plans.webp?auto=format,compress",
+                    "id": "ZS6bzPvZpFvOyBfR",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
                   },
-                  "id": "pre_footer$48e00a78-ad53-4e64-94f1-e73f55c6d5b3",
-                  "slice_type": "pre_footer",
-                  "slice_label": null
-                }],
-                "meta_title": "DGM | Swiss Gastro Solutions",
-                "meta_description": "Swiss Gastro Solutions",
-                "meta_image": {
-                  "dimensions": {
-                    "width": 2400,
-                    "height": 1260
+                  "title_left": "Von diesem.",
+                  "content_left": [{}],
+                  "image_right": {
+                    "dimensions": {
+                      "width": 3600,
+                      "height": 2094
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-built.webp?auto=format,compress",
+                    "id": "ZSpOnvvZpFvOyBZB",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
                   },
-                  "alt": null,
-                  "copyright": null,
-                  "url": "https://dgm-cdn.gumlet.io/services/hero_m_bg.jpg?auto=format,compress&sat=-100",
-                  "id": "ZS3XxPvZpFvOyBdU",
-                  "edit": {
-                    "x": 0,
-                    "y": 276,
-                    "zoom": 1,
-                    "background": "transparent"
-                  }
-                }
-              }
-            },
-            "footer": {
-              "id": "ZNoo_xAAACYAsCm_",
-              "uid": null,
-              "url": null,
-              "type": "footer",
-              "href": "https://dgm.cdn.rekazi.com/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G\u0026q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
-              "tags": [],
-              "first_publication_date": "2023-08-14T13:15:46+0000",
-              "last_publication_date": "2023-10-23T17:56:02+0000",
-              "slugs": [],
-              "linked_documents": [],
-              "lang": "en-us",
-              "alternate_languages": [],
-              "data": {
-                "footer_title": "Swiss Gastro Solutions.",
-                "newsletter_title": "Subscribe for the latest DGM news and offers.",
-                "newsletter_button_text": "Join us",
-                "links": [{
+                  "image_right_mobile": {
+                    "dimensions": {
+                      "width": 3600,
+                      "height": 2094
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/home-built.webp?auto=format,compress",
+                    "id": "ZS6byvvZpFvOyBfQ",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  },
+                  "title_right": "Über diese.",
+                  "content_right": [{}],
+                  "image_center": {
+                    "dimensions": {
+                      "width": 2840,
+                      "height": 1760
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://ik.imagekit.io/dgmbyrekazi/d/home/bishier.webp?auto=format,compress",
+                    "id": "ZSVI__vZpFvOyBD5",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  },
+                  "video_center": {},
+                  "title_center": "Bis hier.",
+                  "content_center": [{}]
+                },
+                "id": "on_off_grid_images_reveal$d167f051-943c-4685-8250-8540087d395c",
+                "slice_type": "on_off_grid_images_reveal",
+                "slice_label": null
+              }, {
+                "variation": "default",
+                "version": "initial",
+                "items": [{}],
+                "primary": {
+                  "text_alignment": "center",
+                  "background_color": "Black",
+                  "content": [{
+                    "type": "paragraph",
+                    "text": "Das ist",
+                    "spans": [],
+                    "direction": "ltr"
+                  }, {
+                    "type": "paragraph",
+                    "text": "unserer",
+                    "spans": [],
+                    "direction": "ltr"
+                  }, {
+                    "type": "paragraph",
+                    "text": "Arbeit.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }],
+                  "add_separator": false,
+                  "add_anchor": false,
+                  "anchor_name": null,
+                  "small_spacings": false
+                },
+                "id": "simple_content$b00e63bb-0c93-45cd-b39f-4472f796bdff",
+                "slice_type": "simple_content",
+                "slice_label": null
+              }, {
+                "variation": "default",
+                "version": "initial",
+                "items": [{}],
+                "primary": {
+                  "background_image": {
+                    "dimensions": {
+                      "width": 3045,
+                      "height": 1786
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://dgm-cdn.gumlet.io/services/7hero_d_bg.webp?auto=format,compress&sat=-100",
+                    "id": "ZSlKLPvZpFvOyBWh",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  },
+                  "foreground_image": {
+                    "dimensions": {
+                      "width": 3045,
+                      "height": 1786
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://dgm-cdn.gumlet.io/services/7hero_d_fg.webp?auto=format,compress&sat=-100",
+                    "id": "ZSlJ0_vZpFvOyBWg",
+                    "edit": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 1,
+                      "background": "transparent"
+                    }
+                  },
+                  "suptitle": "Up next...",
                   "title": "services",
-                  "link": {
+                  "button_title": "Learn more",
+                  "button": {
                     "id": "ZNopgxAAACgAsCxa",
                     "type": "page",
                     "tags": [],
                     "lang": "en-us",
-                    "slug": "green",
+                    "slug": "services",
                     "first_publication_date": "2023-08-14T13:17:58+0000",
                     "last_publication_date": "2024-07-31T00:35:59+0000",
-                    "uid": "services",
+                    "uid": "pebble-flow",
                     "url": "/services",
                     "link_type": "Document",
                     "isBroken": false
-                  }
-                }, {
-                  "title": "products",
-                  "link": {
-                    "id": "ZNopaxAAACcAsCve",
-                    "type": "page",
+                  },
+                  "secondary_button_text": "Contact us",
+                  "secondary_button": {
+                    "id": "ZRp6xREAAAqLhCtE",
+                    "type": "preorder",
                     "tags": [],
                     "lang": "en-us",
-                    "slug": "adventureinspiredapp-driven.",
-                    "first_publication_date": "2023-08-14T13:17:34+0000",
-                    "last_publication_date": "2023-10-24T08:58:10+0000",
-                    "uid": "products",
-                    "url": "/products",
+                    "slug": "pre-order",
+                    "first_publication_date": "2023-10-02T08:09:43+0000",
+                    "last_publication_date": "2024-08-06T17:11:32+0000",
                     "link_type": "Document",
                     "isBroken": false
-                  }
-                }, {
-                  "title": "about",
-                  "link": {
-                    "id": "ZNSYbBAAACcAl6gs",
-                    "type": "page",
-                    "tags": [],
-                    "lang": "en-us",
-                    "slug": "our-team",
-                    "first_publication_date": "2023-08-10T07:57:35+0000",
-                    "last_publication_date": "2024-09-04T00:29:21+0000",
-                    "uid": "about",
-                    "url": "/about",
-                    "link_type": "Document",
-                    "isBroken": false
-                  }
-                }],
-                "social_networks": [{
-                  "title": "Instagram",
-                  "link": {
-                    "link_type": "Web",
-                    "url": "https://www.instagram.com/d-g-m_/",
-                    "target": "_blank"
-                  }
-                }, {
-                  "title": "Facebook",
-                  "link": {
-                    "link_type": "Web",
-                    "url": "https://www.facebook.com/d-g-m_/",
-                    "target": "_blank"
-                  }
-                }, {
-                  "title": "Linkedin",
-                  "link": {
-                    "link_type": "Web",
-                    "url": "https://www.linkedin.com/company/d-g-m_/",
-                    "target": "_blank"
-                  }
-                }],
-                "footer_bottom_links": [{
-                  "title": "Impressum",
-                  "link": {
-                    "id": "ZNopGRAAACkAsCpb",
-                    "type": "page",
-                    "tags": [],
-                    "lang": "en-us",
-                    "slug": "-",
-                    "first_publication_date": "2023-08-14T13:16:12+0000",
-                    "last_publication_date": "2023-10-19T07:31:29+0000",
-                    "uid": "impressum",
-                    "url": "/",
-                    "link_type": "Document",
-                    "isBroken": false
-                  }
-                }, {
-                  "title": "Site by Matthew Herren",
-                  "link": {
-                    "link_type": "Web",
-                    "url": "https://www.facebook.com/matthew.herren",
-                    "target": "_blank"
-                  }
-                }]
+                  },
+                  "bottom_text": "Swiss gastro solutions."
+                },
+                "id": "pre_footer$48e00a78-ad53-4e64-94f1-e73f55c6d5b3",
+                "slice_type": "pre_footer",
+                "slice_label": null
+              }],
+              "meta_title": "DGM | Swiss Gastro Solutions",
+              "meta_description": "Swiss Gastro Solutions",
+              "meta_image": {
+                "dimensions": {
+                  "width": 2400,
+                  "height": 1260
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://dgm-cdn.gumlet.io/services/hero_m_bg.jpg?auto=format,compress&sat=-100",
+                "id": "ZS3XxPvZpFvOyBdU",
+                "edit": {
+                  "x": 0,
+                  "y": 276,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
               }
             }
           },
+          "footer": {
+            "id": "ZNoo_xAAACYAsCm_",
+            "uid": null,
+            "url": null,
+            "type": "footer",
+            "href": "https://dgm.cdn.rekazi.com/api/v2/documents/search?ref=Zyz7qREAAB4AKn0G\u0026q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNoo_xAAACYAsCm_%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-08-14T13:15:46+0000",
+            "last_publication_date": "2023-10-23T17:56:02+0000",
+            "slugs": [],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+              "footer_title": "Swiss Gastro Solutions.",
+              "newsletter_title": "Subscribe for the latest DGM news and offers.",
+              "newsletter_button_text": "Join us",
+              "links": [{
+                "title": "services",
+                "link": {
+                  "id": "ZNopgxAAACgAsCxa",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "green",
+                  "first_publication_date": "2023-08-14T13:17:58+0000",
+                  "last_publication_date": "2024-07-31T00:35:59+0000",
+                  "uid": "services",
+                  "url": "/services",
+                  "link_type": "Document",
+                  "isBroken": false
+                }
+              }, {
+                "title": "products",
+                "link": {
+                  "id": "ZNopaxAAACcAsCve",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "adventureinspiredapp-driven.",
+                  "first_publication_date": "2023-08-14T13:17:34+0000",
+                  "last_publication_date": "2023-10-24T08:58:10+0000",
+                  "uid": "products",
+                  "url": "/products",
+                  "link_type": "Document",
+                  "isBroken": false
+                }
+              }, {
+                "title": "about",
+                "link": {
+                  "id": "ZNSYbBAAACcAl6gs",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "our-team",
+                  "first_publication_date": "2023-08-10T07:57:35+0000",
+                  "last_publication_date": "2024-09-04T00:29:21+0000",
+                  "uid": "about",
+                  "url": "/about",
+                  "link_type": "Document",
+                  "isBroken": false
+                }
+              }],
+              "social_networks": [{
+                "title": "Instagram",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.instagram.com/d-g-m_/",
+                  "target": "_blank"
+                }
+              }, {
+                "title": "Facebook",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.facebook.com/d-g-m_/",
+                  "target": "_blank"
+                }
+              }, {
+                "title": "Linkedin",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.linkedin.com/company/d-g-m_/",
+                  "target": "_blank"
+                }
+              }],
+              "footer_bottom_links": [{
+                "title": "Impressum",
+                "link": {
+                  "id": "ZNopGRAAACkAsCpb",
+                  "type": "page",
+                  "tags": [],
+                  "lang": "en-us",
+                  "slug": "-",
+                  "first_publication_date": "2023-08-14T13:16:12+0000",
+                  "last_publication_date": "2023-10-19T07:31:29+0000",
+                  "uid": "impressum",
+                  "url": "/",
+                  "link_type": "Document",
+                  "isBroken": false
+                }
+              }, {
+                "title": "Site by Matthew Herren",
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://www.facebook.com/matthew.herren",
+                  "target": "_blank"
+                }
+              }]
+            }
+          }
+        },
   "__N_SSG": true
 }
